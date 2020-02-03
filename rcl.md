@@ -10,7 +10,7 @@ The RCL Lab works closely with Intuitive to perform groundbreaking research with
 <img src="/images/arms.jpg" alt="Mounted MTMs"
 	width="360" height="500" />
 
-I then began reverse-engineering the MTM wrist yaw link, and modified mechanically and electrically it to integrate a 6-axis ATI Nano43 force/torque sensor without changing the kinematics of the robot. This involved complex CAD modelling and a variety of manufacturing processes as we went through a number of prototypes, trying to fine-tune the rigidity, weight and tolerances to minimize impact on friction, flexing, and inertia, and thus the robot dynamics and operator feel.
+I then began reverse-engineering the MTM wrist yaw link, and modified it mechanically and electrically to integrate a 6-axis ATI Nano43 force/torque sensor without changing the kinematics of the robot. This involved complex CAD modelling and a variety of manufacturing processes as we went through a number of prototypes, trying to fine-tune the rigidity, weight and tolerances to minimize impact on friction, flexing, and inertia, and thus the robot dynamics and operator feel.
 
 ##### One idea in CAD
 <img src="/images/cad.png" alt="MTM CAD"
