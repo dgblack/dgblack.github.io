@@ -43,8 +43,6 @@ University of British Columbia, Vanvouer, Canada
 Bachelor of Applied Science in Engineering Physics
 
 # Publications
-Title | Journal/Conference | Status
-------|--------------------|--------
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * Robotics and Automation Letters and International Conference on Robotics and Automation 2020
   * Accepted
@@ -62,4 +60,4 @@ Title | Journal/Conference | Status
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
 
 # Other
-
+Avid backcountry skier, rock climber, mountaineer
