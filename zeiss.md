@@ -5,6 +5,8 @@ I did a 4-month coop in the Advanced Development department at Carl Zeiss Medite
 
 Unfortunately, I cannot give much detail or any pictures here as the work is classified. During my internship, I presented my work on multiple occasions to a panel of neurosurgeons, to the physicists and engineers of the Advanced Development department, and to company leadership. I travelled to Münster twice for meetings and to modify a device we were performing research with. I was also flown to Oberkochen for a week in February 2019 to wrap up some work and discuss next steps. 
 
+I have been invited to come back and work for Zeiss at any time.
+
 #### Publications
 At the end of the co-op, I wrote a ~50 page report outlining our findings, remaining questions, next steps, and usage instructions so future people can continue the project. I also left almost 300 pages of documentation, notes, and logs from experiments. Finally, I was involved in a few publications from the project. For these publications, I helped design and build the measurement device, as well as write all the analysis software and analyse multiple terabytes of data. 
 
@@ -21,5 +23,3 @@ At the end of the co-op, I wrote a ~50 page report outlining our findings, remai
   * German Neurosurgery Society 2020
   * Submitted
   * [View Abstract](/files/Abstract_DGNC_Two_peak.pdf?=raw)
-
-I have been invited to come back and work for Zeiss at any time.
