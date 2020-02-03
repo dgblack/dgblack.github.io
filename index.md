@@ -39,7 +39,7 @@ September 2019 - April 2020
 
 # Education
 September 2016 - April 2021  
-University of British Columbia, Vanvouer, Canada  
+_University of British Columbia, Vanvouer, Canada_ 
 Bachelor of Applied Science in Engineering Physics
 
 # Publications
@@ -60,5 +60,5 @@ Bachelor of Applied Science in Engineering Physics
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
 
 # Other
-Avid backcountry skier, rock climber, mountaineer  
+Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventures)
 Fluent in German and English
