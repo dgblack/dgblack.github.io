@@ -33,3 +33,9 @@ Finally, I implemented a dynamics identification routine for the arm. This invol
 In parallel to this project, I wrote a communication and control system for a novel optical force sensor being designed by a PhD student at the lab. The sensor's design allows it to pick up nm deflections of the rod it is mounted on, and it runs at high speeds of 6.85MBaud with a 5kHz sampling rate. The sensor interfaces to a host computer using data packets sent over RS-485 to USB and PCIe, with Cyclic Redundancy Check error checking. I designed the host-PC side of this interaction using the Linux Comedi C++ libraries with a Python wrapper for low level control, and a GUI for real-time plotting and user sensor control.
 
 I also designed a control box to interface between the host Linux computer and the sensor. The design was made to be modular, and to allow easy reparations or modifications by ensuring one does not have to solder awkwardly inside the box. The design can be seen here: [Control Box Design](https://youtu.be/HjcpAAcEoUk)
+
+##### Screenshot of the User Interface
+![Sensor GUI](/images/gui.jpg)
+
+##### The Sensor with Control Box
+![Optical Force Sensor](/images/forcesensor.jpg)
