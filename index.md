@@ -22,4 +22,35 @@ September 2016 - December 2017
 September 2019 - April 2020  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
 
+# Skills
+*	C++, MATLAB, LaTeX, Python, Robot Operating System, Microsoft Office, da Vinci Research Kit (very familiar) 
+*	C, Java, Assembly Language (proficient)
+*	CAD (Solidworks, Onshape), FEA and CFD (ANSYS)
+*	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
+*	Rigid/flex PCB design using Altium
+*	Control systems, PID, teleoperation
+*	Real-time systems and communication through RS-485 and RS-232 serial to USB, PCIe
+*	Analog and digital circuit design, prototyping, and debugging
+*	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
+*	Mechanical design
+*	Robotics (mechanical design, kinematics, dynamics, controls)
+*	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
+
+# Education
+September 2016 - April 2021  
+University of British Columbia, Vanvouer, Canada  
+Bachelor of Applied Science in Engineering Physics
+
+# Publications
+Title | Journal/Conference | Status
+------|--------------------|--------
+6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System | Robotics and Automation Letters and International Conference on Robotics and Automation 2020 | Accepted
+FPGA-Based Optical Force Sensor: Design Architecture & Evaluation |	IEEE Conference on Robotic Computing | In Preparation
+Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma | German Neurosurgery Society 2020	| Submitted
+Differentiating solid and infiltrative component of malignant glioma with two-peak visualization of Protoporphyrin IX after 5-ALA administration | German Neurosurgery Society 2020	| Submitted
+Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas	| Journal of Neurosurgery	| Published (but not included as author because Zeiss did not want to publicize their involvement)
+
+# Other
+
+
 ##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
