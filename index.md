@@ -60,5 +60,5 @@ Bachelor of Applied Science in Engineering Physics
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
 
 # Other
-Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventures)
+Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventures))  
 Fluent in German and English
