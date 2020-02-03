@@ -60,4 +60,5 @@ Bachelor of Applied Science in Engineering Physics
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
 
 # Other
-Avid backcountry skier, rock climber, mountaineer
+Avid backcountry skier, rock climber, mountaineer  
+Fluent in German and English
