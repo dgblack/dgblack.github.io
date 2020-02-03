@@ -11,14 +11,14 @@ At the end of the co-op, I wrote a ~50 page report outlining our findings, remai
   * Journal of Neurosurgery, 2019
   * Published
   * I was supposed to be co-author on this paper, but Zeiss did not want to publicize their involvement at the time, so my name unfortunately had to be removed.
-  * "/files/fluorescenceKineticsPaper.pdf"
+  * [Download Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
 * Differentiating solid and infiltrative component of malignant glioma with two-peak visualization of Protoporphyrin IX after 5-ALA administration
   * German Neurosurgery Society 2020
   * Submitted
-  * "/files/Abstract_DGNC_LGG_spectral"
+  * [Download Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
 * Real-time kinetics of Protoporphyrin-IX after 5-ALA administration in Low Grade Glioma
   * German Neurosurgery Society 2020
   * Submitted
-  * "/files/Abstract_DGNC_Two_peak.pdf"
+  * [Download Abstract](/files/Abstract_DGNC_Two_peak.pdf?=raw)
 
 I have been invited to come back and work for Zeiss at any time.
