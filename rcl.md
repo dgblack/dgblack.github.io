@@ -6,9 +6,9 @@ I did an 8 month internship in Dr. Tim Salcudean’s lab at the University of Br
 The RCL Lab works closely with Intuitive to perform groundbreaking research with the da Vinci Robot. As such, we were given two master manipulators. I first designed and built a simple frame to mount the two arms (Master Tool Manipulaters, i.e. MTMs):
 
 <img src="/images/frame.jpg" alt="MTM Frame"
-	width="400" height="525" />
+	width="400" height="500" />
 <img src="/images/arms.jpg" alt="Mounted MTMs"
-	width="400" height="550" />
+	width="360" height="500" />
 
 I then began reverse-engineering the MTM wrist yaw link, and modified mechanically and electrically it to integrate a 6-axis ATI Nano43 force/torque sensor without changing the kinematics of the robot. This involved complex CAD modelling and a variety of manufacturing processes as we went through a number of prototypes, trying to fine-tune the rigidity, weight and tolerances to minimize impact on friction, flexing, and inertia, and thus the robot dynamics and operator feel.
 
