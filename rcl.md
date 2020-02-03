@@ -17,7 +17,7 @@ I then began reverse-engineering the MTM wrist yaw link, and modified it mechani
 	width="400" height="350" />
 
 ##### Result of attempting to waterjet cut the part
-<video src="/images/VID_20190702_081911.mp4" poster="/images/waterjet.png" width="320" height="200" controls preload></video>
+<video src="/images/VID_20190702_081911.mp4?raw=true" poster="/images/waterjet.png" width="320" height="200" controls preload></video>
 
 ##### The final part, with electrical modifications
 <img src="/images/wristOpen.jpg" alt="MTM Wrist Open"
