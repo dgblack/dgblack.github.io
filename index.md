@@ -3,23 +3,23 @@ My name is David Black. I am a 4th-year undergraduate student in Engineering Phy
 Below is a list of my experiences, education, etc.
 
 # Work Experience
-January 2018-April 2019\
+January 2018-April 2019  
 [Carl Zeiss Meditec AG Advanced Development Internship](https://dgblack.github.io/portfolio/zeiss)
 
-May - December 2019\
+May - December 2019  
 [UBC Robotics and Control Lab Internship](https://dgblack.github.io/portfolio/rcl)
 
-September 2011 - April 2017\
+September 2011 - April 2017  
 BC Soccer Referee
 
-April - September 2016\
+April - September 2016  
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-September 2016 - December 2017\
+September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
-September 2019 - April 2020\
+September 2019 - April 2020  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
 
 ##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
