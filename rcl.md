@@ -30,4 +30,10 @@ I then began reverse-engineering the MTM wrist yaw link, and modified it mechani
 <img src="/images/wrist.jpg" alt="MTM Wrist Yaw Link"
 	width="400" height="550" />
 
-Once the mechanical and electrical design and fabrication were complete, I integrated the force sensor and modified wrist into the teleoperation system of the da Vinci robot. I also implemented a few example applications that are described in the paper above. This involved programming in C++ and Python with ROS, da Vinci Research Kit, and CISST/SAW.
+Once the mechanical and electrical design and fabrication were complete, I integrated the force sensor and modified wrist into the teleoperation system of the da Vinci robot. I also implemented a few example applications that are described in the paper above. This involved programming in C++ and Python with ROS, da Vinci Research Kit, and the CISST/SAW architecture.
+
+Finally, I implemented a dynamics identification routine for the arm. This involved developing a physical model of the mixed serial and parallel manipulator, then creating an optimal trajectory for the arm to move through that most excites the dynamics. By giving torque commands and recording the resultant joint velocities, the data could be fitted to the physical model using a convex optimization algorithm to obtain the dynamic parameters (inertia, damping, friction, etc.) of each joint. Using this method, we found that the addition of the force sensor only marginally increased the inertia of the wrist yaw link.
+
+In parallel to this project, I wrote a communication and control system for a novel optical force sensor being designed by a PhD student at the lab. The sensor's design allows it to pick up nm deflections of the rod it is mounted on, and it runs at high speeds of 6.85MBaud with a 5kHz sampling rate. The sensor interfaces to a host computer using data packets sent over RS-485 to USB and PCIe, with Cyclic Redundancy Check error checking. I designed the host-PC side of this interaction using the Linux Comedi C++ libraries with a Python wrapper for low level control, and a GUI for real-time plotting and user sensor control.
+
+
