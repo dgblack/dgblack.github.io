@@ -24,9 +24,10 @@ I then began reverse-engineering the MTM wrist yaw link, and modified it mechani
 ##### Result of attempting to waterjet cut the part
 <video src="/images/VID_20190702_081911.mp4?raw=true" poster="/images/waterjet.png" width="320" height="200" controls preload></video>
 
-##### The final part, with electrical modifications
+##### The final 3D-printed part, with electrical modifications
 <img src="/images/wristOpen.jpg" alt="MTM Wrist Open"
 	width="400" height="550" />
 <img src="/images/wrist.jpg" alt="MTM Wrist Yaw Link"
 	width="400" height="550" />
 
+Once the mechanical and electrical design and fabrication were complete, I integrated the force sensor and modified wrist into the teleoperation system of the da Vinci robot. I also implemented a few example applications that are described in the paper above. This involved programming in C++ and Python with ROS, da Vinci Research Kit, and CISST/SAW.
