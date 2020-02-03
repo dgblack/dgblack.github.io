@@ -21,3 +21,5 @@ September 2016 - December 2017\
 
 September 2019 - April 2020\
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
+
+##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
