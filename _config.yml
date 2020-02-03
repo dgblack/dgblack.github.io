@@ -1,1 +1,11 @@
+title: David Black # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Engineering Portfolio including projects, coursework, job experience 
+  <br><br>
+  Engineering Physics Student at the University of British Columbia 
+  <br><br>
+  <a href="https://www.linkedin.com/in/davidgblack/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-tactile
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
