@@ -6,7 +6,7 @@ I did an 8 month internship in Dr. Tim Salcudean’s lab at the University of Br
 The RCL Lab works closely with Intuitive to perform groundbreaking research with the da Vinci Robot. As such, we were given two master manipulators. I first designed and built a simple frame to mount the two arms (Master Tool Manipulaters, i.e. MTMs):
 
 <img src="/images/frame.jpg" alt="MTM Frame"
-	width="400" height="550" />
+	width="400" height="525" />
 <img src="/images/arms.jpg" alt="Mounted MTMs"
 	width="400" height="550" />
 
@@ -14,7 +14,7 @@ I then began reverse-engineering the MTM wrist yaw link, and modified mechanical
 
 ##### One idea in CAD
 <img src="/images/cad.png" alt="MTM CAD"
-	width="400" height="400" />
+	width="400" height="350" />
 
 ##### Result of attempting to waterjet cut the part
 <video src="/images/VID_20190702_081911.mp4" poster="/images/waterjet.png" width="320" height="200" controls preload></video>
