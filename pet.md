@@ -4,5 +4,5 @@ For my first capstone project (engineering physics' analogue to a thesis project
 
 To achieve anatomical accuracy, it was important to consider the material attenuation coefficients to match human soft tissue, lung, and bone under x-ray and gamma radiation. We designed a set of flexible, inflatable, anatomically realistic lungs by molding a liquid silicone elastomer onto 3D printed lungs obtained from a CT scan. These lungs are positioned inside a realistic ribcage and torso shell, and actuated using a rubber diaphragm membrane and linear actuator.
 
-[Phantom](/images/phantomInBox.jpg)
-[Phantom](/images/basePlateAssem.jpg)
+![Phantom](/images/phantomInBox.jpg)
+![Phantom](/images/basePlateAssem.jpg)
