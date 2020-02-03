@@ -6,4 +6,11 @@ In this intensive course we were given 6 weeks to build an autonomous robot that
 [Team Website](https://scooter2018enph.wordpress.com/)
 
 ![Robot Overview](/images/enph253robot.jpg)
-Format: ![Alt Text](url)
+
+![Robot Birds-Eye View](/images/enph253robot1.jpg)
+
+![Robot Basket Lift](/images/enph253robot2.jpg)
+
+![Robot Lift Mechanism](/images/enph253robot3.jpg)
+
+![Robot Base](/images/enph253robot4.jpg)
