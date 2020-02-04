@@ -25,7 +25,7 @@ We tried waterjet cutting the part. The result can be seen [here](https://youtu.
 ![MTM Wrist Yaw Link](/images/wrist.jpg)
 
 ##### The electrical design included creating a flexible PCB to connect to the finger grips
-![Flexible PCB](/images/pcb.jpg)
+![Flexible PCB](/images/pcb.png)
 
 Once the mechanical and electrical design and fabrication were complete, I integrated the force sensor and modified wrist into the teleoperation system of the da Vinci robot. I also implemented a few example applications that are described in the paper above. This involved programming in C++ and Python with ROS, da Vinci Research Kit, and the CISST/SAW architecture.
 
