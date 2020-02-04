@@ -62,7 +62,7 @@
 * APSC 310 - Co-operative Work Placement
 * ELEC 341 - Systems and Control
 * ENPH 459 - Engineering Physics Project II
- * Engineering Physics Capstone. See details [here](https://dgblack.github.io/portfolio/pet)
+  * Engineering Physics Capstone (See details [here](https://dgblack.github.io/portfolio/pet))
 * MATH 318 - Probability with Physical Applications
 * MATH 400 - Applied Partial Differential Equations
 * PHYS 401 - Electromagnetic Theory
