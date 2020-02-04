@@ -40,7 +40,8 @@ September 2019 - April 2020
 # Education
 September 2016 - April 2021  
 _University of British Columbia, Vanvouer, Canada_  
-Bachelor of Applied Science in Engineering Physics
+Bachelor of Applied Science in Engineering Physics  
+See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
