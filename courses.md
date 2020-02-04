@@ -1,5 +1,7 @@
 # Courses
 
+For a full transcript with marks and class averages, please [contact me](mailto:dgblack@ece.ubc.ca).
+
 ### AP Transfer Credits
 * Biology 1st
   * First year level biology
