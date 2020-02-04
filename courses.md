@@ -38,4 +38,31 @@
 * MATH 257 - Partial Differential Equations
 * PHYS 250 - Introduction to Modern Physics
 * ENPH 253 - Introduction to Instrument Design
-  * Engineering Physics Robot Course (see details [here](https://dgblack.github.io/portfolio/robotCourse)
+  * Engineering Physics Robot Course (see details [here](https://dgblack.github.io/portfolio/robotCourse))
+
+### Third Year
+* MATH 220 - Mathematical Proof
+* MECH 325 - Mechanical Design I
+* MECH 360 - Mechanics of Materials
+* PHYS 301 - Electricity and Magnetism
+* PHYS 304 - Introduction to Quantum Mechanics
+* APSC 278 - Engineering Materials
+* APSC 279 - Engineering Materials Laboratory
+* CPEN 312 - Digital Systems and Microcomputers
+ * Microcomputers, VHDL, FPGA, and Assembly programming
+* CPSC 221 - Basic Algorithms and Data Structures
+ * Algorithms and data structures in C++
+* MATH 305 - Applied Complex Analysis
+* MATH 307 - Applied Linear Algebra
+* MECH 280 - Introduction to Fluid Mechanics
+* PHYS 350 - Applications of Classical Mechanics
+
+### Fourth Year
+* APSC 210 - Co-operative Work Placement
+* APSC 310 - Co-operative Work Placement
+* ELEC 341 - Systems and Control
+* ENPH 459 - Engineering Physics Project II
+ * Engineering Physics Capstone. See details [here](https://dgblack.github.io/portfolio/pet)
+* MATH 318 - Probability with Physical Applications
+* MATH 400 - Applied Partial Differential Equations
+* PHYS 401 - Electromagnetic Theory
