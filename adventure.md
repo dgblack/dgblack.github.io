@@ -21,8 +21,6 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Climbing](/images/adventure/climb12.jpg)
 ![Mountaineering](/images/adventure/mtn1.jpg)
 ![Mountaineering](/images/adventure/mtn2.jpg)
-![Climbing](/images/adventure/climb13.jpg)
-![Climbing](/images/adventure/climb14.jpg)
 ![Mountaineering](/images/adventure/mtn3.jpg)
 ##### Nearing the summit of Mt. Hood, Oregon
 ![Mountaineering](/images/adventure/mtn4.jpg)
