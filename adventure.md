@@ -3,7 +3,7 @@
 Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then canyoning, then skiing, and finally running.
 
 ### Rock Climbing and Mountaineering
-![Climbing](\images\adventure\climb1.jpg)
+![Climbing](\images\adventure\climb1.jpg?=raw)
 ![Climbing](\images\adventure\climb2.jpg)
 ![Climbing](\images\adventure\climb3.jpg)
 ![Climbing](\images\adventure\climb4.jpg)
