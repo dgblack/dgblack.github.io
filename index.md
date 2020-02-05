@@ -48,6 +48,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Robotics and Automation Letters and International Conference on Robotics and Automation 2020
   * Accepted
   * [View Paper](/files/ICRA_Paper.pdf)
+  * Or on the [IEEE website](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/document/8978737)
 * FPGA-Based Optical Force Sensor: Design Architecture & Evaluation
   * IEEE Conference on Robotic Computing
   * In Preparation
