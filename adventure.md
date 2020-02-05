@@ -39,7 +39,7 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ### Skiing
 ![Skiing](/images/adventure/ski1.jpg)
 ![Skiing](/images/adventure/ski2.jpg)
-![Skiing](/images/adventure/ski3.jpg)
+![Skiing](/images/adventure/ski3.png)
 ![Skiing](/images/adventure/ski4.jpg)
 ##### Skiing off the summit of Mt. Garibaldi
 ![Skiing](/images/adventure/ski5.jpg)
@@ -53,7 +53,7 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Skiing](/images/adventure/ski12.jpg)
 ##### Skiing off the summit of Mt. St. Helens
 ![Skiing](/images/adventure/ski13.jpg)
-![Skiing](/images/adventure/ski14.jpg)
+![Skiing](/images/adventure/ski14.JPG)
 
 ### Trial/Ultra-Running
 ##### A 5-hour Howe Sound Crest Trail Run
