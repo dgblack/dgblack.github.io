@@ -66,5 +66,5 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
 
 # Other
-Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventures))  
+Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
 Fluent in German and English
