@@ -48,9 +48,9 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Robotics and Automation Letters and International Conference on Robotics and Automation 2020
   * Accepted
   * [View Paper](/files/ICRA_Paper.pdf)
-  * Or on the [IEEE website](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/document/8978737)
-* FPGA-Based Optical Force Sensor: Design Architecture & Evaluation
-  * IEEE Conference on Robotic Computing
+  * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
+* Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
+  * IEEE Transactions on Industrial Electronics
   * In Preparation
 * Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
   * German Neurosurgery Society 2020
