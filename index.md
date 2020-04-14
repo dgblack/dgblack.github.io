@@ -51,7 +51,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics
-  * In Preparation
+  * Submitted
 * Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
   * German Neurosurgery Society 2020
   * Submitted
