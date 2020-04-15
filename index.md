@@ -17,11 +17,11 @@ April - September 2016
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-September 2016 - December 2017  
-[UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
-
 September 2019 - April 2020  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
+
+September 2016 - December 2017  
+[UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
 # Skills
 *	C++, MATLAB, LaTeX, Python, Robot Operating System, Microsoft Office, da Vinci Research Kit (very familiar) 
