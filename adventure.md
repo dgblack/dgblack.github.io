@@ -37,6 +37,10 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Canyoneering](/images/adventure/canyon8.jpg)
 
 ### Skiing
+#### Transitioning by the summit of Mt. Matier
+![Skiing](/images/adventure/ski10.jpg)
+#### Neve Traverse in a day
+![Skiing](/images/adventure/ski11.jpg)
 ![Skiing](/images/adventure/ski1.jpg)
 ![Skiing](/images/adventure/ski2.jpg)
 ![Skiing](/images/adventure/ski3.png)
