@@ -56,6 +56,13 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * International Conference on Robotics and Automation 2020 presentation
   * Accepted
   * [View Paper](/files/ICRA_Paper.pdf)
+* Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
+  * German Neurosurgery Society 2020
+  * Accepted
+  * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
+* Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
+  * Neurosurgery, 2020
+  * Under Review
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics, 2020
   * Under review
@@ -69,21 +76,10 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part II Deformable Lungs and Imaging Characterisation
   * IEEE Transactions on Medical Imaging 2020/21?
   * In preparation
-* Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
-  * German Neurosurgery Society 2020
-  * Accepted
-  * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
-* Differentiating solid and infiltrative component of malignant glioma with two-peak visualization of Protoporphyrin IX after 5-ALA administration
-  * German Neurosurgery Society 2020
-  * Submitted
-  * [View Abstract](/files/Abstract_DGNC_Two_peak.pdf?=raw)
 * Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
   * Neurosurgery, 2019
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
-* Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
-  * Neurosurgery, 2020
-  * Under Review
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
