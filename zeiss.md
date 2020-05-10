@@ -11,15 +11,14 @@ I have been invited to come back and work for Zeiss at any time.
 At the end of the co-op, I wrote a ~50 page report outlining our findings, remaining questions, next steps, and usage instructions so future people can continue the project. I also left almost 300 pages of documentation, notes, and logs from experiments. Finally, I was involved in a few publications from the project. For these publications, I helped design and build the measurement device, as well as write all the analysis software and analyse multiple terabytes of data. 
 
 * Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
-  * Journal of Neurosurgery, 2019
+  * Neurosurgery, 2019
   * Published
   * I was supposed to be co-author on this paper, but Zeiss did not want to publicize their involvement at the time, so my name unfortunately had to be removed.
   * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
-* Differentiating solid and infiltrative component of malignant glioma with two-peak visualization of Protoporphyrin IX after 5-ALA administration
-  * German Neurosurgery Society 2020
-  * Submitted
-  * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
 * Real-time kinetics of Protoporphyrin-IX after 5-ALA administration in Low Grade Glioma
   * German Neurosurgery Society 2020
-  * Submitted
+  * Accepted
   * [View Abstract](/files/Abstract_DGNC_Two_peak.pdf?=raw)
+* Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
+  * Neurosurgery, 2020
+  * Under Review
