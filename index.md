@@ -4,6 +4,9 @@ Additionally, I am an avid skier, climber, and canyoneer (View some highlights [
 ##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
 
 # Work Experience
+May - September 2020
+Robotics Engineer Co-op at A&K Robotics
+
 May - December 2019  
 [UBC Robotics and Control Lab Internship](https://dgblack.github.io/portfolio/rcl)
 
@@ -45,25 +48,42 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
-  * Robotics and Automation Letters and International Conference on Robotics and Automation 2020
+  * Robotics and Automation Letters 2020
   * Accepted
   * [View Paper](/files/ICRA_Paper.pdf)
   * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
+* 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
+  * International Conference on Robotics and Automation 2020 presentation
+  * Accepted
+  * [View Paper](/files/ICRA_Paper.pdf)
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
-  * IEEE Transactions on Industrial Electronics
-  * Submitted
+  * IEEE Transactions on Industrial Electronics, 2020
+  * Under review
+* Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
+  * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
+  * Under Review
+  * See abstract [here](/files/AAPM-COMP_abstract.pdf)
+* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part I Repiratory Motion Mechanism
+  * IEEE Transactions on Medical Imaging 2020
+  * In preparation
+* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part II Deformable Lungs and Imaging Characterisation
+  * IEEE Transactions on Medical Imaging 2020/21?
+  * In preparation
 * Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
   * German Neurosurgery Society 2020
-  * Submitted
+  * Accepted
   * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
 * Differentiating solid and infiltrative component of malignant glioma with two-peak visualization of Protoporphyrin IX after 5-ALA administration
   * German Neurosurgery Society 2020
   * Submitted
   * [View Abstract](/files/Abstract_DGNC_Two_peak.pdf?=raw)
 * Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
-  * Journal of Neurosurgery
+  * Neurosurgery, 2019
   * Published (but not included as author because Zeiss did not want to publicize their involvement)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
+* Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
+  * Neurosurgery, 2020
+  * Under Review
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
