@@ -4,7 +4,7 @@ Additionally, I am an avid skier, climber, and canyoneer (View some highlights [
 ##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
 
 # Work Experience
-May - September 2020\
+May - September 2020  
 Robotics Engineer Co-op at A&K Robotics
 
 May - December 2019  
