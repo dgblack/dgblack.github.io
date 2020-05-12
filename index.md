@@ -68,7 +68,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Under review
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
-  * Under Review
+  * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part I Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
