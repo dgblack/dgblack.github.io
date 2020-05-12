@@ -60,16 +60,16 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * German Neurosurgery Society 2020
   * Accepted
   * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
+* Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
+  * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
+  * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
+  * See abstract [here](/files/AAPM-COMP_abstract.pdf)
 * Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
   * Neurosurgery, 2020
   * Under Review
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics, 2020
   * Under review
-* Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
-  * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
-  * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
-  * See abstract [here](/files/AAPM-COMP_abstract.pdf)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part I Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
   * In preparation
