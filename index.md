@@ -29,7 +29,7 @@ September 2016 - December 2017
 # Skills
 *	C++, MATLAB, LaTeX, Python, Robot Operating System, Microsoft Office, da Vinci Research Kit (very familiar) 
 *	C, Java, Assembly Language (proficient)
-*	CAD (Solidworks, Onshape), FEA and CFD (ANSYS)
+*	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
 *	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
 *	Rigid/flex PCB design using Altium
 *	Control systems, PID, teleoperation
