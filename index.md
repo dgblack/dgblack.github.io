@@ -39,6 +39,7 @@ September 2016 - December 2017
 *	Mechanical design
 *	Robotics (mechanical design, kinematics, dynamics, controls)
 *	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
+* Physics, mathematical modeling, optimization
 
 # Education
 September 2016 - April 2021  
@@ -55,7 +56,9 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * International Conference on Robotics and Automation 2020 presentation
   * Accepted
-  * [View Paper](/files/ICRA_Paper.pdf)
+  * [View Abstract](https://ieeexplore.ieee.org/abstract/document/8978737)
+  * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
+  * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
 * Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
   * German Neurosurgery Society 2020
   * Accepted
