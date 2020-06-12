@@ -66,6 +66,11 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * German Neurosurgery Society 2020
   * Accepted
   * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
+  * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
+* Differentiating Solid and Infiltrative Component of Malignant Glioma with Two-Peak Visualization of Protoporphyrin-IX after 5-ALA Administration
+  * German Neurosurgery Society 2020
+  * Submitted
+  * [View Abstract](files/Abstract_DGNC_Two_peak.pdf)
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
