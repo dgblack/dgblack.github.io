@@ -51,9 +51,6 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Skiing](/images/adventure/ski7.jpg)
 ![Skiing](/images/adventure/ski8.jpg)
 ![Skiing](/images/adventure/ski9.jpg)
-##### Dropping into the Northwest Face of Mt. Fissile
-![Skiing](/images/adventure/ski10.jpg)
-![Skiing](/images/adventure/ski11.jpg)
 ![Skiing](/images/adventure/ski12.jpg)
 ##### Skiing off the summit of Mt. St. Helens
 ![Skiing](/images/adventure/ski13.jpg)
