@@ -62,9 +62,24 @@ For a full transcript with marks and class averages, please [contact me](mailto:
 ### Fourth Year
 * APSC 210 - Co-operative Work Placement
 * APSC 310 - Co-operative Work Placement
+* APSC 410 - Co-operative Work Placement
 * ELEC 341 - Systems and Control
 * ENPH 459 - Engineering Physics Project II
   * Engineering Physics Capstone (See details [here](https://dgblack.github.io/portfolio/pet))
 * MATH 318 - Probability with Physical Applications
 * MATH 400 - Applied Partial Differential Equations
 * PHYS 401 - Electromagnetic Theory
+* PHYS 473 - Applied Nuclear Physics
+* MECH 431 - Engineering Economics
+
+### Fifth Year
+* APSC 450 - Professional Engineering Practice
+* CPSC 340 - Machine Learning and Data Mining
+* CPSC 406 - Computational Optimization
+* CPEN 311 - Digital Systems Design
+* MATH 406 - Variational and Approximate Methods in Applied Mathematics
+* PHYS 408 - Optics
+* PHYS 403 - Statistical Mechanics
+* ENPH 479 - Engineering Physics Project III
+* ENPH 352 - Laboratory Techniques in Physics
+* ELEC 301 - Advanced Electronic Circuits
