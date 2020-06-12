@@ -20,8 +20,11 @@ April - September 2016
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-September 2019 - April 2020  
+September 2019 - Present  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
+
+October 2019 - Present
+Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany
 
 September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
