@@ -65,7 +65,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
   * German Neurosurgery Society 2020
   * Accepted
-  * [View Abstract](/files/Abstract_DGNC_LGG_spectral?=raw)
+  * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
