@@ -67,10 +67,11 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Accepted
   * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
   * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
-* Differentiating Solid and Infiltrative Component of Malignant Glioma with Two-Peak Visualization of Protoporphyrin-IX after 5-ALA Administration
-  * German Neurosurgery Society 2020
-  * Submitted
-  * [View Abstract](files/Abstract_DGNC_Two_peak.pdf)
+* Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
+  * Neurosurgery, 2019
+  * Published
+  * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
+  * [View Authorship Letter](/files/AuthorshipConfirmation.pdf)
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
@@ -81,16 +82,15 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics, 2020
   * Under review
+* 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
+  * Neurosurgery
+  * In preparation
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part I Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
   * In preparation
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part II Deformable Lungs and Imaging Characterisation
   * IEEE Transactions on Medical Imaging 2020/21?
   * In preparation
-* Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
-  * Neurosurgery, 2019
-  * Published (but not included as author because Zeiss did not want to publicize their involvement)
-  * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
