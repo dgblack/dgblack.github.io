@@ -15,6 +15,7 @@ At the end of the co-op, I wrote a ~50 page report outlining our findings, remai
   * Published
   * I was supposed to be co-author on this paper, but Zeiss did not want to publicize their involvement at the time, so my name unfortunately had to be removed.
   * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
+  * [Confirmation of Involvement](/files/AuthorshipConfirmation.pdf)
 * Real-time kinetics of Protoporphyrin-IX after 5-ALA administration in Low Grade Glioma
   * German Neurosurgery Society 2020
   * Accepted
@@ -22,3 +23,4 @@ At the end of the co-op, I wrote a ~50 page report outlining our findings, remai
 * Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
   * Neurosurgery, 2020
   * Under Review
+* 
