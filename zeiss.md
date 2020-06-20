@@ -23,4 +23,6 @@ At the end of the co-op, I wrote a ~50 page report outlining our findings, remai
 * Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
   * Neurosurgery, 2020
   * Under Review
-* 
+* 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
+  * Neurosurgery, 2020
+  * In Preparation
