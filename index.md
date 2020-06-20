@@ -85,10 +85,10 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
   * Neurosurgery
   * In preparation
-* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part I Repiratory Motion Mechanism
+* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
   * In preparation
-* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography: Part II Deformable Lungs and Imaging Characterisation
+* Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Deformable Lungs and Imaging Characterisation
   * IEEE Transactions on Medical Imaging 2020/21?
   * In preparation
 
