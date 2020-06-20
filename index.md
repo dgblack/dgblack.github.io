@@ -5,7 +5,7 @@ Additionally, I am an avid skier, climber, and canyoneer (View some highlights [
 
 # Work Experience
 May - September 2020  
-Robotics Engineer Co-op at A&K Robotics
+[Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
 
 May - December 2019  
 [UBC Robotics and Control Lab Internship](https://dgblack.github.io/portfolio/rcl)
