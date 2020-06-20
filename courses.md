@@ -75,11 +75,12 @@ For a full transcript with marks and class averages, please [contact me](mailto:
 ### Fifth Year
 * APSC 450 - Professional Engineering Practice
 * CPSC 340 - Machine Learning and Data Mining
+* CPSC 322 - Introduction to Artificial Intelligence
+* CPSC 422 - Intelligent Systems
 * CPSC 406 - Computational Optimization
-* CPEN 311 - Digital Systems Design
 * MATH 406 - Variational and Approximate Methods in Applied Mathematics
 * PHYS 408 - Optics
 * PHYS 403 - Statistical Mechanics
 * ENPH 479 - Engineering Physics Project III
 * ENPH 352 - Laboratory Techniques in Physics
-* ELEC 301 - Advanced Electronic Circuits
+* ELEC 301 - Advanced Electronic Circuit Design
