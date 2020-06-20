@@ -53,12 +53,12 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 # Publications
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * Robotics and Automation Letters 2020
-  * Accepted
+  * Published
   * [View Paper](/files/ICRA_Paper.pdf)
   * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * International Conference on Robotics and Automation 2020 presentation
-  * Accepted
+  * Accepted and Presented
   * [View Abstract](https://ieeexplore.ieee.org/abstract/document/8978737)
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
