@@ -37,6 +37,7 @@ September 2016 - December 2017
 *	Rigid/flex PCB design using Altium
 *	Control systems, PID, teleoperation
 *	Real-time systems and communication through RS-485 and RS-232 serial to USB, PCIe
+* Medical Imaging, nuclear medicine, optics (Physics and Engineering)
 *	Analog and digital circuit design, prototyping, and debugging
 *	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
 *	Mechanical design
