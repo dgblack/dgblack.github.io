@@ -83,8 +83,8 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * IEEE Transactions on Industrial Electronics, 2020
   * Under review
 * 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
-  * Neurosurgery
-  * In preparation
+  * Journal of Neurosurgery, 2020
+  * Under Review
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
   * In preparation
