@@ -82,12 +82,15 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics, 2020
   * Under review
+  * [View Paper Draft](/files/IEEE_TIE_paper.pdf)
 * 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
   * Journal of Neurosurgery, 2020
   * Under Review
+  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Repiratory Motion Mechanism
   * IEEE Transactions on Medical Imaging 2020
   * In preparation
+  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Deformable Lungs and Imaging Characterisation
   * IEEE Transactions on Medical Imaging 2020/21?
   * In preparation
