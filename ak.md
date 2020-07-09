@@ -1,4 +1,5 @@
 # A&K Robotics - Robotics Engineer Intern
+##### Date: May - August 2020
 
 A&K Robotics is a Vancouver-based startup which specializes in autonomous mobile robots. The hardware team consisted of one electrical engineer, one mechanical engineer, and myself. During my 4 months at the company we were tasked with designing from scratch two separate mobile robots, and implementing substantial changes to two more. I effectively worked as a third, equal member of the hardware team, and contributed substantially to each project.  
 
