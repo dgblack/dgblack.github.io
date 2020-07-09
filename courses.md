@@ -74,7 +74,7 @@ For a full transcript with marks and class averages, please [contact me](mailto:
 
 ### Fifth Year
 * APSC 450 - Professional Engineering Practice
-* CPEN 311 - Digital Systems Design
+* ELEC 474 - Biophotonics
 * CPSC 322 - Introduction to Artificial Intelligence
 * CPSC 422 - Intelligent Systems
 * CPSC 406 - Computational Optimization
