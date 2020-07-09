@@ -26,7 +26,7 @@ September 2019 - Present
 October 2019 - Present  
 Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany
 
-August 2019
+August 2019  
 [Custom Thermal Cycler Design](https://dgblack.github.io/portfolio/thermalCycler) for CellenONE single-cell isolator and dispenser (BC Cancer Research Centre)
 
 July - August 2018  
