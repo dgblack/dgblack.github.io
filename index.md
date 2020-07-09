@@ -27,7 +27,7 @@ October 2019 - Present
 Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany
 
 July - August 2018  
-[UBC Engineering Physics Robot Course](https://dgblack.github.io/portfolio/robotCourse)
+[Autonomous Mobile Robot Competition](https://dgblack.github.io/portfolio/robotCourse) (UBC Engineering Physics Robot Course)
 
 September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
