@@ -1,4 +1,5 @@
 # UBC Solar Car - Vehicle Dynamics Team Lead
+##### Date: September 2016 - December 2017
 
 UBC Solar Car Team is a student engineering design team dedicated to creating a fully solar powered car to race at the Formula Sun Grand Prix. I was on the team in my first and second year of engineering. I quickly became vehicle dynamics team lead, a team of 4 taking care of suspension, steering, and braking. 
 
