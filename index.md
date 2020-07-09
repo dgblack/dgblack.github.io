@@ -8,7 +8,7 @@ May - September 2020
 [Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
 
 May - December 2019  
-[UBC Robotics and Control Lab Internship](https://dgblack.github.io/portfolio/rcl)
+[UBC Robotics and Control Lab Research Student](https://dgblack.github.io/portfolio/rcl)
 
 January 2018-April 2019  
 [Carl Zeiss Meditec AG Advanced Development Internship](https://dgblack.github.io/portfolio/zeiss)
