@@ -21,10 +21,13 @@ Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
 September 2019 - Present  
-[Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet)
+[Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet) (BC Cancer Research Centre)
 
 October 2019 - Present  
 Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany
+
+August 2019
+[Custom Thermal Cycler Design](https://dgblack.github.io/portfolio/thermalCycler) for CellenONE single-cell isolator and dispenser (BC Cancer Research Centre)
 
 July - August 2018  
 [Autonomous Mobile Robot Competition](https://dgblack.github.io/portfolio/robotCourse) (UBC Engineering Physics Robot Course)
