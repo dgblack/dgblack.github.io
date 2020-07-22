@@ -18,10 +18,10 @@ The 3D printers I managed, modified, disassembled and reassembled, etc.
 ![3D printers](/images/ak3.jpg)
 
 Looking under the seat of a mobile I helped. The electronics and batteries were subsequently placed in this space. The drivetrain is visible in the base.
-![Elec Compartment](/images/ak4.jpg)
+![Elec Compartment](/images/ak4.jpeg)
 
 Actuated robot head I designed with depth and RGB cameras.
-![Robot Head](/images/ak5.jpg)
+![Robot Head](/images/ak5.jpeg)
 
 Head installed on frame. Here I am just placing electronics on their mount plate.
-![Robot Head](/images/ak6.jpg)
+![Robot Head](/images/ak6.jpeg)
