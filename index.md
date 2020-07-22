@@ -20,8 +20,8 @@ April - September 2016
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-July 2020 - Present  
-[Augmented Reality 3D patient-MRI registration and overlay](https://dgblack.github.io/portfolio/ar) for robotic surgical planning using HoloLens 2
+July 2020 - Present
+[Augmented Reality Registration and Overlay of 3D MRI and Ultrasound to Patient](https://dgblack.github.io/portfolio/ar) for robotic surgery using HoloLens 2
 
 September 2019 - Present  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet) (BC Cancer Research Centre)
