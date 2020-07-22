@@ -11,13 +11,13 @@ Floor UV Disinfection System I designed for Fetch robot:
 Wheel hub installed in the mobile robot drive system I designed
 ![Wheel hub](/images/ak1.jpg)
 
-Design for function as well as aesthetic
+Design for form as well as function.
 ![Wheel hub](/images/ak2.jpg)
 
 The 3D printers I managed, modified, disassembled and reassembled, etc.
 ![3D printers](/images/ak3.jpg)
 
-Looking under the seat of a mobile I helped. The electronics and batteries were subsequently placed in this space. The drivetrain is visible in the base.
+Looking under the seat of a mobile I helped. The electronics and batteries were subsequently placed in this space. The drivetrain is visible in the base.  
 ![Elec Compartment](/images/ak4.jpeg)
 
 Actuated robot head I designed with depth and RGB cameras.
