@@ -16,6 +16,16 @@ Actuated robot head I designed with depth and RGB cameras.
 Head installed on frame. Here I am just placing electronics on their mount plate.
 ![Robot Head](/images/ak6.jpeg)
 
+Adding the shell to the frame:  
+![Assembling robot](/images/ak7.jpg)
+
+Testing LEDs and electronics:  
+![Testing elec](/images/ak9.jpg)
+
+The (nearly) completed robot (minus a few sensor enclosures, and with the back plate uninstalled to work on the electronics):
+![UV Robot](/images/ak8.jpg)
+![UV Robot](/images/ak10.jpg)
+
 The second robot was an autonomous wheelchair robot for airports:
 Wheel hub installed in the mobile robot drive system I designed
 ![Wheel hub](/images/ak1.jpg)
