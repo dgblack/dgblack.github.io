@@ -7,6 +7,7 @@ We decided to open source the project, so all the details, including a paper abo
 To achieve anatomical accuracy, it was important to consider the material attenuation coefficients to match human soft tissue, lung, and bone under x-ray and gamma radiation. We designed a set of flexible, inflatable, anatomically realistic lungs by molding a liquid silicone elastomer onto 3D printed lungs obtained from a CT scan. These lungs are positioned inside a realistic ribcage and torso shell, which is otherwise filled with water, and actuated using a biomimetic system of negative intrapleural pressure. Initially we designed a rubber diaphragm membrane to provide the pressure changes using a linear actuator, however, after some prototyping and testing we switched to a piston mechanism. The linear actuator is position-controlled by analog output from a Raspberry-PI (actually from an MCP4725 DAC controlled by the Pi over I2C), or alternatively from an application for a Windows laptop.
 
 #### The Assembled Phantom
+![Phantom](/images/donePhantom.jpg)
 ![Phantom](/images/assembledPhantom.jpg)
 
 #### Phantom Torso with Ribcage
