@@ -87,6 +87,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
+  * See on [conference website](https://aapm.multilearning.com/aapm/2020/eposters/301760/david.black.design.and.manufacture.of.anatomically.realistic.actuated.elastic.html?f=menu%3D6%2Alisting%3D0%2Abrowseby%3D8%2Asortby%3D2%2Amedia%3D2%2Ace_id%3D1784%2Alabel%3D20129%2Aot_id%3D23348%2Afeatured%3D16893)
 * Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
   * Neurosurgery, 2020
   * Under Review
