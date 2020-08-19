@@ -62,14 +62,18 @@ Bachelor of Applied Science in Engineering Physics
 See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
+* Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
+  * IEEE Transactions on Industrial Electronics, 2020
+  * Accepted (second author)
+  * [View Paper Draft](/files/IEEE_TIE_paper.pdf)
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * Robotics and Automation Letters 2020
-  * Published
+  * Published (first author)
   * [View Paper](/files/ICRA_Paper.pdf)
   * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * International Conference on Robotics and Automation 2020 presentation
-  * Accepted and Presented
+  * Accepted and Presented (first author)
   * [View Abstract](https://ieeexplore.ieee.org/abstract/document/8978737)
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
@@ -85,16 +89,12 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * [View Authorship Letter](/files/AuthorshipConfirmation.pdf)
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
-  * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
+  * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19) (first author)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
   * See on [conference website](https://aapm.multilearning.com/aapm/2020/eposters/301760/david.black.design.and.manufacture.of.anatomically.realistic.actuated.elastic.html?f=menu%3D6%2Alisting%3D0%2Abrowseby%3D8%2Asortby%3D2%2Amedia%3D2%2Ace_id%3D1784%2Alabel%3D20129%2Aot_id%3D23348%2Afeatured%3D16893)
 * Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma
   * Neurosurgery, 2020
   * Under Review
-* Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
-  * IEEE Transactions on Industrial Electronics, 2020
-  * Under review
-  * [View Paper Draft](/files/IEEE_TIE_paper.pdf)
 * 5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation
   * Journal of Neurosurgery, 2020
   * Under Review
