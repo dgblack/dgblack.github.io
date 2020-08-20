@@ -85,7 +85,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas
   * Neurosurgery, 2019
   * Published
-  * [View Paper](/files/fluorescenceKineticsPaper.pdf?=raw)
+  * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * [View Authorship Letter](/files/AuthorshipConfirmation.pdf)
 * Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion
   * American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020
