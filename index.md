@@ -38,23 +38,6 @@ July - August 2018
 September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
-# Skills
-*	C++, MATLAB, LaTeX, Python, Robot Operating System, Microsoft Office, da Vinci Research Kit (very familiar) 
-*	C, Java, Assembly Language, VHDL (proficient)
-*	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
-*	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
-*	Rigid/flex PCB design using Altium
-*	Control systems, PID, teleoperation
-*	Real-time systems and communication through RS-485, RS-232, I2C
-* Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
-*	Analog and digital circuit design, prototyping, and debugging
-*	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
-*	Mechanical design
-*	Robotics (mechanical design, kinematics, dynamics, controls)
-*	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
-* Physics, mathematical modeling, optimization
-* Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
-
 # Education
 September 2016 - April 2021  
 _University of British Columbia, Vanvouer, Canada_  
@@ -106,6 +89,23 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Deformable Lungs and Imaging Characterisation
   * IEEE Transactions on Medical Imaging 2020/21?
   * In preparation
+
+# Skills
+*	C++, MATLAB, LaTeX, Python, Robot Operating System, Microsoft Office, da Vinci Research Kit (very familiar) 
+*	C, Java, Assembly Language, VHDL (proficient)
+*	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
+*	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
+*	Rigid/flex PCB design using Altium
+*	Control systems, PID, teleoperation
+*	Real-time systems and communication through RS-485, RS-232, I2C
+* Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
+*	Analog and digital circuit design, prototyping, and debugging
+*	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
+*	Mechanical design
+*	Robotics (mechanical design, kinematics, dynamics, controls)
+*	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
+* Physics, mathematical modeling, optimization
+* Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
