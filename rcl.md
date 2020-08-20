@@ -5,7 +5,8 @@ I did an 8 month internship in Dr. Tim Salcudean’s lab at the University of Br
 
 #### Publication
 After the first 4 months of the coop, I wrote a paper which has now been accepted to Robotics and Automation Letters and the International Conference for Robotics and Automation in Paris in 2020. The paper gives much more detail about the design pictured below and can be downloaded here:
-[6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System](https://github.com/dgblack/portfolio/raw/master/files/ICRA_Paper.pdf)
+[6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System](https://github.com/dgblack/portfolio/raw/master/files/ICRA_Paper.pdf)  
+We also wrote a paper entitled "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software" which was accepted to IEEE Transactions on Industrial Electronics in August 2020. I am second author on this paper, having written much of the control software and helped develop the firmware of the force sensor.
 
 #### Highlights of the Work Done
 The RCL Lab works closely with Intuitive to perform groundbreaking research with the da Vinci Robot. As such, we were given two master manipulators. I first designed and built a simple frame to mount the two arms (Master Tool Manipulaters, i.e. MTMs):
