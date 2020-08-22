@@ -1,4 +1,4 @@
-August 2020: My work featured on UBC website: (Creation of Breathing Anthropomorphic Phantom receives multiple honours)[https://www.engphys.ubc.ca/2020/08/21/creation-of-breathing-anthropomorphic-phantom-receives-multiple-honours/]
+August 2020: My work featured on UBC website: [Creation of Breathing Anthropomorphic Phantom receives multiple honours](https://www.engphys.ubc.ca/2020/08/21/creation-of-breathing-anthropomorphic-phantom-receives-multiple-honours/)
 
 Hi, I'm David Black. I am a 4th-year undergraduate student in Engineering Physics at the University of British Columbia, Vancouver, Canada with a passion for robotics and medical physics, and various work and project experiences in both. Through Engineering Physics coupled with my project work, I have gained a breadth of skills in software, mechanical, and electrical engineering, as well as a strong background in mathematics and physics. This unique skillset is ideal for robotics or medical physics applications and gives me a diverse knowledge of all aspects of the project so that I can jump in anywhere and communicate between all three disciplines of engineers as well as physicists.
 
