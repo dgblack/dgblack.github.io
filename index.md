@@ -43,7 +43,7 @@ September 2016 - December 2017
 
 # Education
 September 2016 - April 2021  
-_University of British Columbia, Vanvouer, Canada_  
+_University of British Columbia, Vancouver, Canada_  
 Bachelor of Applied Science in Engineering Physics  
 See [courses](https://dgblack.github.io/portfolio/courses)
 
