@@ -2,7 +2,10 @@
 
 For my first capstone project (engineering physics' analogue to a thesis project in an honors physics degree, except we do two), I worked in a team of three with the BC Cancer Research Centre. We designed and built a robotically actuated, anatomically accurate, anthropomorphic phantom for use in studies on the effect of respiratory motion on PET image quantification and reconstruction. This involved mechatronic design, fluid dynamics, and PET physics, as well as project management skills in an interdisciplinary team of engineers, biologists, and physicists. To fabricate the parts, we used 3D-printing, waterjet cutting, milling, and silicone rolling techniques. Additionally, we produced engineering drawings for a machine shop to manufacture the piston and cylinder. 
 
-We decided to open source the project, so all the details, including a paper about the design, can be found [here](https://github.com/dgblack/robotPhantom). Some videos of the breathing phantom can be found [here](https://drive.google.com/drive/folders/1uiWelC6bOkdkfJQonwLRlHdK8gElCDiQ?usp=sharing).
+#### Open Source:
+We decided to open source the project, so all the details, including a paper about the design, can be found [here](https://github.com/dgblack/robotPhantom). 
+#### Vidoes and Photos:
+Some videos of the breathing phantom can be found [here](https://drive.google.com/drive/folders/1uiWelC6bOkdkfJQonwLRlHdK8gElCDiQ?usp=sharing).
 
 To achieve anatomical accuracy, it was important to consider the material attenuation coefficients to match human soft tissue, lung, and bone under x-ray and gamma radiation. We designed a set of flexible, inflatable, anatomically realistic lungs by molding a liquid silicone elastomer onto 3D printed lungs obtained from a CT scan. These lungs are positioned inside a realistic ribcage and torso shell, which is otherwise filled with water, and actuated using a biomimetic system of negative intrapleural pressure. Initially we designed a rubber diaphragm membrane to provide the pressure changes using a linear actuator, however, after some prototyping and testing we switched to a piston mechanism. The linear actuator is position-controlled by analog output from a Raspberry-PI (actually from an MCP4725 DAC controlled by the Pi over I2C), or alternatively from an application for a Windows laptop.
 
