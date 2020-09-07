@@ -17,7 +17,7 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Climbing](/images/adventure/climb10.jpg)
 ##### Rappeling off the Monkey Face in Smith Rock, Oregon
 ![Climbing](/images/adventure/climb11.jpg)
-##### Climbing an obscure granite tower begind Garibaldi Lake known as Phyllis' Engine
+##### Climbing an obscure granite tower behind Garibaldi Lake known as Phyllis' Engine
 ![Climbing](/images/adventure/climb12.jpg)
 ![Mountaineering](/images/adventure/mtn1.jpg)
 ![Mountaineering](/images/adventure/mtn2.jpg)
