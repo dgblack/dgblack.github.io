@@ -51,7 +51,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software
   * IEEE Transactions on Industrial Electronics, 2020
   * Accepted (second author)
-  * [View Paper Draft](/files/IEEE_TIE_paper.pdf)
+  * [View Paper Draft](/files/IEEE_TIE_Paper.pdf)
 * 6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System
   * Robotics and Automation Letters 2020
   * Published (first author)
