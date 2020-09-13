@@ -77,12 +77,12 @@ See [courses](https://dgblack.github.io/portfolio/courses)
     * A mistake was made in the submission and I was not included. I can provide a letter proving my involvement, as below.
     
     
-* S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, D. Black, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Neurosurgery. 2020
-  * Under Review
+* S. Kaneko, P. Sporns, S. Schipmann, D. Black, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Neurosurgery. 2020.
+  * Under Review, manuscript number JNS20-2881 
   
   
 * W. Stummer, S. Kaneko, D. Black, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2020
-  * Under Review
+  * Under Review, manuscript number JNS20-2510
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
   
   
