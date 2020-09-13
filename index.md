@@ -50,28 +50,42 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 # Publications
 * A. H. Hadi Hosseinabadi, D. Black and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
   * [View Paper](/files/IEEE_TIE_Paper.pdf)
+  
+  
 * D. G. Black, A. H. H. Hosseinabadi and S. E. Salcudean, "6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2264-2271, April 2020, doi: 10.1109/LRA.2020.2970944.
   * [View Paper](/files/ICRA_Paper.pdf)
   * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
   * Also presented at the International Conference on Robotics and Automation 2020
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
-*  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, W. Stummer. "Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma," in the German Neurosurgery Society Conference. 2020
-    * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
-    * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
-    * A mistake was made in the submission and I was not included. I can provide a letter proving my involvement, as below.
+  
+  
 * S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, W. Stummer. "Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas," in Neurosurgery. 2019;85(4):E739-E746. doi:10.1093/neuros/nyz129
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * [View Authorship Letter](/files/AuthorshipConfirmation.pdf)
+  
+  
 * D. Black, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
   * See on [conference website](https://aapm.multilearning.com/aapm/2020/eposters/301760/david.black.design.and.manufacture.of.anatomically.realistic.actuated.elastic.html?f=menu%3D6%2Alisting%3D0%2Abrowseby%3D8%2Asortby%3D2%2Amedia%3D2%2Ace_id%3D1784%2Alabel%3D20129%2Aot_id%3D23348%2Afeatured%3D16893)
+  
+  
+*  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, W. Stummer. "Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma," in the German Neurosurgery Society Conference. 2020
+    * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
+    * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
+    * A mistake was made in the submission and I was not included. I can provide a letter proving my involvement, as below.
+    
+    
 * S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, D. Black, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Neurosurgery. 2020
   * Under Review
+  
+  
 * W. Stummer, S. Kaneko, D. Black, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2020
   * Under Review
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
+  
+  
 * D. Black, Y. Oloumi, A. Rahmim, I. Klyuzhin. "Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Repiratory Motion Mechanism," in IEEE Transactions on Medical Imaging. 2020.
   * In preparation
   * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
