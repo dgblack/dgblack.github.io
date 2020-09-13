@@ -56,11 +56,10 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Also presented at the International Conference on Robotics and Automation 2020
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
-* Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma
-  * German Neurosurgery Society 2020
-  * Accepted
+*  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, W. Stummer. "Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma," in the German Neurosurgery Society Conference. 2020
   * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
   * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
+  * A mistake was made in the submission and I was not included. I can provide a letter proving my involvement, as below.
 * S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, W. Stummer. "Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas," in Neurosurgery. 2019;85(4):E739-E746. doi:10.1093/neuros/nyz129
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * [View Authorship Letter](/files/AuthorshipConfirmation.pdf)
