@@ -4,8 +4,6 @@ Hi, I'm David Black. I am a 4th-year undergraduate student in Engineering Physic
 
 Additionally, I am an avid skier, climber, and canyoneer (View some highlights [here](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
-##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
-
 # Work Experience
 May - September 2020  
 [Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
@@ -109,4 +107,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
-Fluent in German and English
+Fluent in German and English  
+
+##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
+
