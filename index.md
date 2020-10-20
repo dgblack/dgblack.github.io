@@ -89,7 +89,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
 
 # Skills
-*	C++, MATLAB, LaTeX, Python, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
+*	C++, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
 *	C, Java, Assembly Language, VHDL (proficient)
 *	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
 *	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
