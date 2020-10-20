@@ -28,7 +28,7 @@ September 2019 - Present
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet) (BC Cancer Research Centre)
 
 October 2019 - Present  
-Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany
+Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany and Carl Zeiss Meditec AG.
 
 August 2019  
 [Custom Thermal Cycler Design](https://dgblack.github.io/portfolio/thermalCycler) for CellenONE single-cell isolator and dispenser (BC Cancer Research Centre)
