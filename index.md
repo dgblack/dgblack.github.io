@@ -51,6 +51,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   
 * A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
   * [View Paper](/files/IEEE_TIE_Paper.pdf)
+  * Or on the [IEEE website](https://ieeexplore.ieee.org/document/9194325)
   
   
 * **D. Black**, A. H. H. Hosseinabadi and S. E. Salcudean, "6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2264-2271, April 2020, doi: 10.1109/LRA.2020.2970944.
