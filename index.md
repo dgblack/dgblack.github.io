@@ -46,6 +46,9 @@ Bachelor of Applied Science in Engineering Physics
 See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
+* S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
+  * Accepted
+  
 * A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
   * [View Paper](/files/IEEE_TIE_Paper.pdf)
   
@@ -73,10 +76,6 @@ See [courses](https://dgblack.github.io/portfolio/courses)
     * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
     * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
     * **[View authorship letter](/files/AuthorshipConfirmation.pdf)**
-    
-    
-* S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Neurosurgery. 2020.
-  * Under Review, manuscript number JNS20-2881 
   
   
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2020
