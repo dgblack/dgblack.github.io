@@ -46,7 +46,7 @@ Bachelor of Applied Science in Engineering Physics
 See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
-* S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
+* E. Suero-Molina, S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
   * Accepted
   
 * A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
