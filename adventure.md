@@ -56,7 +56,7 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Skiing](/images/adventure/ski13.jpg)
 ![Skiing](/images/adventure/ski14.JPG)
 
-### Trial/Ultra-Running
+### Trail/Ultra-Running
 ##### A 5-hour Howe Sound Crest Trail Run
 ![Running](/images/adventure/run2.jpg)
 ##### Beautiful 45km morning run in Garibaldi Provincial Park 
