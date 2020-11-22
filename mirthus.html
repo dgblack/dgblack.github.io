@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	
+	<script type="text/javascript" src="http://static.robotwebtools.org/EventEmitter2/current/eventemitter2.min.js"></script>
+	<script type="text/javascript" src="http://static.robotwebtools.org/roslibjs/current/roslib.min.js"></script>
+
+	<script type="text/javascript" type="text/javascript">
+		// Connecting to ROS
+
+		var ros = new ROSLIB.Ros({
+			url : 'ws://192.168.1.82:9090'
+		});
+
+		ros.on('connection', function() {
+			console.log('Connection to websocket server.');
+			document.getElementById("status").innerHTML = "Connected";
+		});
+
+		ros.on('error', function(error) {
+			console.log('Error connecting to websocket server: ', error);
+			document.getElementById("status").innerHTML = "Error";
+		});
+
+		ros.on('close', function() {
+			console.log('Connection to websocket server closed.');
+			document.getElementById("status").innerHTML = "Closed";
+		});
+
+		// Subscribers to data topics
+		var force_sub = new ROSLIB.Topic({
+			ros : ros,
+			name : '/omni1_force',
+			messageType : 'geometry_msgs/Vector3'
+		});
+
+		var pose_sub = new ROSLIB.Topic({
+			ros : ros,
+			name : '/omni1_pose',
+			messageType : 'geometry_msgs/Pose'
+		});
+
+		var button_sub = new ROSLIB.Topic({
+			ros : ros,
+			name : '/omni1_button',
+			messageType : 'std_msgs/Int8'
+		});
+
+		// Display the received data
+		force_sub.subscribe(function(message) {
+			document.getElementById("force").innerHTML = "(Receiving...)";
+			document.getElementById("force_x").innerHTML = message.x.toFixed(3);
+			document.getElementById("force_y").innerHTML = message.y.toFixed(3);
+			document.getElementById("force_z").innerHTML = message.z.toFixed(3);
+		});
+
+		pose_sub.subscribe(function(message) {
+			//console.log(message.position)
+			var position = [message.position.x, message.position.y, message.position.z];
+			document.getElementById("position").innerHTML = "(Receiving...)";	
+			document.getElementById("posit_x").innerHTML = message.position.x.toFixed(3);
+			document.getElementById("posit_y").innerHTML = message.position.y.toFixed(3);
+			document.getElementById("posit_z").innerHTML = message.position.z.toFixed(3);
+			document.getElementById("orientation").innerHTML = "(Receiving...)";
+			document.getElementById("orient_x").innerHTML = message.orientation.x.toFixed(3);
+			document.getElementById("orient_y").innerHTML = message.orientation.y.toFixed(3);
+			document.getElementById("orient_z").innerHTML = message.orientation.z.toFixed(3);
+			document.getElementById("orient_w").innerHTML = message.orientation.w.toFixed(3);
+		});
+		
+		button_sub.subscribe(function(message) {
+			//document.getElementByID("button_event").innerHTML = message.data;
+			if (Math.abs(message.data - 0)<0.1) {
+				document.getElementById("button_event").innerHTML = "None";
+			} else if (Math.abs(message.data - 1)<0.1) {
+				document.getElementById("button_event").innerHTML = "Grey";
+			} else if (Math.abs(message.data - 2)<0.1) {
+				document.getElementById("button_event").innerHTML = "White";
+			} else {
+				document.getElementById("button_event").innerHTML = "Both";
+			}
+		});
+
+	</script>
+</head>
+
+<body>
+	<h1>MiRTHUS Communication Web Server</h1>
+	<p>Connection Status: <span id="status"></span></p>
+	<p>Phantom Omni Button Event: <span id="button_event"></span></p>
+	<p>Phantom Omni Position: <span id="position"></span></p>
+	<p>X: <span id="posit_x"></span></p>
+	<p>Y: <span id="posit_y"></span></p>
+	<p>Z: <span id="posit_z"></span></p>
+	<p>Phantom Omni Orientation: <span id="orientation"></span></p>
+	<p>X: <span id="orient_x"></span></p>
+	<p>Y: <span id="orient_y"></span></p>
+	<p>Z: <span id="orient_z"></span></p>
+	<p>W: <span id="orient_w"></span></p>
+	<p>Phantom Omni Force: <span id="force"></span></p>
+	<p>X: <span id="force_x"></span></p>
+	<p>Y: <span id="force_y"></span></p>
+	<p>Z: <span id="force_z"></span></p>
+</body>
+</html>
