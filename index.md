@@ -70,7 +70,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
-  * See on [conference website](https://aapm.multilearning.com/aapm/2020/eposters/301760/david.black.design.and.manufacture.of.anatomically.realistic.actuated.elastic.html?f=menu%3D6%2Alisting%3D0%2Abrowseby%3D8%2Asortby%3D2%2Amedia%3D2%2Ace_id%3D1784%2Alabel%3D20129%2Aot_id%3D23348%2Afeatured%3D16893)
+  * See on [conference website](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718)
   
   
 *  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, W. Stummer. "Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma," in the German Neurosurgery Society Conference. 2020
