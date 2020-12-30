@@ -46,6 +46,10 @@ Bachelor of Applied Science in Engineering Physics
 See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," preprint in techRxiv. 2020.
+  * Published ([link](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1))
+  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
+  
 * E. Suero-Molina, S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
   * Accepted
   
@@ -78,15 +82,13 @@ See [courses](https://dgblack.github.io/portfolio/courses)
     * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
     * **[View authorship letter](/files/AuthorshipConfirmation.pdf)**
   
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2020.
+  * Submitted
+  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
   
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2020
-  * Under Review, manuscript number JNS20-2510
-  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
-  
-  
-* **D. Black**, Y. Oloumi, A. Rahmim, I. Klyuzhin. "Design of a Breathing, Anthropomorphic Phantom for Positron Emission Tomography - Repiratory Motion Mechanism," in IEEE Transactions on Medical Imaging. 2020.
   * In preparation
-  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
+  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
 # Skills
 *	C++, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
