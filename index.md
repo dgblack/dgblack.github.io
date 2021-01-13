@@ -81,12 +81,18 @@ See [courses](https://dgblack.github.io/portfolio/courses)
     * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
     * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
     * **[View authorship letter](/files/AuthorshipConfirmation.pdf)**
-  
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2020.
-  * Submitted
-  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
-  
-* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2020
+
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2021.
+  * Submitted (Manuscript number #20-2065)
+  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom) 
+
+* **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
+   * In preparation
+
+* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Neurosurgery. 2021.
+   * In preparation
+
+* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2021.
   * In preparation
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
