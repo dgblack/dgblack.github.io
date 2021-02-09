@@ -70,17 +70,16 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
   
-  
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
   * See on [conference website](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718)
   
-  
-*  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, W. Stummer. "Real-time Kinetics of Protoporphyrin-IX after 5-ALA Administration in Low Grade Glioma," in the German Neurosurgery Society Conference. 2020
-    * [View Abstract](files/Abstract_DGNC_LGG_spectral.pdf)
-    * [View on DGNC Website](https://programm.conventus.de/index.php?id=dgnc2020&tx_coprogramm_programm%5Baction%5D=index&tx_coprogramm_programm%5Bcontroller%5D=Search&cHash=78d3ab876b3e7fb1f4bb50cd9cfe44c5) - Search 'Echtzeit'. Our abstract is the sole result.
-    * **[View authorship letter](/files/AuthorshipConfirmation.pdf)**
+*  E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, **D. Black**, W. Stummer. "Fluorescence real-time kinetics of protoporphyrin-IX after 5-ALA administration in low grade glioma," in the American Association of Neurosurgeons Conference. 2020. Presentation
+    * [View Slides from AANS MultiLearning](https://aans.multilearning.com/util/document_library?g_id=274&dc_id=9036)
+
+* E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, **D. Black**, W. Stummer. "Fluorescence real-time kinetics of protoporphyrin-IX after 5-ALA administration and factors predicting fluorescence in low-grade glioma," in the Joint Conference of the German Neurosurgery Society (DGNC) and Japanese Neurosurgery Society. 2020.
+  * [View Abstract](https://www.egms.de/static/en/meetings/dgnc2020/20dgnc193.shtml)
 
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2021.
   * Submitted (Manuscript number #20-2065)
