@@ -82,7 +82,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * [View Abstract](https://www.egms.de/static/en/meetings/dgnc2020/20dgnc193.shtml)
 
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2021.
-  * Submitted (Manuscript number #20-2065)
+  * Conditionally Accepted (Manuscript number #20-2065)
   * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom) 
 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
