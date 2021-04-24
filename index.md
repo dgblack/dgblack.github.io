@@ -125,7 +125,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * Awarded to students in the top 5% of their faculty and year.
 * UBC Engineering Design and Innovation Day Faculty Award
   * 2020
-  * Awarded by faculty choice for the most exceptional and innovative Engineering Physics project showcased at the UBC Applied Science Design and Innovation Day, 2020.
+  * Awarded by faculty choice for the most exceptional and innovative Engineering Physics project showcased at the UBC Applied Science Design and Innovation Day, 2020. Awarded for my robotic PET phantom project.
 * Edith Grace Buchan Scholarship
   * 2019
   * Scholarship for excellence in engineering, as nominated by a faculty member in the Faculty of Applied Science.
