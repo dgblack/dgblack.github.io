@@ -22,7 +22,7 @@ Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
 July 2020 - Present  
-[Mixed Reality for Robotic Surgery](https://dgblack.github.io/portfolio/ar) (UBC Robotics & Control Lab)
+[Mixed Reality Telemedicine](https://dgblack.github.io/portfolio/ar) (UBC Robotics & Control Lab)
 
 September 2019 - Present  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet) (BC Cancer Research Centre)
