@@ -112,6 +112,31 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 * Physics, mathematical modeling, optimization
 * Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
 
+# Awards
+* NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
+  * Awarded for exceptional academic and research achievement, as well as leadership potential for student in a Master's program or starting the first year of their PhD (as is my case)
+* Medical Device Design Centre Innovation Award
+  * Awarded after presenting my Mixed Reality Teleoperation project to a panel of judges. 
+  * "Honours the student or student team who distinguish themselves as leaders in innovation through the originality of their idea, the alignment of their solution with existing needs, the attention to detail and progress in the development of the technology, and the consideration of economic and social impacts."
+* Dorothy and Arthur Holt Scholarship
+  * Awarded to around 9 students in any faculty and/or degree program at UBC for academic excellence
+* Trek Excellence Scholarship for Continuing Students
+  * 2020
+  * Awarded to students in the top 5% of their faculty and year.
+* UBC Engineering Design and Innovation Day Faculty Award
+  * 2020
+  * Awarded by faculty choice for the most exceptional and innovative Engineering Physics project showcased at the UBC Applied Science Design and Innovation Day, 2020.
+* Edith Grace Buchan Scholarship
+  * 2019
+  * Scholarship for excellence in engineering, as nominated by a faculty member in the Faculty of Applied Science.
+* UBC Science Coop International Work Term Award
+  * 2018
+  * Awarded for outstanding international work term placement in my first term of coop.
+* Trek Excellence Scholarship for Continuing Studies
+  * 2017
+  * Awarded to students in the top 5% of their faculty and year.
+
+
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
 Fluent in German and English  
