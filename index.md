@@ -95,23 +95,6 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * In preparation
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
-# Skills
-*	C++, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
-*	C, Java, Assembly Language, VHDL (proficient)
-*	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
-*	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
-*	Rigid/flex PCB design using Altium
-*	Control systems, PID, teleoperation
-*	Real-time systems and communication through RS-485, RS-232, I2C
-* Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
-*	Analog and digital circuit design, prototyping, and debugging
-*	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
-*	Mechanical design
-*	Robotics (mechanical design, kinematics, dynamics, controls)
-*	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
-* Physics, mathematical modeling, optimization
-* Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
-
 # Awards
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
   * Awarded for exceptional academic and research achievement, as well as leadership potential for student in a Master's program or starting the first year of their PhD (as is my case)
@@ -136,6 +119,22 @@ See [courses](https://dgblack.github.io/portfolio/courses)
   * 2017
   * Awarded to students in the top 5% of their faculty and year.
 
+# Skills
+*	C++, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
+*	C, Java, Assembly Language, VHDL (proficient)
+*	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
+*	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
+*	Rigid/flex PCB design using Altium
+*	Control systems, PID, teleoperation
+*	Real-time systems and communication through RS-485, RS-232, I2C
+* Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
+*	Analog and digital circuit design, prototyping, and debugging
+*	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
+*	Mechanical design
+*	Robotics (mechanical design, kinematics, dynamics, controls)
+*	Stepper motors, servos, motor controllers, rotary encoders, IR sensing, analog signals processing, etc.
+* Physics, mathematical modeling, optimization
+* Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
 
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
