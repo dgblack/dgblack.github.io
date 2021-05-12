@@ -75,8 +75,8 @@ For a full transcript with marks and class averages, please [contact me](mailto:
 ### Fifth Year
 * APSC 450 - Professional Engineering Practice
 * ELEC 474 - Biophotonics
+* ELEC 442 - Robotics
 * CPSC 322 - Artificial Intelligence
-* CPSC 422 - Intelligent Systems
 * CPSC 406 - Computational Optimization
 * MATH 406 - Variational and Approximate Methods in Applied Mathematics
 * PHYS 408 - Optics
