@@ -44,8 +44,8 @@ Bachelor of Applied Science in Engineering Physics
 See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," preprint in techRxiv. 2020.
-  * Published ([link](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1))
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021. Accepted.
+  * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1))
   * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
   
 * E. Suero-Molina, S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
@@ -78,10 +78,6 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 
 * E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, **D. Black**, W. Stummer. "Fluorescence real-time kinetics of protoporphyrin-IX after 5-ALA administration and factors predicting fluorescence in low-grade glioma," in the Joint Conference of the German Neurosurgery Society (DGNC) and Japanese Neurosurgery Society. 2020.
   * [View Abstract](https://www.egms.de/static/en/meetings/dgnc2020/20dgnc193.shtml)
-
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," in Medical Physics. 2021.
-  * Conditionally Accepted (Manuscript number #20-2065)
-  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom) 
 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
    * In preparation
