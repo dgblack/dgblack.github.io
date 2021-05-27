@@ -2,6 +2,17 @@ I am a 1st-year PhD Student in Electrical and Computer Engineering at the Univer
 
 Additionally, I am an avid skier, climber, and canyoneer ([View some highlights](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
+# Education
+May 2021 - Present  
+_University of British Columbia, Vancouver, Canada_  
+PhD of Electrical and Computer Engineering in Surgical Robotics
+
+September 2016 - April 2021  
+_University of British Columbia, Vancouver, Canada_  
+Bachelor of Applied Science in Engineering Physics  
+See [courses](https://dgblack.github.io/portfolio/courses)
+See [transcript] (https://github.com/dgblack/portfolio/raw/master/files/David%20Black%20Transcript%20Online.pdf)
+
 # Work Experience
 May - September 2020  
 [Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
@@ -36,16 +47,6 @@ July - August 2018
 
 September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
-
-# Education
-May 2021 - Present
-_University of British Columbia, Vancouver, Canada_  
-PhD of Electrical and Computer Engineering in Surgical Robotics
-
-September 2016 - April 2021  
-_University of British Columbia, Vancouver, Canada_  
-Bachelor of Applied Science in Engineering Physics  
-See [courses](https://dgblack.github.io/portfolio/courses)
 
 # Publications
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021. Accepted.
