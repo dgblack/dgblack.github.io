@@ -122,7 +122,7 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
 *	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
 *	Rigid/flex PCB design using Altium
 *	Control systems, PID, teleoperation
-*	Real-time systems and communication through RS-485, RS-232, I2C
+*	Real-time systems and communication through RS-485, RS-232, I2C, SPI, CAN bus
 * Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
 *	Analog and digital circuit design, prototyping, and debugging
 *	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
