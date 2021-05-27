@@ -9,7 +9,7 @@ Some videos of the breathing phantom can be found [here](https://ubcca-my.sharep
 #### Conference Abstract
 We presented this project at the American Association of Physicists in Medicine / Canadian Organization for Medical Physics Joint Conference. See poster [here](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718).
 #### Paper
-We also wrote a paper which has been conditionally accepted to Medical Physics. A preprint was published on [techRxiv](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1).
+We also wrote a paper which has been accepted to Medical Physics. A preprint was published on [techRxiv](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1).
 #### Awards
 We were awarded a Blue Ribbon at the AAPM/COMP conference for high reviewer scores. Additionally, we received the University of British Columbia Engineering Design and Innovation Day Faculty Prize for Engineering Physics. Our work featured on UBC website: [Creation of Breathing Anthropomorphic Phantom receives multiple honours](https://www.engphys.ubc.ca/2020/08/21/creation-of-breathing-anthropomorphic-phantom-receives-multiple-honours/)
 
