@@ -38,6 +38,10 @@ September 2016 - December 2017
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
 # Education
+May 2021 - Present
+_University of British Columbia, Vancouver, Canada_  
+PhD of Electrical and Computer Engineering in Surgical Robotics
+
 September 2016 - April 2021  
 _University of British Columbia, Vancouver, Canada_  
 Bachelor of Applied Science in Engineering Physics  
