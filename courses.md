@@ -1,6 +1,6 @@
 # Courses
 
-For a full transcript with marks and class averages, please [contact me](mailto:dgblack@ece.ubc.ca).
+For a full transcript with marks and class averages: [PDF](https://github.com/dgblack/portfolio/raw/master/files/David%20Black%20Transcript%20Online.pdf).
 
 ### AP Transfer Credits
 * Biology 1st
