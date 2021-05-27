@@ -116,7 +116,7 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
   * Awarded to students in the top 5% of their faculty and year.
 
 # Skills
-*	C++, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, Microsoft Office, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
+*	C++, C#, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
 *	C, Java, Assembly Language, VHDL (proficient)
 *	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
 *	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
