@@ -1,6 +1,6 @@
 # Courses
 
-For a full transcript with marks and class averages: [PDF](https://github.com/dgblack/portfolio/raw/master/files/David%20Black%20Transcript%20Online.pdf).
+For a full transcript with marks and class averages: [PDF](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf).
 
 ### AP Transfer Credits
 * Biology 1st
