@@ -86,10 +86,10 @@ September 2016 - December 2017
   * [View Abstract](https://www.egms.de/static/en/meetings/dgnc2020/20dgnc193.shtml)
 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
-   * Submitted
+   * Under Review
 
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Neurosurgery. 2021.
-   * In preparation
+   * Under Review
 
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2021.
   * In preparation
