@@ -50,6 +50,8 @@ September 2016 - December 2017
 
 # Publications
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021. Accepted.
+  * [doi: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
+  * PDF of paper [here](https://github.com/dgblack/portfolio/blob/696d74634a78980230b7747111d0737811c2b58e/files/mpPaper.pdf)
   * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1))
   * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
   
