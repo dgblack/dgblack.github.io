@@ -49,30 +49,32 @@ September 2016 - December 2017
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
 # Publications
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021. Accepted.
-  * [doi: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021.
+  * [DOI: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
   * PDF of paper [here](https://github.com/dgblack/portfolio/blob/696d74634a78980230b7747111d0737811c2b58e/files/mpPaper.pdf)
   * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1))
-  * See all material, including paper draft [here](https://github.com/dgblack/robotPhantom)
+  * See all open source material [here](https://github.com/dgblack/robotPhantom)
   
 * E. Suero-Molina, S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
-  * Published [here](https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2020.10.JNS202881/article-10.3171-2020.10.JNS202881.xml)
-  * [View Paper](https://github.com/dgblack/portfolio/blob/75f2a17196b044f0bc4fea16b08cd2b14551dab1/files/JNS_paper.pdf)
+  * [DOI: 10.3171/2020.10.JNS202881](https://doi.org/10.3171/2020.10.JNS202881)
+  * PDF of paper [here](https://github.com/dgblack/portfolio/blob/75f2a17196b044f0bc4fea16b08cd2b14551dab1/files/JNS_paper.pdf)
   
 * A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
-  * [View Paper](/files/IEEE_TIE_Paper.pdf)
-  * Or on the [IEEE website](https://ieeexplore.ieee.org/document/9194325)
+  * [DOI: 10.1109/TIE.2020.3021648](https://ieeexplore.ieee.org/document/9194325)
+  * PDF of paper [here](/files/IEEE_TIE_Paper.pdf)
+  
   
   
 * **D. Black**, A. H. H. Hosseinabadi and S. E. Salcudean, "6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2264-2271, April 2020, doi: 10.1109/LRA.2020.2970944.
-  * [View Paper](/files/ICRA_Paper.pdf)
-  * Or on the [IEEE website](https://ieeexplore.ieee.org/document/8978737)
+  * [DOI: 10.1109/LRA.2020.2970944](https://doi.org/10.1109/LRA.2020.2970944)
+  * PDF of paper [here](/files/ICRA_Paper.pdf)
   * Also presented at the International Conference on Robotics and Automation 2020
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
   
   
-* S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, W. Stummer. "Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas," in Neurosurgery. 2019;85(4):E739-E746. doi:10.1093/neuros/nyz129
+* S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, W. Stummer. "Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas," in Neurosurgery. 2019;85(4):E739-E746. 
+  * [DOI: 10.1093/neuros/nyz129](https://doi.org/10.1093/neuros/nyz129)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
   
