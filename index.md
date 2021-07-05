@@ -56,7 +56,7 @@ September 2016 - December 2017
   * See all open source material [here](https://github.com/dgblack/robotPhantom)
   
 * E. Suero-Molina, S. Kaneko, P. Sporns, S. Schipmann, **D. Black**, W. Stummer. "Fluorescence Real-Time Kinetics of Protoporphyrin IX after 5-ALA Administration in Low-Grade Glioma," in Journal of Neurosurgery. Oct. 2020.
-  * [DOI: 10.3171/2020.10.JNS202881](https://doi.org/10.3171/2020.10.JNS202881)
+  * [DOI: 10.3171/2020.10.JNS202881](https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2020.10.JNS202881/article-10.3171-2020.10.JNS202881.xml)
   * PDF of paper [here](https://github.com/dgblack/portfolio/blob/75f2a17196b044f0bc4fea16b08cd2b14551dab1/files/JNS_paper.pdf)
   
 * A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
