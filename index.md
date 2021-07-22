@@ -48,6 +48,9 @@ July - August 2018
 September 2016 - December 2017  
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
+# Patents
+* **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent. July 2021.
+
 # Publications
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021.
   * [DOI: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
@@ -63,8 +66,6 @@ September 2016 - December 2017
   * [DOI: 10.1109/TIE.2020.3021648](https://ieeexplore.ieee.org/document/9194325)
   * PDF of paper [here](/files/IEEE_TIE_Paper.pdf)
   
-  
-  
 * **D. Black**, A. H. H. Hosseinabadi and S. E. Salcudean, "6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2264-2271, April 2020, doi: 10.1109/LRA.2020.2970944.
   * [DOI: 10.1109/LRA.2020.2970944](https://doi.org/10.1109/LRA.2020.2970944)
   * PDF of paper [here](/files/ICRA_Paper.pdf)
@@ -72,12 +73,25 @@ September 2016 - December 2017
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
   
-  
 * S. Kaneko, E. Suero Molina, C. Ewelt, N. Warneke, W. Stummer. "Fluorescence-Based Measurement of Real-Time Kinetics of Protoporphyrin IX After 5-Aminolevulinic Acid Administration in Human In Situ Malignant Gliomas," in Neurosurgery. 2019;85(4):E739-E746. 
   * [DOI: 10.1093/neuros/nyz129](https://doi.org/10.1093/neuros/nyz129)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
-  
+
+* **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
+   * Under Review (second round)
+
+* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Neurosurgery. 2021.
+   * Under Review (second round)
+
+* **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Human Teleoperation - a Haptically-Enabled Mixed Reality System for Teleultrasound," Human Computer Interaction. 2021.
+  * Under Review (first round) 
+
+* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2021.
+  * In preparation
+  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
+
+# Conferences
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
@@ -89,15 +103,10 @@ September 2016 - December 2017
 * E. Suero Molina, S. Kaneko, P. B. Sporns, S. Schipmann-Miletic, **D. Black**, W. Stummer. "Fluorescence real-time kinetics of protoporphyrin-IX after 5-ALA administration and factors predicting fluorescence in low-grade glioma," in the Joint Conference of the German Neurosurgery Society (DGNC) and Japanese Neurosurgery Society. 2020.
   * [View Abstract](https://www.egms.de/static/en/meetings/dgnc2020/20dgnc193.shtml)
 
-* **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
-   * Under Review
-
-* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Neurosurgery. 2021.
-   * Under Review
-
-* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Journal of Neurosurgery. 2021.
-  * In preparation
-  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
+* **D. Black**, A. H. H. Hosseinabadi and S. E. Salcudean, "6-DOF Force Sensing for the Master Tool Manipulator of the da Vinci Surgical System," in IEEE International Conference on Robotics and Automation, June 2020.
+  * PDF of paper [here](/files/ICRA_Paper.pdf)
+  * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
+  * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
 
 In May 2021 I also reviewed a paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy. 
 
