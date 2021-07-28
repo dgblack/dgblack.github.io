@@ -1,6 +1,6 @@
 I am a 1st-year PhD Student in Electrical and Computer Engineering at the University of British Columbia, Vancouver, Canada with a passion for robotics and medical physics, and various work and project experiences in both. Through my background in Engineering Physics coupled with my project work, I have gained a breadth of skills in software, mechanical, and electrical engineering, as well as a strong background in mathematics and physics. This unique skillset is ideal for robotics or medical physics applications and gives me a diverse knowledge of all aspects of the project so that I can jump in anywhere and communicate between all three disciplines of engineers as well as physicists.
 
-Additionally, I am an avid skier, climber, and canyoneer ([View some highlights](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
+Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([View some highlights](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
 # Education
 May 2021 - Present  
@@ -14,6 +14,9 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)
 
 # Work Experience
+April 2021 - Present
+[Lead Engineer & CTO of Snowspines Inc.](https://dgblack.github.io/portfolio/eski)
+
 May - September 2020  
 [Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
 
