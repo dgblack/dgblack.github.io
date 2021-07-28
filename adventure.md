@@ -1,6 +1,6 @@
 ## Adventure
 
-Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then canyoning, then skiing, and finally running.
+Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, paragliding pilot, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then paragliding, then canyoning, then skiing, and finally running.
 
 ### Rock Climbing and Mountaineering
 ![Climbing](/images/adventure/climb1.jpg)
@@ -12,7 +12,9 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Climbing](/images/adventure/climb6.jpg)
 ![Climbing](/images/adventure/climb7.jpg)
 ![Climbing](/images/adventure/climb8.jpg)
-![Climbing](/images/adventure/climb9.jpg)
+![Climbing](/images/adventure/climb9.jpg)  
+##### High on the fantastically exposed Armchair Traverse from Mt. Cook to Mt. Weart  
+<img src="/images/adventure/climb10.jpg" alt="Weart" width="200"/>  
 ##### Crossing the bridge flake on Yak Peak
 ![Climbing](/images/adventure/climb10.jpg)
 ##### Rappeling off the Monkey Face in Smith Rock, Oregon
@@ -25,6 +27,11 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ##### Nearing the summit of Mt. Hood, Oregon
 ![Mountaineering](/images/adventure/mtn4.jpg)
 ![Mountaineering](/images/adventure/mtn5.jpg)
+
+### Paragliding  
+<img src="/images/adventure/para1.jpg" alt="Para1" width="200"/>  
+<img src="/images/adventure/para2.jpg" alt="Para2" width="200"/>  
+<img src="/images/adventure/para3.jpg" alt="Para3" width="200"/>  
 
 ### Canyoning
 ![Canyoneering](/images/adventure/canyon1.jpg)
