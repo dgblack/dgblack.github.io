@@ -14,7 +14,7 @@ See [courses](https://dgblack.github.io/portfolio/courses)
 See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)
 
 # Work Experience
-April 2021 - Present
+April 2021 - Present  
 [Lead Engineer & CTO of Snowspines Inc.](https://dgblack.github.io/portfolio/eski)
 
 May - September 2020  
@@ -53,6 +53,7 @@ September 2016 - December 2017
 
 # Patents
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent. July 2021.
+* A. Fraser, **D. Black**, J. Voldeng. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021.
