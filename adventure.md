@@ -3,10 +3,10 @@
 Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, paragliding pilot, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then paragliding, then canyoning, then skiing, and finally running.
 
 ### Rock Climbing and Mountaineering
-![Climbing](/images/adventure/climb1.jpg)
-![Climbing](/images/adventure/climb2.jpg)
-![Climbing](/images/adventure/climb3.jpg)
-![Climbing](/images/adventure/climb4.jpg)
+<img src="/images/adventure/climb1.jpg" alt="climb1" width="500"/>  
+<img src="/images/adventure/climb2.jpg" alt="climb2" width="500"/>  
+<img src="/images/adventure/climb3.jpg" alt="climb3" width="500"/>  
+<img src="/images/adventure/climb4.jpg" alt="climb4" width="500"/>  
 ##### The Acrophobe Towers on Angel's Crest, near the summit of the Stawamus Chief
 ![Climbing](/images/adventure/climb5.jpg)
 ![Climbing](/images/adventure/climb6.jpg)
@@ -14,7 +14,7 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Climbing](/images/adventure/climb8.jpg)
 ![Climbing](/images/adventure/climb9.jpg)  
 ##### High on the fantastically exposed Armchair Traverse from Mt. Cook to Mt. Weart  
-<img src="/images/adventure/climb10.jpg" alt="Weart" width="200"/>  
+<img src="/images/adventure/climb10.jpg" alt="Weart" width="500"/>  
 ##### Crossing the bridge flake on Yak Peak
 ![Climbing](/images/adventure/climb10.jpg)
 ##### Rappeling off the Monkey Face in Smith Rock, Oregon
@@ -29,9 +29,9 @@ Beyond engineering, physics, classes, and work, I find time to pursue my hobbies
 ![Mountaineering](/images/adventure/mtn5.jpg)
 
 ### Paragliding  
-<img src="/images/adventure/para1.jpg" alt="Para1" width="200"/>  
-<img src="/images/adventure/para2.jpg" alt="Para2" width="200"/>  
-<img src="/images/adventure/para3.jpg" alt="Para3" width="200"/>  
+<img src="/images/adventure/para1.jpg" alt="Para1" width="500"/>  
+<img src="/images/adventure/para2.jpg" alt="Para2" width="500"/>  
+<img src="/images/adventure/para3.jpg" alt="Para3" width="500"/>  
 
 ### Canyoning
 ![Canyoneering](/images/adventure/canyon1.jpg)
