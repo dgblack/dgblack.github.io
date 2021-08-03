@@ -116,11 +116,14 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
 
 # Awards
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
+  * May 2021
   * Awarded for exceptional academic and research achievement, as well as leadership potential for student in a Master's program or starting the first year of their PhD (as is my case)
 * Medical Device Design Centre Innovation Award
+  * May 2021
   * Awarded after presenting my Mixed Reality Teleoperation project to a panel of judges. 
   * "Honours the student or student team who distinguish themselves as leaders in innovation through the originality of their idea, the alignment of their solution with existing needs, the attention to detail and progress in the development of the technology, and the consideration of economic and social impacts."
 * Dorothy and Arthur Holt Scholarship
+  * 2021
   * Awarded to around 9 students in any faculty and/or degree program at UBC for academic excellence
 * Trek Excellence Scholarship for Continuing Students
   * 2020
