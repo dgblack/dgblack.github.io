@@ -3,7 +3,7 @@
 Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, paragliding pilot, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then paragliding, then canyoning, then skiing, and finally running.
 
 Rock Climbing and Mountaineering  
-<img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb1.jpg" alt="climb1" width="500"/>
+<img src="images/adventure/climb1.jpg" alt="climb1" width="500"/>
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb2.jpg" alt="climb2" width="500"/>
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb3.jpg" alt="climb3" width="500"/>
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb4.jpg" alt="climb4" width="500"/>
@@ -15,7 +15,7 @@ The Acrophobe Towers on Angel's Crest, near the summit of the Stawamus Chief
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb8.jpg" alt="climb8" width="500"/>
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb9.jpg" alt="climb9" width="500"/>
 
-High on the fantastically exposed Armchair Traverse from Mt. Cook to Mt. Weart    
+High on the exposed Armchair Traverse from Mt. Cook to Mt. Weart    
 <img src="https://github.com/dgblack/portfolio/blob/f1d9c7238db82565eca07def82bf7b782995ccb9/images/adventure/climb10.jpg" alt="Weart" width="500"/>
 
 Rappeling off the Monkey Face in Smith Rock, Oregon  
