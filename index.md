@@ -15,7 +15,7 @@ See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcrip
 
 # Work Experience
 April 2021 - Present  
-[Lead Engineer & CTO of Snowspines Inc.](https://dgblack.github.io/portfolio/eski)
+[Co-Founder & Lead Engineer of Snowspines Inc.](https://dgblack.github.io/portfolio/eski)
 
 May - September 2020  
 [Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
