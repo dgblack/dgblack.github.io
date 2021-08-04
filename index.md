@@ -53,7 +53,7 @@ September 2016 - December 2017
 
 # Patents
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent. July 2021.
-* A. Fraser, **D. Black**, J. Voldeng. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
+* **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. 2021.
