@@ -5,7 +5,7 @@ Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([Vi
 # Education
 May 2021 - Present  
 _University of British Columbia, Vancouver, Canada_  
-PhD of Electrical and Computer Engineering in Surgical Robotics
+PhD in Electrical and Computer Engineering (Focus on Surgical Robotics and Teleoperation)
 
 September 2016 - April 2021  
 _University of British Columbia, Vancouver, Canada_  
