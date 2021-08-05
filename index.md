@@ -161,6 +161,3 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
 # Other
 Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
 Fluent in German and English  
-
-[//]: # ##### Download CV [here](https://github.com/dgblack/portfolio/raw/master/files/CV.pdf)
-
