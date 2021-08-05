@@ -9,15 +9,16 @@ Some videos of the breathing phantom can be found [here](https://ubcca-my.sharep
 #### Conference Abstract
 We presented this project at the American Association of Physicists in Medicine / Canadian Organization for Medical Physics Joint Conference. See poster [here](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718).
 #### Paper
-We also wrote a paper which has been accepted to Medical Physics. A preprint was published on [techRxiv](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1).
+We also wrote a paper which has been published in Medical Physics [here](https://doi.org/10.1002/mp.14998) (See [PDF](https://github.com/dgblack/robotPhantom/blob/master/MedicalPhysicsPaper.pdf)). A preprint was published on [techRxiv](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1).
 #### Awards
 We were awarded a Blue Ribbon at the AAPM/COMP conference for high reviewer scores. Additionally, we received the University of British Columbia Engineering Design and Innovation Day Faculty Prize for Engineering Physics. Our work featured on UBC website: [Creation of Breathing Anthropomorphic Phantom receives multiple honours](https://www.engphys.ubc.ca/2020/08/21/creation-of-breathing-anthropomorphic-phantom-receives-multiple-honours/)
-
-To achieve anatomical accuracy, it was important to consider the material attenuation coefficients to match human soft tissue, lung, and bone under x-ray and gamma radiation. We designed a set of flexible, inflatable, anatomically realistic lungs by molding a liquid silicone elastomer onto 3D printed lungs obtained from a CT scan. These lungs are positioned inside a realistic ribcage and torso shell, which is otherwise filled with water, and actuated using a biomimetic system of negative intrapleural pressure. Initially we designed a rubber diaphragm membrane to provide the pressure changes using a linear actuator, however, after some prototyping and testing we switched to a piston mechanism. The linear actuator is position-controlled by analog output from a Raspberry-PI (actually from an MCP4725 DAC controlled by the Pi over I2C), or alternatively from an application for a Windows laptop.
 
 #### The Assembled Phantom
 ![Phantom](/images/donePhantom.jpg)
 ![Phantom](/images/assembledPhantom.jpg)
+
+#### Testing the Phantom
+![Phantom](/images/phantomTest.jpg)
 
 #### Phantom Torso with Ribcage
 ![Phantom](/images/phantomInBox.jpg)
