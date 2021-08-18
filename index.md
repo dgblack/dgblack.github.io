@@ -64,7 +64,7 @@ September 2016 - December 2017
   * Accepted. Manuscript No. NEU-D-21-00416.
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, Issue 8, pp. 4123-4710. 2021. 
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, Issue 8, pp. 4205-4217. 2021. 
   * [DOI: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
   * PDF of paper [here](https://github.com/dgblack/portfolio/blob/696d74634a78980230b7747111d0737811c2b58e/files/mpPaper.pdf)
   * Editor's Choice Award in Medical Physics
