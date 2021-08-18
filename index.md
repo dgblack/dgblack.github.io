@@ -64,7 +64,7 @@ September 2016 - December 2017
   * Accepted. Manuscript No. NEU-D-21-00416.
   * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
-* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, Issue 8, pp. 4205-4217. 2021. 
+* **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, No 8, pp. 4205-4217. 2021. 
   * [DOI: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
   * PDF of paper [here](https://github.com/dgblack/portfolio/blob/696d74634a78980230b7747111d0737811c2b58e/files/mpPaper.pdf)
   * Editor's Choice Award in Medical Physics
@@ -75,7 +75,7 @@ September 2016 - December 2017
   * [DOI: 10.3171/2020.10.JNS202881](https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2020.10.JNS202881/article-10.3171-2020.10.JNS202881.xml)
   * PDF of paper [here](https://github.com/dgblack/portfolio/blob/75f2a17196b044f0bc4fea16b08cd2b14551dab1/files/JNS_paper.pdf)
   
-* A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3021648.
+* A. H. Hadi Hosseinabadi, **D. Black** and S. Salcudean, "Ultra Low-Noise FPGA-Based 6-Axis Optical Force-Torque Sensor: Hardware and Software," in IEEE Transactions on Industrial Electronics. Vol 68, No 10, pp. 10207 - 10217. 2020. doi: 10.1109/TIE.2020.3021648.
   * [DOI: 10.1109/TIE.2020.3021648](https://ieeexplore.ieee.org/document/9194325)
   * PDF of paper [here](/files/IEEE_TIE_Paper.pdf)
   
