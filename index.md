@@ -57,7 +57,7 @@ September 2016 - December 2017
 
 # Publications
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Human Teleoperation - a Haptically-Enabled Mixed Reality System for Teleultrasound," Human Computer Interaction. 2021.
-  * Preprint published in techRxiv ()
+  * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Human_Teleoperation_-_A_Haptically_Enabled_Mixed_Reality_System_for_Teleultrasound/15175869/1))
   * Under Review (first round) - Manuscript No. HCI-2021-3275. 
 
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Neurosurgery. 2021. 
