@@ -52,7 +52,7 @@ September 2016 - December 2017
 [UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
 
 # Patents
-* **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent. July 2021.
+* **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent 63/224,646. July 2021.
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
