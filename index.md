@@ -117,6 +117,8 @@ September 2016 - December 2017
 In May 2021 I also reviewed a paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy. 
 
 # Awards
+* UBC President's Academic Excellence Initiative Award
+  * September 2021  
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
   * May 2021
   * Awarded for exceptional academic and research achievement, as well as leadership potential for student in a Master's program or starting the first year of their PhD (as is my case)
