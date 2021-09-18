@@ -92,7 +92,7 @@ September 2016 - December 2017
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
-   * Under Review (second round)
+   * Accepted
 
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. 2021.
    * Under Review (second round). Manuscript No. JNS21-1724.
@@ -117,7 +117,7 @@ September 2016 - December 2017
 In May 2021 I also reviewed a paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy. 
 
 # Awards
-* UBC President's Academic Excellence Initiative Award
+* UBC President's Academic Excellence PhD Initiative Award
   * September 2021  
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
   * May 2021
