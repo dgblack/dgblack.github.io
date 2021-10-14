@@ -56,6 +56,9 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
+* **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. Vol. 11, Oct. 8, 2021.
+  * [DOI: 10.1038/s41598-021-99228-6](https://www.nature.com/articles/s41598-021-99228-6)
+
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Human Teleoperation - a Haptically-Enabled Mixed Reality System for Teleultrasound," Human Computer Interaction. 2021.
   * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Human_Teleoperation_-_A_Haptically_Enabled_Mixed_Reality_System_for_Teleultrasound/15175869/1))
   * Under Review (first round) - Manuscript No. HCI-2021-3275. 
@@ -91,9 +94,6 @@ September 2016 - December 2017
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
-* **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. 2021.
-   * Accepted
-
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. 2021.
    * Under Review (second round). Manuscript No. JNS21-1724.
 
@@ -116,7 +116,29 @@ September 2016 - December 2017
 
 In May 2021 I also reviewed a paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy. 
 
+# Presentations
+* Presented at Biomedical Imaging and AI (BMIAI) Research Showcase
+  * Won 3-Minute Thesis Competition
+  * October 2021
+* Presented to Prof. Emad Boctor's MUSiiC research group at Johns Hopkins
+  * October 2021
+* Presented to Prof. Nassir Navab's CAMP research group at TU Munich and Johns Hopkins
+  * May 2021
+* Presented at BC Medical Device Design Centre Competition
+  * Won Innovation Award for my work
+  * April 2021
+* Presented at American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference
+  * Awarded blue ribbon for high reviewer scores
+  * July 2020
+* Presented at International Conference on Robotics and Automation
+  * June 2020
+
 # Awards
+* Graduate Support Initiative Award
+  * October 2021
+* Biomedical Imaging and AI (BMIAI) Research Showcase 3-Minute Thesis Competition Winner
+  * October 2021 
+  * [Link](https://bmiai.ubc.ca/bmiai-fall-research-showcase)
 * UBC President's Academic Excellence PhD Initiative Award
   * September 2021  
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
