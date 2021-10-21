@@ -96,7 +96,7 @@ September 2016 - December 2017
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
-* S.E. Salcudean, H. Moradi, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
+* S.E. Salcudean, H. Moradi, *D. Black*, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
   * Submitted October 2021
 
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. 2021.
