@@ -13,7 +13,7 @@ September 2016 - April 2021
 _University of British Columbia, Vancouver, Canada_  
 Bachelor of Applied Science in Engineering Physics  
 See [courses](https://dgblack.github.io/portfolio/courses)  
-<--See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)/-->
+[//]: <> (See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf))
 
 # Work Experience
 April 2021 - Present  
