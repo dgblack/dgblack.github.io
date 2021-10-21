@@ -2,6 +2,8 @@ I am a PhD Student in Electrical and Computer Engineering at the University of B
 
 Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([View some highlights](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
+I was featured in [this article](https://ece.ubc.ca/ece-student-perspectives-david-black-bmiai-fall-research-award-winner/?fbclid=IwAR1Xr2VrHbqTaCD4BnqhBOcMMts9JjDCCYInPcltPPRWH-0Gymz0uS8CPAQ) by UBC Electrical and Computer Engineering.
+
 # Education
 May 2021 - Present  
 _University of British Columbia, Vancouver, Canada_  
