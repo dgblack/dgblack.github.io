@@ -58,16 +58,16 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
+* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Neurosurgery. October, 2021. 
+  * [DOI: 10.1093/neuros/nyab361](https://doi.org/10.1093/neuros/nyab361)
+  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
+ 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterization of Autofluorescence and Quantitative Protoporphyrin IX Biomarkers for Optical Spectroscopy-Guided Glioma Surgery," in Nature: Scientific Reports. Vol. 11, Oct. 8, 2021.
   * [DOI: 10.1038/s41598-021-99228-6](https://www.nature.com/articles/s41598-021-99228-6)
 
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Human Teleoperation - a Haptically-Enabled Mixed Reality System for Teleultrasound," Human Computer Interaction. 2021.
   * Preprint published in techRxiv ([link](https://www.techrxiv.org/articles/preprint/Human_Teleoperation_-_A_Haptically_Enabled_Mixed_Reality_System_for_Teleultrasound/15175869/1))
   * Under Review (first round) - Manuscript No. HCI-2021-3275. 
-
-* W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Neurosurgery. 2021. 
-  * Accepted. Manuscript No. NEU-D-21-00416.
-  * [View Paper Draft](/files/fluorescenceImagingPaper.pdf)
 
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, No 8, pp. 4205-4217. 2021. 
   * [DOI: 10.1002/mp.14998](https://doi.org/10.1002/mp.14998)
@@ -139,6 +139,8 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
   * June 2020
 
 # Awards
+* J.K. Zee Fellowship in Electrical and Computer Engineering
+  * October 2021
 * Graduate Support Initiative Award
   * October 2021
 * Biomedical Imaging and AI (BMIAI) Research Showcase 3-Minute Thesis Competition Winner
