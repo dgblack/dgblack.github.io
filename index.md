@@ -174,13 +174,14 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
   * Awarded to students in the top 5% of their faculty and year.
 
 # Skills
-*	C++, C#, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
-*	C, Java, Assembly Language, VHDL (proficient)
+*	C++, C#, Java, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
+*	C, Julia, Assembly Language, VHDL, Android Studio (proficient)
 *	CAD (Solidworks, Onshape, AutoCAD Fusion 360), FEA and CFD (ANSYS)
+*	Computer Vision, Reinforcement Learning, Machine Learning (fairly novice) 
 *	Prototyping using 3D printers, laser & water-jet cutters, lathes, mills, saws, and drills
 *	Rigid/flex PCB design using Altium, KiCAD
-*	Control systems, PID, teleoperation
-*	Real-time systems and communication through RS-485, RS-232, I2C, SPI, CAN bus
+*	Control systems, teleoperation
+*	Real-time systems and communication through RS-485, RS-232, I2C, SPI, CAN bus, BLE, WebRTC, WebSockets
 * Medical Imaging, nuclear medicine, biophotonics, optics (Physics and Engineering)
 *	Analog and digital circuit design, prototyping, and debugging
 *	Microcontrollers/computers including Arduino, STM32, Raspberry Pi
