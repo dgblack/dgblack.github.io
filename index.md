@@ -138,6 +138,9 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
   * June 2020
 
 # Awards
+* Faculty of Applied Science Graduate Award
+  * November 2021
+  * For academic achievement
 * J.K. Zee Fellowship in Electrical and Computer Engineering
   * October 2021
 * Graduate Support Initiative Award
