@@ -35,7 +35,7 @@ April - September 2016
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-September 2021 - December 2021
+September 2021 - December 2021  
 [Optimal Joint Scheduling of eMBB and URLLC Traffic on the 5G NR](https://github.com/dgblack/portfolio/blob/master/files/eMBB_URLLC_Joint_Scheduling.pdf) (UBC EECE 565 Course)
 
 July 2020 - Present  
