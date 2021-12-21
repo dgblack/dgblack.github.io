@@ -61,6 +61,8 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
+* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. Accepted, December 2021.
+
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Neurosurgery. October, 2021. 
   * [DOI: 10.1093/neuros/nyab361](https://doi.org/10.1093/neuros/nyab361)
  
@@ -100,9 +102,6 @@ September 2016 - December 2017
 
 * S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
   * Submitted October 2021
-
-* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. 2021.
-   * Under Review (second round). Manuscript No. JNS21-1724.
 
 # Conferences
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
