@@ -1,6 +1,6 @@
 # Courses
 
-For a full transcript with marks and class averages: [PDF](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf).
+<!--For a full transcript with marks and class averages: [PDF](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf).-->
 
 ### AP Transfer Credits
 * Biology 1st
@@ -85,3 +85,11 @@ For a full transcript with marks and class averages: [PDF](https://github.com/dg
   * Engineering Physics Capstone (See details [here](https://dgblack.github.io/portfolio/ar))
 * ENPH 352 - Laboratory Techniques in Physics
 * ELEC 301 - Advanced Electronic Circuit Design
+
+### PhD 1st Year
+* CPSC 425 - Computer Vision
+* CPEN 502 - Reinforcement Learning
+* EECE 565 - Communcation Networks (An Optimization Approach)
+* CPSC 554Y - AR/VR Human Computer Interaction
+* EECE 571D - Detection, Estimation, and Learning
+* MECH 509 - Controls
