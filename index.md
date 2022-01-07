@@ -1,6 +1,6 @@
 I am a PhD Student in Electrical and Computer Engineering at the University of British Columbia, Vancouver, Canada with an interest for robotics and medical imaging, and various work and project experiences in both. Through my background in Engineering Physics coupled with my project work, I have gained a breadth of skills in software, mechanical, and electrical engineering, as well as a strong background in mathematics and physics. This unique skillset is ideal for robotics or medical imaging applications and gives me a diverse knowledge of all aspects of the project so that I can jump in anywhere and communicate between all three disciplines of engineers as well as physicists.
 
-Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([View some highlights](https://dgblack.github.io/portfolio/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
+Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([View some highlights](https://dgblack.github.io/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
 I was featured in [this article](https://ece.ubc.ca/ece-student-perspectives-david-black-bmiai-fall-research-award-winner/?fbclid=IwAR1Xr2VrHbqTaCD4BnqhBOcMMts9JjDCCYInPcltPPRWH-0Gymz0uS8CPAQ) by UBC Electrical and Computer Engineering.
 
@@ -12,21 +12,21 @@ PhD in Electrical and Computer Engineering (Focus on Surgical Robotics and Teleo
 September 2016 - April 2021  
 _University of British Columbia, Vancouver, Canada_  
 Bachelor of Applied Science in Engineering Physics  
-See [courses](https://dgblack.github.io/portfolio/courses)  
+See [courses](https://dgblack.github.io/courses)  
 <!-- See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)) /-->
 
 # Work Experience
 April 2021 - Present  
-[Co-Founder & Lead Engineer of Snowspines Inc.](https://dgblack.github.io/portfolio/eski)
+[Co-Founder & Lead Engineer of Snowspines Inc.](https://dgblack.github.io/eski)
 
 May - September 2020  
-[Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/portfolio/ak)
+[Robotics Engineer Co-op at A&K Robotics](https://dgblack.github.io/ak)
 
 May - December 2019  
-[UBC Robotics and Control Lab Research Student](https://dgblack.github.io/portfolio/rcl)
+[UBC Robotics and Control Lab Research Student](https://dgblack.github.io/rcl)
 
 January 2018-April 2019  
-[Carl Zeiss Meditec AG Advanced Development Internship](https://dgblack.github.io/portfolio/zeiss)
+[Carl Zeiss Meditec AG Advanced Development Internship](https://dgblack.github.io/zeiss)
 
 September 2011 - April 2017  
 BC Soccer Referee
@@ -39,22 +39,22 @@ September 2021 - December 2021
 [Optimal Joint Scheduling of eMBB and URLLC Traffic on the 5G NR](https://github.com/dgblack/portfolio/blob/master/files/eMBB_URLLC_Joint_Scheduling.pdf) (UBC EECE 565 Course)
 
 July 2020 - Present  
-[Mixed Reality Telemedicine](https://dgblack.github.io/portfolio/ar) (UBC Robotics & Control Lab)
+[Mixed Reality Telemedicine](https://dgblack.github.io/ar) (UBC Robotics & Control Lab)
 
 September 2019 - April 2021  
-[Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/portfolio/pet) (BC Cancer Research Centre)
+[Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/pet) (BC Cancer Research Centre)
 
 October 2019 - Present  
 Fluorescence Guided Neurosurgery Research with Prof. Dr. Walter Stummer at the University Hospital of Münster, Germany and Carl Zeiss Meditec AG.
 
 August 2019  
-[Custom Thermal Cycler Design](https://dgblack.github.io/portfolio/thermalCycler) for CellenONE single-cell isolator and dispenser (BC Cancer Research Centre)
+[Custom Thermal Cycler Design](https://dgblack.github.io/thermalCycler) for CellenONE single-cell isolator and dispenser (BC Cancer Research Centre)
 
 July - August 2018  
-[Autonomous Mobile Robot Competition](https://dgblack.github.io/portfolio/robotCourse) (UBC Engineering Physics Robot Course)
+[Autonomous Mobile Robot Competition](https://dgblack.github.io/robotCourse) (UBC Engineering Physics Robot Course)
 
 September 2016 - December 2017  
-[UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/portfolio/solar)
+[UBC Solar Car Vehicle Dynamics Team Lead](https://dgblack.github.io/solar)
 
 # Patents
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Mixed Reality Human Teleoperation," US Patent Office Provisional Patent 63/224,646. July 2021.
@@ -197,5 +197,5 @@ In May 2021 I also reviewed a paper for the IEEE International Conference on Adv
 * Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
 
 # Other
-Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/portfolio/adventure))  
+Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/adventure))  
 Fluent in German and English  
