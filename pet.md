@@ -5,6 +5,7 @@ For my first capstone project (engineering physics' analogue to a thesis project
 #### Open Source:
 We decided to open source the project, so all the details, including a paper about the design, can be found [here](https://github.com/dgblack/robotPhantom). 
 #### Vidoes and Photos:
+See demo video [here](https://youtu.be/zXkUx0RQXnE)  
 Some videos of the breathing phantom can be found [here](https://ubcca-my.sharepoint.com/:f:/g/personal/dgblack_student_ubc_ca/Ejtq5QNHxeNPp8weYnc7cZwBMOwxvVZQ7KxTPI8Fzo8WOQ?e=UFq9mM).
 #### Conference Abstract
 We presented this project at the American Association of Physicists in Medicine / Canadian Organization for Medical Physics Joint Conference. See poster [here](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718).
