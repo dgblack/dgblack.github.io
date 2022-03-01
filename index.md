@@ -102,7 +102,7 @@ September 2016 - December 2017
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
 * S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
-  * Submitted October 2021
+  * Submitted October 2021 - Manuscript ID 0285-SIP-2021-PIEEE.R2
 
 # Conferences
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
