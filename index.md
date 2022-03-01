@@ -61,7 +61,8 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
-* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. Accepted, December 2021.
+* E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. February, 2022.
+  * [DOI: 10.3171/2021.12.JNS211724](https://doi.org/10.3171/2021.12.JNS211724)
 
 * W. Stummer, S. Kaneko, **D. Black**, E. Suero Molina. "5-ALA induced porphyrin contents in various brain tumors - Implications regarding imaging device design and their validation," in Neurosurgery. October, 2021. 
   * [DOI: 10.1093/neuros/nyab361](https://doi.org/10.1093/neuros/nyab361)
