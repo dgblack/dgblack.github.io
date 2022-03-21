@@ -74,7 +74,7 @@ September 2016 - December 2017
   * [DOI: 10.1038/s41598-021-99228-6](https://www.nature.com/articles/s41598-021-99228-6)
 
 * **D. Black**, Y. Oloumi, A.H. Hadi Hosseinabadi, S. Salcudean. "Human Teleoperation - a Haptically-Enabled Mixed Reality System for Teleultrasound," Human Computer Interaction. 2021.
-  * Preprint: ([DOI: 10.36227/techrxiv.15175869.v1](https://doi.org/10.36227/techrxiv.15175869.v1)
+  * Preprint: [DOI: 10.36227/techrxiv.15175869.v1](https://doi.org/10.36227/techrxiv.15175869.v1)
   * Under Review (first round) - Manuscript No. HCI-2021-3275. 
 
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design of an Anthropomorphic Respiratory Phantom for PET Imaging," Medical Physics. Vol 48, No 8, pp. 4205-4217. 2021. 
