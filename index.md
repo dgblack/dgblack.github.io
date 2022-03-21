@@ -16,7 +16,7 @@ See [courses](https://dgblack.github.io/courses)
 <!-- See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)) /-->
 
 # Work Experience
-April 2021 - Present  
+April 2021 - April 2022 
 [Co-Founder & Lead Engineer of Snowspines Inc.](https://dgblack.github.io/eski)
 
 May - September 2020  
@@ -61,6 +61,9 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
+* S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
+  * Accepted March 2022 - Manuscript ID 0285-SIP-2021-PIEEE.R2
+  
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. February, 2022.
   * [DOI: 10.3171/2021.12.JNS211724](https://doi.org/10.3171/2021.12.JNS211724)
 
@@ -100,9 +103,6 @@ September 2016 - December 2017
   * [DOI: 10.1093/neuros/nyz129](https://doi.org/10.1093/neuros/nyz129)
   * [View Paper](/files/fluorescenceKineticsPaper.pdf)
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
-
-* S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
-  * Submitted October 2021 - Manuscript ID 0285-SIP-2021-PIEEE.R2
 
 # Conferences
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
