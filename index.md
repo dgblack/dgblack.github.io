@@ -16,7 +16,7 @@ See [courses](https://dgblack.github.io/courses)
 <!-- See [transcript](https://github.com/dgblack/portfolio/raw/master/files/Transcript%20David%20Black%20Online.pdf)) /-->
 
 # Work Experience
-April 2021 - April 2022 
+April 2021 - April 2022  
 [Co-Founder & Lead Engineer of Snowspines Inc.](https://dgblack.github.io/eski)
 
 May - September 2020  
