@@ -121,7 +121,11 @@ September 2016 - December 2017
   * [View Abstract and Presentation](https://events.infovaya.com/presentation?id=70342)
   * Or for higher quality: [YouTube](https://youtu.be/QgkJ0okXtuQ)
 
-In May 2021 I also reviewed a paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy. 
+## Reviews
+I have provided reviews for: 
+* May 2021: Paper for the IEEE International Conference on Advanced Robotics and Mechatronics on the topic of visual servoing and haptics in robotic laparoscopy
+* December 2021: Paper for Medical Physics about a CT phantom
+* March 2022: Paper for IEEE Transactions on Robotics about haptics
 
 # Presentations
 * Presented at Biomedical Imaging and AI (BMIAI) Research Showcase
