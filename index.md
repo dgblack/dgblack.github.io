@@ -105,6 +105,8 @@ September 2016 - December 2017
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
 # Conferences
+* **D. Black**, S. Salcudean. "A Mixed Reality System for Human Teleoperation in Tele-Ultrasound," in the Hamlyn Symposium for Medical Robotics, 2022, London, UK. Accepted.
+
 * **D. Black**, Y. Oloumi, J. Wong, R. Fedrigo, C. Uribe, D. Kadrmas, A. Rahmim, I. Klyuzhin. "Design and Manufacture of Anatomically Realistic, Actuated, Elastic Lung Inserts for PET/CT Phantom Studies with Respiratory Motion," in the American Association of Physicists in Medicine / Canadian Organization of Medical Physicists joint conference 2020. AAPM e-Poster library Poster Number: BReP-SNAP-I-15.
   * Accepted as Blue Ribbon ePoster (received very high reviewer scores but we could not give a presentation due to COVID-19)
   * See abstract [here](/files/AAPM-COMP_abstract.pdf)
