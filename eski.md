@@ -4,5 +4,11 @@ I am co-founder and lead engineer / CTO of a small startup working on a novel sy
 
 During my role here, I took the project from concept to actual physical product which is now being fabricated and tested for production. I carried out almost all the mechanical, electrical, and software development. I designed the mechanical components, performing FEA and simulations to optimize their weight and loading capabilities, helped create a custom controller PCB and power system, and wrote firmware and software to control it, including an Android app. In addition, I am involved in all the decisions on company direction, and have recruited and helped hire several employees and engineers. 
 
-<img src="images/eski.jpg" alt="eSki" width="500"/>  
+<img src="images/eski_front.jpg" alt="eSki" width="500"/> 
+<img src="images/eski_side.jpg" alt="eSki" width="500"/> 
+<img src="images/eski_detail.jpg" alt="eSki" width="500"/> 
+<img src="images/eski_cables.jpg" alt="eSki" width="500"/> 
 <img src="images/eskiPCB.jpg" alt="eSki" width="500"/>  
+<img src="images/eski_wrapped.jpg" alt="eSki" width="500"/>  
+<img src="images/eski_compact.jpg" alt="eSki" width="500"/> 
+<img src="images/eski_packed.jpg" alt="eSki" width="500"/> 
