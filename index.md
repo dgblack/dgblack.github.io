@@ -61,8 +61,8 @@ September 2016 - December 2017
 * **D. Black**, J. Voldeng, A. Fraser. "Electronic Stride Assist Mechanism for Ski Touring," US Patent Office Provisional Patent. July 2021.
 
 # Publications
-* S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE.
-  * Accepted March 2022 - Manuscript ID 0285-SIP-2021-PIEEE.R2
+* S.E. Salcudean, H. Moradi, **D. Black**, N. Navab. "Robot-assisted Medical Imaging: a Review," in Proceedings of the IEEE. April, 2022.
+  * [DOI: 10.1109/JPROC.2022.3162840](https://ieeexplore.ieee.org/document/9756910)
   
 * E. Suero Molina, **D. Black**, S. Kaneko, M. Muether, W. Stummer. "Double dose of 5-ALA and its effect on PPIX expression in Low-Grade Glioma," in Journal of Neurosurgery. February, 2022.
   * [DOI: 10.3171/2021.12.JNS211724](https://doi.org/10.3171/2021.12.JNS211724)
