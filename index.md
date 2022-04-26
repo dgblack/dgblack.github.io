@@ -147,6 +147,8 @@ I have provided reviews for:
   * June 2020
 
 # Awards
+* UBC Four Year Fellowship (4YF) for PhD Students
+  * May 2022
 * Faculty of Applied Science Graduate Award
   * November 2021
   * For academic achievement
@@ -185,6 +187,13 @@ I have provided reviews for:
   * 2017
   * Awarded to students in the top 5% of their faculty and year.
 
+# Supervision, Mentorship, and Teaching
+* Taught a ROS tutorial class for my supervisor's graduate-level robotics course (Winter 2022)
+* Supervised a group of four fourth year undergraduate students in Engineering Physics for their capstone project in mechanical design (5 months - Fall 2021)
+* Supervised a group of six fourth year undergraduate / 1st year masters students for an extensive course project in haptics (4 months - Winter 2022)
+* Am mentoring a masters student from the French air force and Ecole Polytechnique in France who came to work with us (3 months - Spring 2022)
+* Will mentor a third year undergraduate co-op student (4 months - Summer 2022)
+
 # Skills
 *	C++, C#, Java, MATLAB, LaTeX, Python, Linux, Robot Operating System, ROSBridge, da Vinci Research Kit, Unity, Oculus, Microsoft Mixed Reality Toolkit (very familiar) 
 *	C, Julia, Assembly Language, VHDL, Android Studio (proficient)
@@ -204,5 +213,5 @@ I have provided reviews for:
 * Research, data analysis, report and paper writing, conference posters, abstracts, and presentations
 
 # Other
-Avid backcountry skier, rock climber, mountaineer (see [here](https://dgblack.github.io/adventure))  
+Avid backcountry skier, paragliding pilot, rock climber, mountaineer (see [here](https://dgblack.github.io/adventure))  
 Fluent in German and English  
