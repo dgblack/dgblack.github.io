@@ -147,8 +147,11 @@ I have provided reviews for:
   * June 2020
 
 # Awards
+* NSERC Canada Graduate Studies - Doctoral (CGS-D) Award 
+  * May 2022 - 2025
+  * Highest level of the NSERC Post Graduate Studies (PGS-D) awards
 * UBC Four Year Fellowship (4YF) for PhD Students
-  * May 2022
+  * May 2022 - 2026
 * Faculty of Applied Science Graduate Award
   * November 2021
   * For academic achievement
@@ -162,7 +165,7 @@ I have provided reviews for:
 * UBC President's Academic Excellence PhD Initiative Award
   * September 2021  
 * NSERC Alexander Graham Bell Canada Graduate Studies - Master's Scholarship
-  * May 2021
+  * May 2021 - 2022
   * Awarded for exceptional academic and research achievement, as well as leadership potential for student in a Master's program or starting the first year of their PhD (as is my case)
 * Medical Device Design Centre Innovation Award
   * May 2021
