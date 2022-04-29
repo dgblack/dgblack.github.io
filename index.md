@@ -147,6 +147,8 @@ I have provided reviews for:
   * June 2020
 
 # Awards
+* President's Academic Excellence PhD Award
+  * May 2022
 * NSERC Canada Graduate Studies - Doctoral (CGS-D) Award 
   * May 2022 - 2025
   * Highest level of the NSERC Post Graduate Studies (PGS-D) awards
