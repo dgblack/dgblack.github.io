@@ -105,7 +105,7 @@ September 2016 - December 2017
   * **[View Authorship Letter](/files/AuthorshipConfirmation.pdf)**
 
 # Conferences
-* **D. Black**, S. Salcudean. "A Mixed Reality System for Human Teleoperation in Tele-Ultrasound," in the Hamlyn Symposium for Medical Robotics, June 26, 2022, London, UK. Accepted.
+* **D. Black**, S. Salcudean. "A Mixed Reality System for Human Teleoperation in Tele-Ultrasound," in the Hamlyn Symposium for Medical Robotics, June 26-29, 2022, London, UK. Podium Presentation.
 
 * **D. Black**, S. Kaneko, A. Walke, S. Koenig, W. Stummer, E. Suero Molina. "Characterisation of autofluorescence and quantitative protoporphyrin IX biomarkers for optical spectroscopy-guided glioma surgery," in the German Neurosurgery Society (DGNC) Annual Conference. Köln, Germany. May 29-June 1, 2022. Abstract Presentation.
 
