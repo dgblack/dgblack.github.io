@@ -1,4 +1,6 @@
-I am a PhD Student in Electrical and Computer Engineering at the University of British Columbia, Vancouver, Canada with an interest for robotics and medical imaging, and various work and project experiences in both. Through my background in Engineering Physics coupled with my project work, I have gained a breadth of skills in software, mechanical, and electrical engineering, as well as a strong background in mathematics and physics. This unique skillset is ideal for robotics or medical imaging applications and gives me a diverse knowledge of all aspects of the project so that I can jump in anywhere and communicate between all three disciplines of engineers as well as physicists.
+I am a PhD Student in Electrical and Computer Engineering at the University of British Columbia, Vancouver, Canada, studying medical robotics and imaging with Prof. Tim Salcudean. My research focuses on novel approaches to teleoperation and human computer interaction in these fields, including implementing haptic feedback on surgical robots by developing novel optical and magnetic force sensing techniques and applying control theory. Further, I am developing an exciting new concept of "human teleoperation" (see [here](https://dgblack.github.io/ar)). On the side, I am researching hyperspectral fluorescence spectroscopy-guided neurosurgery with researchers at the University Hospital of Münster, Germany.
+
+Through my background in Engineering Physics coupled with my project work, I have gained a breadth of skills in software, mechanical, and electrical engineering, as well as a strong background in mathematics and physics. This unique skillset is ideal for robotics or medical imaging applications and gives me a diverse knowledge of all aspects of the project so that I can jump in anywhere and communicate between all three disciplines of engineers as well as physicists.
 
 Additionally, I am an avid skier, paragliding pilot, climber, and canyoneer ([View some highlights](https://dgblack.github.io/adventure)). I am fluent (written and spoken) in English and German, play cello, follow the Bundesliga and Premier League, and love to travel. I am an efficient, motivated, hard worker and fast learner, and work well on teams. Below is a list of my experiences, education, etc.
 
@@ -35,11 +37,11 @@ April - September 2016
 Mountain Equipment Co-op Vancouver Floor Staff
 
 # Project Experience
-September 2021 - December 2021  
-[Optimal Joint Scheduling of eMBB and URLLC Traffic on the 5G NR](https://github.com/dgblack/portfolio/blob/master/files/eMBB_URLLC_Joint_Scheduling.pdf) (UBC EECE 565 Course)
-
 July 2020 - Present  
 [Mixed Reality Telemedicine](https://dgblack.github.io/ar) (UBC Robotics & Control Lab)
+
+September 2021 - December 2021  
+[Optimal Joint Scheduling of eMBB and URLLC Traffic on the 5G NR](https://github.com/dgblack/portfolio/blob/master/files/eMBB_URLLC_Joint_Scheduling.pdf) (UBC EECE 565 Course)
 
 September 2019 - April 2021  
 [Robotic Anthropomorphic PET Phantom](https://dgblack.github.io/pet) (BC Cancer Research Centre)
