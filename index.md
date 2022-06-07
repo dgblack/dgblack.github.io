@@ -9,7 +9,7 @@ I was featured in [this article](https://ece.ubc.ca/ece-student-perspectives-dav
 # Education
 May 2021 - Present  
 _University of British Columbia, Vancouver, Canada_  
-PhD in Electrical and Computer Engineering (Focus on Surgical Robotics and Teleoperation)
+PhD in Electrical and Computer Engineering (Focus on Medical Robotics and Teleoperation)
 
 September 2016 - April 2021  
 _University of British Columbia, Vancouver, Canada_  
