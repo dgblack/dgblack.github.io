@@ -34,7 +34,7 @@ Nearing the summit of Mt. Hood, Oregon
 <img src="images/adventure/mtn5.jpg" alt="climb17" width="500"/>
 
 Paragliding  
-<img src="images/adventure/para00.jpeg" alt="Para1" width="500"/> 
+<img src="images/adventure/para00.jpeg" alt="Para1" width="500"/>  
 <img src="images/adventure/para0.jpg" alt="Para1" width="500"/>  
 <img src="images/adventure/para0a.jpg" alt="Para1" width="500"/>  
 <img src="images/adventure/para4.jpg" alt="Para1" width="500"/>  
