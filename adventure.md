@@ -2,7 +2,8 @@
 
 Beyond engineering, physics, classes, and work, I find time to pursue my hobbies and passions almost every weekend throughout the year. I am an avid skier, paragliding pilot, climber, trail runner, and canyoneer. Below are some photos from the past few years, mostly around Vancouver. They are organized as climbing first, then paragliding, then canyoning, then skiing, and finally running.
 
-Also speedflying! [https://youtu.be/yC3stQq1aGY](https://youtu.be/yC3stQq1aGY)
+Also speed flying! [https://youtu.be/I1yKX7mMhO0](https://youtu.be/I1yKX7mMhO0)  
+And speed riding: [https://youtu.be/yC3stQq1aGY](https://youtu.be/yC3stQq1aGY)
 
 Rock Climbing and Mountaineering  
 <img src="images/adventure/climb1.jpg" alt="climb1" width="500"/>  
