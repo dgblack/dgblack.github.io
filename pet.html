@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>David Black Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('images/montblanc.jpg');
+  min-height: 100%;
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar" id="myNavbar">
+    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="index.html" class="w3-bar-item w3-button">HOME</a>
+    <a href="index.html#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="index.html#cv" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> CV</a>
+    <a href="adventure.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-o"></i> ADVENTURE</a>
+    <a href="index.html#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
+      <i class="fa fa-search"></i>
+    </a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+    <a href="index.html#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
+    <a href="index.html#cv" class="w3-bar-item w3-button" onclick="toggleFunction()">CV</a>
+    <a href="adventure.html" class="w3-bar-item w3-button" onclick="toggleFunction()">ADVENTURE</a>
+    <a href="index.html#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
+    <a href="#" class="w3-bar-item w3-button">SEARCH</a>
+  </div>
+</div>
+
+<!-- First Parallax Image with Logo Text -->
+<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+  <div class="w3-display-middle" style="white-space:nowrap;">
+    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">DAVID <span class="w3-hide-small"></span> BLACK</span>
+  </div>
+</div>
+
+<!-- Container (About Section) -->
+<div class="w3-content w3-container w3-padding-64" id="about">
+<h2 id="robotic-anthorpomorphic-pet-phantom">Robotic, Anthorpomorphic PET Phantom</h2>
+<p>For my first capstone project (engineering physics&#39; analogue to a thesis project in an honors physics degree, except we do two), I worked in a team of three with the BC Cancer Research Centre. We designed and built a robotically actuated, anatomically accurate, anthropomorphic phantom for use in studies on the effect of respiratory motion on PET image quantification and reconstruction. This involved mechatronic design, fluid dynamics, and PET physics, as well as project management skills in an interdisciplinary team of engineers, biologists, and physicists. To fabricate the parts, we used 3D-printing, waterjet cutting, milling, and silicone rolling techniques. Additionally, we produced engineering drawings for a machine shop to manufacture the piston and cylinder. </p>
+<h4 id="open-source-">Open Source:</h4>
+<p>We decided to open source the project, so all the details, including a paper about the design, can be found <a href="https://github.com/dgblack/robotPhantom">here</a>. </p>
+<h4 id="vidoes-and-photos-">Vidoes and Photos:</h4>
+<p>See demo video <a href="https://youtu.be/zXkUx0RQXnE">here</a><br>Some videos of the breathing phantom can be found <a href="https://ubcca-my.sharepoint.com/:f:/g/personal/dgblack_student_ubc_ca/Ejtq5QNHxeNPp8weYnc7cZwBMOwxvVZQ7KxTPI8Fzo8WOQ?e=UFq9mM">here</a>.</p>
+<h4 id="conference-abstract">Conference Abstract</h4>
+<p>We presented this project at the American Association of Physicists in Medicine / Canadian Organization for Medical Physics Joint Conference. See poster <a href="https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&amp;aid=51718">here</a>.</p>
+<h4 id="paper">Paper</h4>
+<p>We also wrote a paper which has been published in Medical Physics <a href="https://doi.org/10.1002/mp.14998">here</a> (See <a href="https://github.com/dgblack/robotPhantom/blob/master/MedicalPhysicsPaper.pdf">PDF</a>). A preprint was published on <a href="https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1">techRxiv</a>.</p>
+<h4 id="awards">Awards</h4>
+<p>We were awarded a Blue Ribbon at the AAPM/COMP conference for high reviewer scores. Additionally, we received the University of British Columbia Engineering Design and Innovation Day Faculty Prize for Engineering Physics. Our work featured on UBC website: <a href="https://www.engphys.ubc.ca/2020/08/21/creation-of-breathing-anthropomorphic-phantom-receives-multiple-honours/">Creation of Breathing Anthropomorphic Phantom receives multiple honours</a></p>
+<h4 id="the-assembled-phantom">The Assembled Phantom</h4>
+<p><img width="250" height="315" src="images/work/donePhantom.jpg" alt="Phantom">
+<img width="420" height="315" src="images/work/assembledPhantom.jpg" alt="Phantom"></p>
+<h4 id="testing-the-phantom">Testing the Phantom</h4>
+<p><img width="270" height="315" src="images/work/phantomTest.jpg" alt="Phantom"></p>
+<h4 id="phantom-torso-with-ribcage">Phantom Torso with Ribcage</h4>
+<p><img width="270" height="315" src="images/work/phantomInBox.jpg" alt="Phantom"></p>
+<h4 id="phantom-with-diaphragm-membrane-linear-actuator-and-lungs">Phantom with Diaphragm Membrane, Linear Actuator, and Lungs</h4>
+<p><img width="420" height="315" src="images/work/basePlateAssem.jpg" alt="Phantom"></p>
+<p>One of the first things we did was prototype (using a waterjet cutter) and test the diaphragm membrane. The CAD models for the base plate onto which the diaphragm attaches were derived from a CT scan of the phantom torso to get as accurate dimensions as possible.</p>
+<h4 id="diaphragm-prototype">Diaphragm Prototype</h4>
+<p><img width="300" height="315" src="images/work/prototypeDiaphragm.jpg" alt="Diaphragm Prototype"></p>
+<p>As described in the <a href="https://github.com/dgblack/robotPhantom/blob/master/RobotPhantomPaper.pdf">paper</a> also linked above, the diaphragm mechanism was found to be unsatisfactory, so I designed a piston mechanism. The final design is seen below. Efforts to fabricate the lungs were temporarily hampered by COVID-19, but after initial testing with balloons, the phantom works very well and breathes in a highly controllable, repeatable manner. It can achieve breathing rates up to about 25 breaths per minute at 1232ml tidal volume, and much faster at lower volumes. Any arbitrary waveform can be fed to the actuator within these limits, creating a highly flexible, realistic, and useful phantom. The lungs are now nearing completion, with 2 versions finished, and (hopefully) the final version in fabrication.</p>
+<h4 id="early-lung-prototype-in-place-in-ribcage">Early Lung Prototype in Place in Ribcage</h4>
+<p><img width="420" height="315" src="images/work/lungInstalled.jpg" alt="Installed Lung"></p>
+<h4 id="breathing-mechanism-on-phantom">Breathing Mechanism on Phantom</h4>
+<p>(with no ribcage, lungs, liver, etc. in place yet as they were temporarily inaccessible due to COVID-19)<br>
+<img width="480" height="315" src="images/work/physicalMechanism.jpg" alt="Breathing Mechanism"></p>
+<h4 id="cad-cross-section-of-phantom">CAD Cross-Section of Phantom</h4>
+<p><img width="480" height="315" src="images/work/phantomCut.png" alt="Breathing Mechanism CAD"></p>
+<h4 id="breathing-concept">Breathing Concept</h4>
+<p><img width="420" height="315" src="images/work/breathingMechanism.jpg" alt="Breathing Concept"><br>
+Respiration is achieved through incompressible-fluid (i.e. water) - mediated pressure modulation. As the piston extends, the phantom&#39;s volume effectively decreases, and the only way for this to occur is for air to flow out of the lungs. The opposite happens during inhalation.</p>
+<h4 id="3d-printed-lung-positive">3D-Printed Lung Positive</h4>
+<p><img width="600" height="315" src="images/work/lungs.jpg" alt="3D-Printed Lung Mold"><br>
+The mold is printed in 2 parts due to size constraints, with no internal seam between the parts. Heat-resistant dental plaster is poured into the 3D-printed positive, and finally the high temperature vulcanization (HTV) liquid silicone rubber (LSR) is rolled onto the plaster mold and baked in an oven to set.</p>
+<h4 id="piston-and-cylinder">Piston and Cylinder</h4>
+<p><img width="800" height="315" src="images/work/pistonCylinder.jpg" alt="Piston and Cylinder"><br>
+The piston and cylinder were very carefully designed with help from the Parker O-ring Handbook to fulfill certain O-ring specifications that lead to an effective seal. These requirements were designed to be met both in the ideal situation, and in the worst case scenario of our specified manufacturer tolerances, and water and heat-induced swelling of the plastic. Material choice played an important roll in ensuring these specs could be achieved while avoiding backscattering gamma photons off metal, and minimizing piston friction.</p>
+<h4 id="me-working-on-the-phantom">Me Working on the Phantom</h4>
+<p><img width="420" height="315" src="images/work/installingLungs.jpg" alt="Working on the Phantom"></p>
+
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <a href="https://github.com/dgblack"><i class="fa fa-github w3-hover-opacity"></i></a>
+    <a href="https://scholar.google.com/citations?user=As_yDKkAAAAJ&hl=en"><i class="fa fa-google w3-hover-opacity"></i></a>
+    <a href="https://twitter.com/BlackDavidG"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+    <a href="https://linkedin.com/in/davidgblack"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  </div>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+</footer>
+ 
+<script>
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+// Change style of navbar on scroll
+window.onscroll = function() {myFunction()};
+function myFunction() {
+    var navbar = document.getElementById("myNavbar");
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+    } else {
+        navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+    }
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function toggleFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+</body>
+</html>
