@@ -25,7 +25,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('images/ubcSunset.jpg');
+  background-image: url('images/geiranger.jpg');
   min-height: 100%;
 }
 
@@ -80,15 +80,42 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about">
 <h2 id="low-profile-6-axis-force-sensing">Low-Profile, Low-Cost 6-Axis Magnetic Force/Torque Sensing for Manual Tools</h2>
 <h4 id="date-sept-2022-present">Date: September 2022 - Present</h4>
+  <p><img width="400" height="340" src="images/work/sensorAssembly.gif" alt="Philips Lumify Shell and PCBs"></p>
   <p>While working on our <a href="https://dgblack.github.io/ar.html">Human Teleoperation</a> project, we needed a good solution for force/torque sensing on ultrasound probes. We quickly found that no such solution exists. Several groups have built off-the-shelf sensors like those from ATI into ultrasound probes, but this leads to very bulky devices, has too-low load capacity due to the large moment arm to the probe's face, and at least doubles the cost of the probe for modern point-of-care probes.</p>
   <p>As alternatives we tried out piezoresistive pads and small single axis strain gauge-based sensors, and considered designing strain gauges, capacitive sensors, optical sensors, fibre Bragg gratings, and more. Each had drawbacks, though.</p>
   <p>Instead, I had the idea of using pairs of Hall effect sensors in a differential configuration, placed opposite a small magnet. The magnets are on the probe while the sensors are on a low-profile shell around the probe, and the two are connected by a compliant suspension. By placing 6 sets of sensor modules around the probe, it should be possible to recover the 6-axis forces and torques. This is therefore what we set out to do.</p>
   <h4 id="prototyping">Modeling, Prototyping and Testing</h4>
   <p>We first modeled the system in MATLAB to see if it was feasible and what approximate design parameters were needed (magnet size/strength, Hall effect sensor spacing, magnet offset, etc.). We then built simple 1-axis jigs to validate the simulation results, and prototyped signal conditioning circuits on a breadboard. All results were very promising.</p>
-  <p><img width="250" height="315" src="images/work/donePhantom.jpg" alt="Phantom">
+  <p><img width="450" height="250" src="images/work/singleAxis.jpg" alt="Single Axis Test"></p>
   <h4 id="3axis">3-Axis Sensor</h4>
     <p>Since the results of initial prototyping and testing were very promising, we built a 3-axis jig, measuring the in-plane forces and vertical torque. For this we also designed and fabricated initial prototype PCBs, including (1) six sensor module PCBs with the Hall effect sensors, analog signal conditioning circuitry, and on-board ADC for reduced noise, and (2) a master PCB with microcontroller and various circuitry for further processing and communication.</p>
-  <h4 id="prototyping">Ultrasound Probe Integration and Calibration</h4>
+    <p><img width="450" height="325" src="images/work/3axisJig.jpg" alt="Three Axis Test"></p>
+    <p>After a few iterations of the electronics design, we made much smaller PCBs, as shown below.</p>
+    <p><img width="450" height="350" src="images/work/newPcb.jpg" alt="Old and new PCBs"></p>
+  <h4 id="6axis">Ultrasound Probe Integration and Calibration</h4>
+    <p>We next designed a 6-axis integration of the force sensors into a Clarius C3HD 3 probe. This is shown below. We 3D printed the shell using SLA and FormLabs Rigid 10K resin, and the suspension elements from elastic resin. We also 3D printed a dummy ultrasound probe which could mount directly to an ATI force sensor to carry out the calibration.</p>
+    <p><img width="500" height="300" src="images/work/clariusOld.jpg" alt="Clarius Shell and Calibration Jig"></p>
+    <p>After some testing, we found that the 3D-printed suspension elements had large hysteresis and creep, so we replaced them with molded RTV (room temperature vulcanization) silicone. We also replaced the PCBs with new versions and much clearner wiring using flexible PCBs. The updates greatly improved the sensor performance and accuracy.</p>
+    <p><img width="475" height="320" src="images/work/clariusNew.jpg" alt="Clarius Shell with New PCBs"></p>
+    <p>We have also designed force sensor integrations for the Philips Lumify linear and convex probes. For these, we molded the silicone directly inside the shell and probe in a single part. This greatly eases assembly and ensures a perfect fit even though we did not have the CAD models of the probes. It also means no inner shell is needed, so the sensors are much lower profile than the C3HD 3 one. Magnets hold the two halves of the shell together, and IR markers are included for HoloLens-based pose tracking. Both probes were calibrated using a similar method to the Clarius probe, with good results.</p>
+    <p><img width="450" height="320" src="images/work/philipsPcbs.jpg" alt="Philips Lumify Shell and PCBs"></p>
+    <p><img width="450" height="320" src="images/work/philipsDecon.jpg" alt="Deconstructed Philips Lumify Probe Force Sensor"></p>
+    <p><img width="450" height="320" src="images/work/philipsProbes.jpg" alt="Instrumented Philips Lumify Convex and Linear Probes"></p>
+    <p>Detailed results and explanations of the optimization-based design method and neural network calibration can be found in our papers on the force sensors:</p>
+    <ul>
+      <li> <p><strong>D. Black</strong>, N. Rangga, M. Nogami, A.H. Hadi Hosseinabadi, S. Salcudean. &quot;Low Profile 6-Axis Differential Magnetic Force/Torque Sensing,&quot; in IEEE Transactions on Medical Robotics and Bionics, Submitted October 2023.</p>
+        <ul>
+          <li><a href="https://doi.org/10.36227/techrxiv.24570625.v1">Preprint: DOI: 10.36227/techrxiv.24570625.v1</a></li>
+        </ul>
+      </li>
+      <li> <p><strong>D. Black</strong>, A.H. Hadi Hosseinabadi, M. Nogami, N. Rangga, S. Salcudean. &quot;Towards Differential Magnetic Force Sensing for Ultrasound Teleoperation,&quot; in IEEE World Haptics Conference, July 10-13, 2023, Delft, NL.</p>
+      <ul>
+        <li><a href="/files/WHC_2023.pdf">PDF</a></li>
+        <li><a href="https://ieeexplore.ieee.org/abstract/document/10224473">DOI: 10.1109/WHC56415.2023.10224473</a></li>
+      </ul>
+      </li>
+      <li><strong>D. Black</strong>, S. Salcudean. &quot;Differential Magnetic Multi-axis Force Sensing,&quot; US Patent Office Provisional Patent. May 2023.</li>
+    </ul>
 </div>
 
 <!-- Footer -->
