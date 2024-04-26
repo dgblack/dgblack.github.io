@@ -126,6 +126,23 @@ body, html {
         <li>The HoloLens should connect to the communication. The red dot on the side of the settings menu should turn green, and a HoloLens icon should appear on the Android app</li>
        </ul>
     </li>
+    <li>
+      Set up the expert side
+      <ul>
+        <li>Open HumanTeleop.exe and press Run in the top left. The HoloLens video stream should immediately start and the haptic device should move up a little and stay there</li>
+        <li>Switch the control mode to the desired mode and start the teleoperation</li>
+      </ul>
+    </li>
+    <li>
+      Finishing the test
+      <ul>
+        <li>Press escape to exit the expert app. It should put down the haptic device gently and exit cleanly. The log file will appear on the desktop with the current date and the time that the app was started.</li>
+        <li>On the HoloLens, exit the app by going to the home screen and closing the MiRTHUS_CV window.</li>
+        <li>On the Android phone, quit the app and unplug the force sensor.</li>
+        <li>Stop the screen recording on the expert PC and save it with the log file</li>
+        <li>On the ultrasound probe, click "End Exam", review the images and measurements, and exprt the test to file. Make sure the image resolution is good and you know where the files are. Save these with the log file and screen recording</li>
+      </ul>
+    </li>
   </ul>
   <p>During tests, we want to collect all possible data. Currently, I have the expert side application set up to save all the kinematic and force data in a log file, along with some debugging information. The log file is organized as follows:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fegXM3cm2zU?si=zOe38WpivpGgn-K_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
