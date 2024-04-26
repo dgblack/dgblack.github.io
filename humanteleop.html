@@ -84,21 +84,52 @@ body, html {
 
   <h4 id="intro">Introduction and Contents</h5>
   <p>Intro and contents</p>
-  <p>This page contains some demo videos and video walkthroughs of the system, how to build, deploy, etc.. The last section also contains some tips and tricks for using the system, as well as some of the known issues. General demo:</p>
+  <p>This page contains some demo videos and video walkthroughs of the system, how to build, deploy, etc.. The last section also contains some tips and tricks for using the system, as well as some of the known issues. Here is a general, introductory demo video:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hwCLHIzUBlI?si=XAB_LWwjX6r-QSXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <a href="#expert" class="w3-bar-item w3-button" onclick="toggleFunction()">Expert Side</a>
-  <a href="#follower" class="w3-bar-item w3-button" onclick="toggleFunction()">Follower Side</a>
-  <a href="#android" class="w3-bar-item w3-button" onclick="toggleFunction()">Android and Force Sensor</a>
-  <a href="#communication" class="w3-bar-item w3-button" onclick="toggleFunction()">Communication</a>
-  <a href="#haptics" class="w3-bar-item w3-button" onclick="toggleFunction()">Haptics</a>
-  <a href="#issues" class="w3-bar-item w3-button" onclick="toggleFunction()">Tips and Known Issues</a>
+  <p><a href="#expert" class="w3-bar-item w3-button" onclick="toggleFunction()">Expert Side</a></p>
+  <p><a href="#follower" class="w3-bar-item w3-button" onclick="toggleFunction()">Follower Side</a></p>
+  <p><a href="#android" class="w3-bar-item w3-button" onclick="toggleFunction()">Android and Force Sensor</a></p>
+  <p><a href="#communication" class="w3-bar-item w3-button" onclick="toggleFunction()">Communication</a></p>
+  <p><a href="#haptics" class="w3-bar-item w3-button" onclick="toggleFunction()">Haptics</a></p>
+  <p><a href="#issues" class="w3-bar-item w3-button" onclick="toggleFunction()">Tips and Known Issues</a></p>
 </div>
 <div class="w3-content w3-container w3-padding-64" id="system">
   <h4 id="expert-app">Running the System</h5>
-  <p>How to run the system and access its features</p>
+  <p>This section describes how to run the system and access its features. The following video shows some of the main features.</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mUqgag4UBv4?si=5OENQ_3DSp-lHO0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>Data collection:</p>
+  <p> The general startup procedure is as follows:</p>
+  <ul>
+    <li>
+      Set up Android and force sensor
+      <ul>
+        <li>Turn on the Android phone and open the MiRTHUS_Android app.</li> 
+        <li>Plug in the force sensor and allow the permission</li>
+        <li>Press the reset button on the force sensor (the button closer to the probe face). You will need something like an Allen key to reach the button.</li>
+        <li>In a few seconds, a USB icon and a green dot should appear on the Android app, and force readings should appear.</li>
+        <li>If the probe wasn't held upright and not contacting anything during this procedure, hold it thus and long press the USB icon to bias it. You can also do this throughout the test whenever it needs biasing.</li>
+        <li>If it is necessary to change the communication ID or ultrasound probe type, hit the big green on button and select end service. Then hit the settings icon and enter the communication ID. Hit OK to confirm. You can choose the probe type from the dropdown. This affects the force sensor calibration. Hit Exit Settings to return to the main screen, and press the on butotn again to restart the service.</li>
+      </ul>
+    </li>
+    <li>
+      Set up ultrasound stream
+      <ul>
+        <li>Plug ultrasound probe into the Android tablet and open the Lumify app</li>
+        <li>Open Windows Phone Link on the expert PC and connect to the tablet</li>
+        <li>The follower has to accept the start recording notification on the tablet</li>
+      </ul>
+    </li>
+    <li>
+      Set up the HoloLens 2.
+       <ul>
+        <li>Turn on the HoloLens and open the MiRTHUS_CV app</li>
+        <li>Place the ultrasound probe flat on the patient, with its face at midline, close to the base of the ribs, and with the face of the probe pointing to the patient's head, and the IR markers pointing to the patient's feet. Make sure you can see the IR markers. Once the alignment is good, press the confirm button. The confirm button should be upright and facing you if you have the right alignment.</li>
+        <li>The HoloLens should connect to the communication. The red dot on the side of the settings menu should turn green, and a HoloLens icon should appear on the Android app</li>
+       </ul>
+    </li>
+  </ul>
+  <p>During tests, we want to collect all possible data. Currently, I have the expert side application set up to save all the kinematic and force data in a log file, along with some debugging information. The log file is organized as follows:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fegXM3cm2zU?si=zOe38WpivpGgn-K_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p>To record the ultrasound image, we should do a screen recording of the Android screen stream. Unfortunately, we do not have direct access to the ultrasound image otherwise. Additionally, it would be useful to record the patient mesh and pose so the measured probe poses are referenced to the patient anatomy. Finally, we should pipe the HoloLens video stream to a video file as well, to save what the follower sees.</p>
 </div>
 <div class="w3-content w3-container w3-padding-64" id="expert">
   <h4 id="expert-app">Expert Side App</h5>
