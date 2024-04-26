@@ -85,6 +85,7 @@ body, html {
   <h4 id="intro">Introduction and Contents</h5>
   <p>Intro and contents</p>
   <p>This page contains some demo videos and video walkthroughs of the system, how to build, deploy, etc.. The last section also contains some tips and tricks for using the system, as well as some of the known issues. Here is a general, introductory demo video:</p>
+  <h3>Contents:</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hwCLHIzUBlI?si=XAB_LWwjX6r-QSXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p><a href="#expert" class="w3-bar-item w3-button" onclick="toggleFunction()">Expert Side</a></p>
   <p><a href="#follower" class="w3-bar-item w3-button" onclick="toggleFunction()">Follower Side</a></p>
@@ -150,10 +151,17 @@ body, html {
 </div>
 <div class="w3-content w3-container w3-padding-64" id="expert">
   <h4 id="expert-app">Expert Side App</h5>
-  <p>Expert Side App and building. Building:</p>
+  <p>The expert side application is written in C++ and based on the Qt framework for the UI. It uses OpenHaptics SDK to control the haptic device, and WebRTC (libdatachannel) for the communication, as well as some other libraries. The build process is through CMake, as shown below:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2mVO5zBRP8Q?si=doOhfAgJfy0wIYtK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>First startup:</p>
+  <p>On first startup, you will have to select some settings, but these are saved to a file so the expert does not have to set them every time they open the app:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1pBCrsaFSDI?si=7mTrqwsgal6PeUiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p>The main complexity of the expert side lies in the haptic feedback algorithms, of which I've tried quite a few. These are described in the <a href="#haptics">haptics</a> section below. Some important notes:</p>
+  <ul>
+    <li>The expert side occasionally crashes when the Android disconnects. It has something to do with how the communication is stopped and restarted when this happens</li>
+    <li>After some minutes, the communication sometimes becomes extremely laggy, with delays of more than a second. This is noticeable in the video stream and the motions of the virtual probe, and renders force feedback impossible. Simply restarting the expert side rectifies this immediately. Possibly, hitting Stop and the Start again to restart the communication also does the trick.</li>
+    <li>Use a fan pointing at the haptic device to avoid overheating, and try to reduce the amount of force being applied at any time. If the force exceeds 6-7 N, the haptic device saturates or pops through. There is a bar on the side of the expert app that shows how close the force is to saturating.</li>
+    <li>The haptic device works best when laid on its side, on the right-hand side of the expert. This way we avoid a lot of annoying singularities and greatly improve the workspace. Position it so the SensAble Technologies logo on the main joint faces up, the device is in front and to the right of the expert, and the back plate of the device points perpendicular to the expert's monitor. If for some reason it has to be used in its normal configuration, comment out the LAYING_ON_SIDE constant in QtHaptics.h.</li>
+  </ul>
 </div>
 <div class="w3-content w3-container w3-padding-64" id="follower">
   <h4 id="follower-app">Follower Side App</h5>
