@@ -174,6 +174,7 @@ body, html {
             Follower Side App</h5>
             <p>The follower side app is built in Unity for the HoloLens 2. It uses the Microsoft Mixed Reality Toolkit (MRTK 2) for the general UI and the ResearchMode APIs to interact with the IR camera and depth sensor. The build process is shown below:</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/fmZWqbRMFps?si=eCbsPzFbDejG2GXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>If the deployment to the HoloLens fails with a COM exception or any other problem, it is usually because the WiFi connection to the HoloLens was lost. Make sure the HoloLens is on and on the same WiFi network, and retry the deployment.</p>
             <p>When running the follower app on the HoloLens 2, the follower should try to keep the 4 IR markers in view at all times as these are used to track the ultrasound probe and play a role in the feedback to the expert. Some of the general capabilities and settings of the HoloLens app are found <a href="#system">here</a>.</p>
     </div>
     <div class="w3-content w3-container w3-padding-64" id="android">
@@ -286,6 +287,9 @@ body, html {
             <p>Communication lag: after several minutes of running the system, the communication will sometimes start running very slowly. Restarting the expert-side communications fixes the problem immediately. I suspect this has something to do with buffers filling on the Android app (?). This has to be addressed ASAP.</p>
             <p>Haptic device overheating: run the haptic device with a fan blowing air at it so it is less likely to overheat. Also keep forces as low as possible.</p>
             <p>Haptic device pop-through: if the expert pops through the haptic device's virtual fixture and all haptics disappear, press ctrl-shift to re-enable the virtual surface.</p>
+            <p>General crashes, freezes, or malfunctions: if anything happens, it is usually rectified by restarting the relevant application. Everything else should reconnect automatically. </p>
+            <p>Microsoft PSI: the Microsoft <a href="https://github.com/microsoft/psi">Platform for Situated Intelligence</a> is a promising framework that could let us build the HoloLens app with WebRTC and access to the sensor streams. It could also run faster and with less overhead than the Unity app.</p>
+            <p>Avoid changing the virtual probe offset on the follower side when using the ellipsoid haptics. It will mess up the alignment.</p>
     </div>
     <div class="w3-content w3-container w3-padding-64" id="resources">
         <h4 id="resources-header">Resources and Repos</h5>
