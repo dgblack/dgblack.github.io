@@ -44,198 +44,303 @@ body, html {
 </head>
 <body>
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar" id="myNavbar">
-    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <a href="index.html" class="w3-bar-item w3-button">HOME</a>
-    <a href="index.html#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
-    <a href="index.html#cv" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> CV</a>
-    <a href="adventure.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-o"></i> ADVENTURE</a>
-    <a href="index.html#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
-      <i class="fa fa-search"></i>
-    </a>
-  </div>
+    <!-- Navbar (sit on top) -->
+    <div class="w3-top">
+        <div class="w3-bar" id="myNavbar">
+            <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+                <i class="fa fa-bars"></i>
+            </a>
+            <a href="index.html" class="w3-bar-item w3-button">HOME</a>
+            <a href="index.html#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+            <a href="index.html#cv" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> CV</a>
+            <a href="adventure.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-o"></i> ADVENTURE</a>
+            <a href="index.html#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
+            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
 
-  <!-- Navbar on small screens -->
-  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
-    <a href="index.html#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
-    <a href="index.html#cv" class="w3-bar-item w3-button" onclick="toggleFunction()">CV</a>
-    <a href="adventure.html" class="w3-bar-item w3-button" onclick="toggleFunction()">ADVENTURE</a>
-    <a href="index.html#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
-    <a href="#" class="w3-bar-item w3-button">SEARCH</a>
-  </div>
-</div>
+        <!-- Navbar on small screens -->
+        <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+            <a href="index.html#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
+            <a href="index.html#cv" class="w3-bar-item w3-button" onclick="toggleFunction()">CV</a>
+            <a href="adventure.html" class="w3-bar-item w3-button" onclick="toggleFunction()">ADVENTURE</a>
+            <a href="index.html#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
+            <a href="#" class="w3-bar-item w3-button">SEARCH</a>
+        </div>
+    </div>
 
-<!-- First Parallax Image with Logo Text -->
-<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
-  <div class="w3-display-middle" style="white-space:nowrap;">
-    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">HUMAN <span class="w3-hide-small"></span> TELEOPERATION</span>
-  </div>
-</div>
+    <!-- First Parallax Image with Logo Text -->
+    <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+        <div class="w3-display-middle" style="white-space:nowrap;">
+            <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">HUMAN <span class="w3-hide-small"></span> TELEOPERATION</span>
+        </div>
+    </div>
 
-<!-- Container (Wiki Section) -->
-<div class="w3-content w3-container w3-padding-64" id="contents">
-  <h2 id="human-teleop-wiki">Human Teleoperation Wiki</h1>
-  <h5 id="version-date">Updated: April 26, 2024</h5>
+    <!-- Container (Wiki Section) -->
+    <div class="w3-content w3-container w3-padding-64" id="contents">
+        <h2 id="human-teleop-wiki">
+            Human Teleoperation Wiki</h1>
+            <h5 id="version-date">Updated: April 26, 2024</h5>
 
-  <h4 id="intro">Introduction and Contents</h5>
-  <p>Intro and contents</p>
-  <p>This page contains some demo videos and video walkthroughs of the system, how to build, deploy, etc.. The last section also contains some tips and tricks for using the system, as well as some of the known issues. Here is a general, introductory demo video:</p>
-  <h3>Contents:</h3>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hwCLHIzUBlI?si=XAB_LWwjX6r-QSXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p><a href="#expert" class="w3-bar-item w3-button" onclick="toggleFunction()">Expert Side</a></p>
-  <p><a href="#follower" class="w3-bar-item w3-button" onclick="toggleFunction()">Follower Side</a></p>
-  <p><a href="#android" class="w3-bar-item w3-button" onclick="toggleFunction()">Android and Force Sensor</a></p>
-  <p><a href="#communication" class="w3-bar-item w3-button" onclick="toggleFunction()">Communication</a></p>
-  <p><a href="#haptics" class="w3-bar-item w3-button" onclick="toggleFunction()">Haptics</a></p>
-  <p><a href="#issues" class="w3-bar-item w3-button" onclick="toggleFunction()">Tips and Known Issues</a></p>
+            <h4 id="intro">
+                Introduction and Contents</h5>
+                <p>Intro and contents</p>
+                <p>This page contains some demo videos and video walkthroughs of the system, how to build, deploy, etc.. The last section also contains some tips and tricks for using the system, as well as some of the known issues. Here is a general, introductory demo video:</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/hwCLHIzUBlI?si=XAB_LWwjX6r-QSXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <h3>Contents:</h3>
+                <p><a href="#expert" class="w3-bar-item w3-button" onclick="toggleFunction()">Expert Side</a></p>
+                <p><a href="#follower" class="w3-bar-item w3-button" onclick="toggleFunction()">Follower Side</a></p>
+                <p><a href="#android" class="w3-bar-item w3-button" onclick="toggleFunction()">Android and Force Sensor</a></p>
+                <p><a href="#communication" class="w3-bar-item w3-button" onclick="toggleFunction()">Communication</a></p>
+                <p><a href="#haptics" class="w3-bar-item w3-button" onclick="toggleFunction()">Haptics</a></p>
+                <p><a href="#issues" class="w3-bar-item w3-button" onclick="toggleFunction()">Tips and Known Issues</a></p>
+                <p><a href="#resources" class="w3-bar-item w3-button" onclick="toggleFunction()">Resources and Repos</a></p>
 </div>
-<div class="w3-content w3-container w3-padding-64" id="system">
-  <h4 id="expert-app">Running the System</h5>
-  <p>This section describes how to run the system and access its features. The following video shows some of the main features.</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mUqgag4UBv4?si=5OENQ_3DSp-lHO0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p> The general startup procedure is as follows:</p>
-  <ul>
-    <li>
-      Set up Android and force sensor
-      <ul>
-        <li>Turn on the Android phone and open the MiRTHUS_Android app.</li> 
-        <li>Plug in the force sensor and allow the permission</li>
-        <li>Press the reset button on the force sensor (the button closer to the probe face). You will need something like an Allen key to reach the button.</li>
-        <li>In a few seconds, a USB icon and a green dot should appear on the Android app, and force readings should appear.</li>
-        <li>If the probe wasn't held upright and not contacting anything during this procedure, hold it thus and long press the USB icon to bias it. You can also do this throughout the test whenever it needs biasing.</li>
-        <li>If it is necessary to change the communication ID or ultrasound probe type, hit the big green on button and select end service. Then hit the settings icon and enter the communication ID. Hit OK to confirm. You can choose the probe type from the dropdown. This affects the force sensor calibration. Hit Exit Settings to return to the main screen, and press the on butotn again to restart the service.</li>
-      </ul>
-    </li>
-    <li>
-      Set up ultrasound stream
-      <ul>
-        <li>Plug ultrasound probe into the Android tablet and open the Lumify app</li>
-        <li>Open Windows Phone Link on the expert PC and connect to the tablet</li>
-        <li>The follower has to accept the start recording notification on the tablet</li>
-      </ul>
-    </li>
-    <li>
-      Set up the HoloLens 2.
-       <ul>
-        <li>Turn on the HoloLens and open the MiRTHUS_CV app</li>
-        <li>Place the ultrasound probe flat on the patient, with its face at midline, close to the base of the ribs, and with the face of the probe pointing to the patient's head, and the IR markers pointing to the patient's feet. Make sure you can see the IR markers. Once the alignment is good, press the confirm button. The confirm button should be upright and facing you if you have the right alignment.</li>
-        <li>The HoloLens should connect to the communication. The red dot on the side of the settings menu should turn green, and a HoloLens icon should appear on the Android app</li>
-       </ul>
-    </li>
-    <li>
-      Set up the expert side
-      <ul>
-        <li>Open HumanTeleop.exe and press Run in the top left. The HoloLens video stream should immediately start and the haptic device should move up a little and stay there</li>
-        <li>Switch the control mode to the desired mode and start the teleoperation</li>
-      </ul>
-    </li>
-    <li>
-      Finishing the test
-      <ul>
-        <li>Press escape to exit the expert app. It should put down the haptic device gently and exit cleanly. The log file will appear on the desktop with the current date and the time that the app was started.</li>
-        <li>On the HoloLens, exit the app by going to the home screen and closing the MiRTHUS_CV window.</li>
-        <li>On the Android phone, quit the app and unplug the force sensor.</li>
-        <li>Stop the screen recording on the expert PC and save it with the log file</li>
-        <li>On the ultrasound probe, click "End Exam", review the images and measurements, and exprt the test to file. Make sure the image resolution is good and you know where the files are. Save these with the log file and screen recording</li>
-      </ul>
-    </li>
-  </ul>
-  <p>During tests, we want to collect all possible data. Currently, I have the expert side application set up to save all the kinematic and force data in a log file, along with some debugging information. The log file is organized as follows:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fegXM3cm2zU?si=zOe38WpivpGgn-K_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>To record the ultrasound image, we should do a screen recording of the Android screen stream. Unfortunately, we do not have direct access to the ultrasound image otherwise. Additionally, it would be useful to record the patient mesh and pose so the measured probe poses are referenced to the patient anatomy. Finally, we should pipe the HoloLens video stream to a video file as well, to save what the follower sees.</p>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="expert">
-  <h4 id="expert-app">Expert Side App</h5>
-  <p>The expert side application is written in C++ and based on the Qt framework for the UI. It uses OpenHaptics SDK to control the haptic device, and WebRTC (libdatachannel) for the communication, as well as some other libraries. The build process is through CMake, as shown below:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2mVO5zBRP8Q?si=doOhfAgJfy0wIYtK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>On first startup, you will have to select some settings, but these are saved to a file so the expert does not have to set them every time they open the app:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1pBCrsaFSDI?si=7mTrqwsgal6PeUiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>The main complexity of the expert side lies in the haptic feedback algorithms, of which I've tried quite a few. These are described in the <a href="#haptics">haptics</a> section below. Some important notes:</p>
-  <ul>
-    <li>The expert side occasionally crashes when the Android disconnects. It has something to do with how the communication is stopped and restarted when this happens</li>
-    <li>After some minutes, the communication sometimes becomes extremely laggy, with delays of more than a second. This is noticeable in the video stream and the motions of the virtual probe, and renders force feedback impossible. Simply restarting the expert side rectifies this immediately. Possibly, hitting Stop and the Start again to restart the communication also does the trick.</li>
-    <li>Use a fan pointing at the haptic device to avoid overheating, and try to reduce the amount of force being applied at any time. If the force exceeds 6-7 N, the haptic device saturates or pops through. There is a bar on the side of the expert app that shows how close the force is to saturating.</li>
-    <li>The haptic device works best when laid on its side, on the right-hand side of the expert. This way we avoid a lot of annoying singularities and greatly improve the workspace. Position it so the SensAble Technologies logo on the main joint faces up, the device is in front and to the right of the expert, and the back plate of the device points perpendicular to the expert's monitor. If for some reason it has to be used in its normal configuration, comment out the LAYING_ON_SIDE constant in QtHaptics.h.</li>
-  </ul>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="follower">
-  <h4 id="follower-app">Follower Side App</h5>
-  <p>Follower side app and building</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmZWqbRMFps?si=eCbsPzFbDejG2GXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="android">
-  <h4 id="android-apps">Force Sensor and Android Applications</h5>
-  <p>Android app and Lumify</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YYQFddBCn6Q?si=lNhQeY0STawCl42_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="communication">
-  <h4 id="comms">Communication</h5>
-  <p>Communication architecture</p>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="haptics">
-  <h4 id="haptics-header">Haptics</h5>
-  <p>Describe the haptics. Ellipsoid controller:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BlAXUXhezHs?si=fik1nWiBk-Diu-dZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>Other haptics:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/p6IcUb3AKjM?si=YmDdO9b0aZJBFvc1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>Surface toggling:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7RLmrRqmWok?si=KbmXxehQEIBkKFo6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>Clutching:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0UFLtJTKFRI?si=QK3-MzVec7TuRXYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-<div class="w3-content w3-container w3-padding-64" id="issues">
-  <h4 id="issues-header">Tips and Known Issues</h5>
-  <p>Describe the known issues and some common tips/tricks</p>
-</div>
-</div>
-  
-<!-- Footer -->
-<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
-  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
-  <div class="w3-xlarge w3-section">
-    <a href="https://github.com/dgblack"><i class="fa fa-github w3-hover-opacity"></i></a>
-    <a href="https://scholar.google.com/citations?user=As_yDKkAAAAJ&hl=en"><i class="fa fa-google w3-hover-opacity"></i></a>
-    <a href="https://twitter.com/BlackDavidG"><i class="fa fa-twitter w3-hover-opacity"></i></a>
-    <a href="https://linkedin.com/in/davidgblack"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
-  </div>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
-</footer>
- 
-<script>
-// Modal Image Gallery
-function onClick(element) {
-  document.getElementById("img01").src = element.src;
-  document.getElementById("modal01").style.display = "block";
-  var captionText = document.getElementById("caption");
-  captionText.innerHTML = element.alt;
-}
+    <div class="w3-content w3-container w3-padding-64" id="system">
+        <h4 id="general-system">
+            Running the System</h5>
+            <p>This section describes how to run the system and access its features. The following video shows some of the main features.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/mUqgag4UBv4?si=5OENQ_3DSp-lHO0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p> The general startup procedure is as follows:</p>
+            <ul>
+                <li>
+                    Set up Android and force sensor
+                    <ul>
+                        <li>Turn on the Android phone and open the MiRTHUS_Android app.</li>
+                        <li>Plug in the force sensor and allow the permission</li>
+                        <li>Press the reset button on the force sensor (the button closer to the probe face). You will need something like an Allen key to reach the button.</li>
+                        <li>In a few seconds, a USB icon and a green dot should appear on the Android app, and force readings should appear.</li>
+                        <li>If the probe wasn't held upright and not contacting anything during this procedure, hold it thus and long press the USB icon to bias it. You can also do this throughout the test whenever it needs biasing.</li>
+                        <li>If it is necessary to change the communication ID or ultrasound probe type, hit the big green On button and select end service. Then hit the settings icon and enter the communication ID. Hit OK to confirm. You can choose the probe type from the dropdown. This affects the force sensor calibration. Hit Exit Settings to return to the main screen, and press the On button again to restart the service.</li>
+                    </ul>
+                </li>
+                <li>
+                    Set up ultrasound stream
+                    <ul>
+                        <li>Plug the ultrasound probe into the Android tablet and open the Lumify app</li>
+                        <li>Open Windows Phone Link on the expert PC and connect to the tablet</li>
+                        <li>The follower has to accept the start recording notification on the tablet</li>
+                        <li>The phone link app is best run on a laptop with a touch screen and/or track pad because it is difficult to use a mouse with one's left hand.</li>
+                    </ul>
+                </li>
+                <li>
+                    Set up the HoloLens 2.
+                    <ul>
+                        <li>Turn on the HoloLens and open the MiRTHUS_CV app</li>
+                        <li>Place the ultrasound probe flat on the patient, with its face at midline, close to the base of the ribs, and facing the patient's head, and the IR markers pointing to the patient's feet. Make sure you can see the IR markers. Once the alignment is good, press the confirm button. The confirm button should be upright and facing you if you have the right alignment.</li>
+                        <li>The HoloLens should connect to the communication. The red dot on the side of the settings menu should turn green, and a HoloLens icon should appear on the Android app</li>
+                    </ul>
+                </li>
+                <li>
+                    Set up the expert side
+                    <ul>
+                        <li>Open HumanTeleop.exe and press Run in the top left. The HoloLens video stream should immediately start and the haptic device should move up a little and stay there</li>
+                        <li>Switch the control mode to the desired mode and start the teleoperation</li>
+                    </ul>
+                </li>
+                <li>
+                    Finishing the test
+                    <ul>
+                        <li>Press escape to exit the expert app. It should put down the haptic device gently and exit cleanly. The log file will appear on the desktop with the current date and the time that the app was started.</li>
+                        <li>On the HoloLens, exit the app by going to the home screen and closing the MiRTHUS_CV window.</li>
+                        <li>On the Android phone, quit the app and unplug the force sensor.</li>
+                        <li>Stop the screen recording on the expert PC and save it with the log file</li>
+                        <li>On the ultrasound probe, click "End Exam", review the images and measurements, and exprt the test to file. Make sure the image resolution is good and you know where the files are. Save these with the log file and screen recording</li>
+                    </ul>
+                </li>
+            </ul>
+            <p>During tests, we want to collect all possible data. Currently, I have the expert side application set up to save all the kinematic and force data in a log file, along with some debugging information. The log file is organized as follows:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fegXM3cm2zU?si=zOe38WpivpGgn-K_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>To record the ultrasound image, we should do a screen recording of the Android screen stream. Unfortunately, we do not have direct access to the ultrasound image otherwise. Additionally, it would be useful to record the patient mesh and pose so the measured probe poses are referenced to the patient anatomy. Finally, we should pipe the HoloLens video stream to a video file as well, to save what the follower sees.</p>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="expert">
+        <h4 id="expert-app">
+            Expert Side App</h5>
+            <p>The expert side application is written in C++ and based on the Qt framework for the UI. It uses OpenHaptics SDK to control the haptic device, and WebRTC (libdatachannel) for the communication, as well as some other libraries. The build process is through CMake, as shown below:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/2mVO5zBRP8Q?si=doOhfAgJfy0wIYtK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>On first startup, you will have to select some settings, but these are saved to a file so the expert does not have to set them every time they open the app:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1pBCrsaFSDI?si=7mTrqwsgal6PeUiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>The main complexity of the expert side lies in the haptic feedback algorithms, of which I've tried quite a few. These are described in the <a href="#haptics">haptics</a> section below. Some important notes:</p>
+            <ul>
+                <li>The expert side occasionally crashes when the Android disconnects. It has something to do with how the communication is stopped and restarted when this happens</li>
+                <li>After some minutes, the communication sometimes becomes extremely laggy, with delays of more than a second. This is noticeable in the video stream and the motions of the virtual probe, and renders force feedback impossible. Simply restarting the expert side rectifies this immediately. Possibly, hitting Stop and the Start again to restart the communication also does the trick.</li>
+                <li>Use a fan pointing at the haptic device to avoid overheating, and try to reduce the amount of force being applied at any time. If the force exceeds 6-7 N, the haptic device saturates or pops through. There is a bar on the side of the expert app that shows how close the force is to saturating.</li>
+                <li>The haptic device works best when laid on its side, on the right-hand side of the expert. This way we avoid a lot of annoying singularities and greatly improve the workspace. Position it so the SensAble Technologies logo on the main joint faces up, the device is in front and to the right of the expert, and the back plate of the device points perpendicular to the expert's monitor. If for some reason it has to be used in its normal configuration, comment out the LAYING_ON_SIDE constant in QtHaptics.h.</li>
+            </ul>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="follower">
+        <h4 id="follower-app">
+            Follower Side App</h5>
+            <p>The follower side app is built in Unity for the HoloLens 2. It uses the Microsoft Mixed Reality Toolkit (MRTK 2) for the general UI and the ResearchMode APIs to interact with the IR camera and depth sensor. The build process is shown below:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fmZWqbRMFps?si=eCbsPzFbDejG2GXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>When running the follower app on the HoloLens 2, the follower should try to keep the 4 IR markers in view at all times as these are used to track the ultrasound probe and play a role in the feedback to the expert. Some of the general capabilities and settings of the HoloLens app are found <a href="#system">here</a>.</p>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="android">
+        <h4 id="android-apps">Force Sensor and Android Applications</h5>
+            <p>The Android phone/tablet on the follower side acts as a communication relay between the HoloLens and expert side. It also serves to read in and process  the ultrasound image from the Philips Lumify probe, and to read in the force sensor measurements and perform the calibration.</p>
+            <p>To handle the communication and force sensor, we have an app written in Android Studio (Java). The video below shows how to set it up. To view and remotely control the ultrasound, use Windows Phone Link on the expert side.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/YYQFddBCn6Q?si=lNhQeY0STawCl42_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>There are a couple notes to be aware of for the Android and force sensor</p>
+            <ul>
+                <li>Importantly, if the Lumify and force sensor are plugged into the same tablet using a USB adapter, and the tablet is open to the Lumify app, the force sensor readings become unusable, with sharp pulses at 10 Hz. I suspect this is due to the USB handling of the Android, but we should look into it. Otherwise, the only way for the system to work is to have the tablet and a smartphone and plug the Lumify and force sensor into separate devices. Or try using WiFi or Bluetooth with the force sensor.</li>
+                <li>The probe itself has weight and causes force readings to appear on the force sensor, depending on the bias and the current orientation. There might be a way to input the current pose into the calibration as well</li>
+                <li>Swipe up from the bottom left of the Android to view open apps and from the middle to go to the home screen.</li>
+                <li>The system is supposed to be robust to communication losses, so if expert,  follower, or Android quit or disconnect, simply starting them again should immediately re-establish the communication. Unfortunately, there is a bug where the expert side sometimes crashes if the Android app stops. Also, if the Android loses wifi, it disconnects from everything but it hasn't actually quit or closed, so it does not notice and does not try to reestablish a connection. Thus, the app (or at least the service) must be restarted. On UBC WiFi I think this happens at least once or twice per test, so we should fix this.</li>
+            </ul>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="communication">
+        <h4 id="comms">Communication</h5>
+            <p>The communication architecture is primarily based on Web Real Time Communication (WebRTC) but with some complications. The ResearchMode API is only compatible wih an ARM64 processor while any WebRTC builds I can find for UWP are only compatible with ARM. Thus, we cannot handle both probe pose tracking and WebRTC communication at the same time. Instead, the local tablet which handles the ultrasound probe and force sensor is connected to the expert side via WebRTC, and to the HoloLens via a local WebSocket. The WebSocket server is hosted on the Android, and the HoloLens connects as a client. Additionally, there is a signaling server hosted on Heroku that takes care of the WebRTC signaling, to establish an initial connection. The code for interacting with this server is present in all the GitHub repos. I also set up the HoloLens and Android to exchange IP addresses over this signaling server so the HoloLens knows which WebSocket address to try connecting to.</p>
+            <p>Of course this is far from the most efficient architecture. The HoloLens sends video streams over the WebSocket, which is not at all optimal, and the stream has to be forwarded over a WebRTC data channel instead of a media channel because it is already encoded and fragmented into packets. In addition, there is the processing delay of the Android associated with receiving and retransmitting every single message, and the WebSocket does not separate nicely into distinct channels as WebRTC does, so delay from one data stream will delay all the data. Ideally, the HoloLens would connect directly to the expert over WebRTC as well. Then the video stream could be sent directly through a media channel and the stream format and quality could be negotiated during signaling. The delay would be smaller and everything would be more robust. A second WebRTC connection could be made to the Android as well to receive the measured forces.</p>
+            <p>As described above, the current video stream structure is not ideal. We have three options at the moment: MJPEG, WEBP, and H.264. The FMETP library on the HoloLens allows us to access the webcam and holograms and combine them in a shader. The shader is pretty easy to modify, for example to align the holograms and world more precisely. This library by default outputs a modified MJPEG format (FMMJPEG), which we can send and process on the expert side using libturbojpeg. The processing is very efficient, but the actual video stream is pretty large and uses a lot of bandwidth so we can only send pretty low resolution without causing some instability issues. WebP is more bandwidth-efficient than MJPEG and also easy to process, but unfortunately the dlls don't work on the HoloLens so we can't use it. Finally, h.264 is the standard video streaming encoding and is very efficient and almost lossless. We got it working using the Poph264 library, which is built on top of Windows Media Foundation. The latter has very opaque APIs and is hard to work with. However, there is a memory leak which causes overflow after 10-20 minutes, so we cannot use this. Apparently others using the same library have had the same problem, and the creators are trying to figure it out. So this is a bit blocked for us for now.</p>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="haptics">
+        <h4 id="haptics-header">
+            Haptics</h5>
+            <p>Haptics is an essential part of the human teleoperation system, and perhaps the hardest aspect. Through many hours of testing with sonographers, we have found that it is almost impossible to guide procedures unless the sonographer has a somewhat accurate representation of the patient's surface to rest on, which also corresponds with the virtual probe being on the actual patient's surface.</p>
+            <p>I implemented a large number of force feedback algorithms, some of which are shown in the video below. Some of the main ones include:</p>
+            <ul>
+                <li>Direct force feedback
+                    <ul>
+                        <li>Feed back the measured force, transformed for the current probe pose, both of which are low-pass filtered</li>
+                        <li>The sonographers always push too hard and the haptic device is too weak, so they drift deeper and deeper into the patient</li>
+                        <li>As the expert pushes too hard and goes deeper, the follower person is hesitant to push harder on the patient (this is the case for everyone we have tested so far), so they do not follow, the force does not increase, and nothing stops the expert from going even deeper.</li>
+                        <li>Indeed, there is no explicit control input which ties the expert and follower positions together when in contact with the patient. Because the follower has a mind of their own, the implicit position tracking from the force feedback does not work.</li>
+                        <li>A combination of the communication delay due to the WebSocket forwarding, the delay of the follower tracking the motion, the delay of measuring the force and feeding it back to the expert, and the phase delay due to the low-pass filtering means that when the expert moves down to contact the patient, they only receive force feedback after they have moved a decent distance into the patient, so they immediately start off misaligned. Additionally, the sudden onset of force jerks the expert's hand back so the virtual probe moves, which the follower tries to track, so the force decreases, so the expert moves down again, etc., leading to an oscillating motion.</li>
+                        <li>The follower also does not hold perfectly steady, so it pushes the expert's hand around which is uncomfortable and unintuitive for the expert.</li>
+                        <li>Sometimes the follower only touches the patient very gently and is quite hesitant to push harder. Not only does this lead to the problem described above, but when they touch so lightly, the expert actually can't feel it on the haptic device. It is possible to increase the gain, but this also increases the magnitude of the noise, and if the follower pushes harder it quickly becomes pretty violent for the expert. It also leads to faster overheating.</li>
+                        <li>The force sensor is sensitive to changes in orientation, due to the weight of the ultrasound probe itself. This can lead to weird phantom forces on the haptic device.</li>
+                    </ul>
+                </li>
+                <li>
+                    Position-error feedback
+                    <ul>
+                        <li>Compute the error, e, between the expert and follower positions. Apply a force to the expert that is proportional ot this error - something like f = k*e, plus some damping. This solves the problem of the expert's virtual probe drifting into the patient, and applies a force on them when the follower cannot push deeper into the patient.</li>
+                        <li>Due to the aforementioned delay, however, it applies a force on the expert any time they want to move anywhere, and makes it almost impossible to scan.</li>
+                        <li>It also requires the follower to keep the IR markers in view at all times, and doesn't make use of the force sensor at all.</li>
+                    </ul>
+                </li>
+                <li>Force feedback plus spring
+                    <ul>
+                        <li>This is a combination of the previous two methods. We apply the fed-back force, but if the expert starts pushing further into the patient (along the direction of the force vector), we apply a spring force proportional to the distance from the follower's probe</li>
+                        <li>This fixes the position drift of the direct force feedback</li>
+                        <li>It also only applies the spring force along the force direction, which is presumably normal to the patient surface, so the expert is still free to move around on the surface. Thus it solves the problem of the position error feedback.</li>
+                        <li>It gives the expert the actual force feedback, which could be used to feel ribs, for example, but also lets them move stably along the surface without sinking into it as is the tendency without the spring force.</li>
+                        <li>However, since the follower lags the expert, by the time the force is applied, sensed, and reflected to the expert, they are usually well inside the patient. Thus, the spring immediately kicks in and applies a large force. This makes for a very jerky and uncomfortable experience.</li>
+                        <li>The sum of spring force and direct feedback also leads to fairly high forces which can cause the haptic device to saturate and/or overheat.</li>
+                        <li>Ultimately, this method seems quite promising and the jerkiness problem might just be an issue of implementation. If the large step change in force could be detected and substantially smoothed, for example, it might work better. With a better haptic device, the overheating problem could be eliminated as well.</li>
+                    </ul>
+                </li>
+                <li>Flat surface
+                    <ul>
+                        <li>This is the easiest method if really nothing else works. It simply renders a flat virtual surface with a spring/damper for the expert to rest on. </li>
+                        <li>The expert can activate/deactivate the surface by pressing ctrl+shift. If activating the surface, it is created at the current height of the haptic device. This makes it easy to move up and down. The virtual probe can also be offset on the HoloLens so the surface height corresponds with the patient.</li>
+                        <li>This actually works surprisingly well when scanning the flat part of the central abdomen, but quickly fails otherwise</li>
+                    </ul>
+                </li>
+                <li>Adaptive flat surface
+                    <ul>
+                        <li>This is exactly just the flat surface, but instead of being oriented to represent a horizontal plane, its normal vector is set to the current patient normal (i.e. the direction of the force vector on the patient) when the surface is activated with ctrl-shift.</li>
+                        <li>Unfortunately this does not really help because the non-horizontal parts of the test (kidney, liver, etc) are on the flank of the patient where there is a large degree of curvature, so the flat plane is only a reasonable approximation for a very tiny range of motion.</li>
+                        <li>I tried an algorithm which automatically updates the surface if the lateral offset from the initial probe position exceeds a threshold. The surface normal is updated to the current force direction, and the applied haptic device force is smoothly interpolated onto the new surface. This does not work well, though, as it is still too rough for the curved patient, and the transition between flat surfaces seems to always end with the probe being well inside the patient.</li>
+                    </ul>
+                </li>
+                <li>Point cloud</li>
+                    <ul>
+                        <li>OpenHaptics HL mode has the ability to create a virtual fixture from a 3D triangular mesh. The algorith is abstracted, but I think it uses the <a href="https://doi.org/10.1109/IROS.1997.649024">proxy point method</a> used by Oussama Khatib, based on the <a href="https://doi.org/10.1109/IROS.1995.525876">God object</a> by Ken Salisbury. There's some <a href="https://doi.org/10.1080/01691864.2014.962613">more modern work</a> on this too.</li>
+                        <li>However, for all the other haptics we are using HD mode, and I'm not sure if it's possible to switch between them dynamically. I created a simplified method where it finds the closes three mesh points to the current end effector position, interpolates their normals and distances, and applies a spring force along the new normal.</li>
+                        <li>This will allow us to use meshes or point clouds generated by the HoloLens once we have those. We are currently working on obtaining high-quality patient meshes.</li>
+                        <li>I also implemented a method of measuring patient surface points using the pose tracking and force sensing on the ultrasound probe and building the point cloud dynamically in a kind of "blind exploration".</li>
+                        <li>Caveat: I did not get the chance to test this at all, so there are probably issues with the implentation (in spatialutils.h). I also spent some time looking up efficient tree methods for representing points in 3D space, but ended up running out of time and using a simple array search to find closest points. So this could be problematic if the point cloud is large. It may also just be easier to switch to HL mode somehow.</li>
+                    </ul>
+                <li>Ellipsoid
+                    <ul>
+                        <li>This is the current best option and the method we will use for tests in the short-term.</li>
+                        <li>Using a point collection method as described above, the follower gathers 8 points on the patient surface. The points are projected to a plane that bisects the patient (i.e. its normal vector is the patient's long axis), and an ellipse is fit to them. This is used to define an ellipsoid with one very long semiaxis along the patient's long axis. The ellipsoid is used as a virtual fixture for the haptic device.</li>
+                        <li>In a number of tests so far, this seems very effective. Using 8 points, the fitted ellipsoid generally matches the patient surface very well but feels smooth and stable. It makes scanning very easy</li>
+                        <li>As the test progresses, more points are measured and the ellipsoid is refined. If the new points are close to an existing one, the existing one is replaced. If they are not close, they are appended to the list of points. If the new points is far from the existing ellipsoid, it is ignored as an outlier.</li>
+                        <li>Since the force sensor is sensitive to probe orientation, it was easy to accidentally measure points in incorrect locations. I have therefore limited it so it only looks at the axial force in the ultrasound probe to decide whether to place a point. This seems very robust so far.</li>
+                        <li>The points are recorded in the world frame, not the haptic device frame, so the ellipsoid is stable in the world frame. If the expert side restarts, it renders the ellipsoid in the same location relative to the patient, so the virtual probe remains on the surface. The patient is bigger than the haptic device workspace, so the expert can clutch and move around, and the ellipsoid retains the correct correspondence to the patient, so the expert can scan all parts of the patient without messing up the haptics.</li>
+                        <li>When the points are measured, the follower has to push into the patient a bit, so they tend to be measured with a slight offset into the patient. This is ideal so that when the expert rests on the surface, the follower has to push a bit to track the motion, which is important for a good image. I even changed it to scale down the ellipsoid slightly because it was still a bit too much right on the surface</li>
+                        <li>I developed the ellipsoid fitting algorithm and it seems fast and robust. It can create an accurate fit with only 5 noisy points. To fit an ellipsoid, you need the centre and the semiaxis lengths, which makes 6 unknowns. Actually you need the orientation as well, which adds 4 elements, but for this purpose I have hard-coded it to be along the main coordinate axes since the patient always lies in the same direction. I've also hard-coded the x semiaxis to be very long, so we have 5 unknowns. The algorithm guesses a centre location: average(points) - (maxHeight(points)-minHeight(points))/2. This comes from the fact that we're probably only measuring the top half of the ellipse, so just using the centroid would always put the centre a bit too high. Next, we compute the semiaxes using very efficient nonlinear non-negative least squares regression. Given this semiaxis and centre, we compute the fit error and use one step of gradient descent to update the centre location. We now repeat the steps until convergence. It usually converges within 5-10 steps.</li>
+                    </ul>
+                </li>
+            </ul>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/p6IcUb3AKjM?si=YmDdO9b0aZJBFvc1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Ellipsoid controller:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BlAXUXhezHs?si=fik1nWiBk-Diu-dZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-// Change style of navbar on scroll
-window.onscroll = function() {myFunction()};
-function myFunction() {
-    var navbar = document.getElementById("myNavbar");
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-        navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
-    } else {
-        navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
-    }
-}
+            <p>Surface toggling:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7RLmrRqmWok?si=KbmXxehQEIBkKFo6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Being able to make larger motions is very important because the haptic device workspace is quite limited. I've implemented a few different methods, of which the best is almost certainly the clutching by holding the shift key:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0UFLtJTKFRI?si=QK3-MzVec7TuRXYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Other methods include (1) Magnification: hold the shift key and moving normally. The motion is scaled up significantly so it is possible to make large motions. (2) Dragging: when the haptic device hits the edge of the workspace, it automatically starts shifting the workspace in that direction. This is a bit annoying though, as the expert is often inadvertently close to the edge and it causes unwanted motions. (3) Joystick: this locks the haptic device in place and the expert can apply forces to move the virtual probe with velocity proportional to the applied force. This works well but is slightly unintuitive as the video stream is not great and it's really hard to tell how the probe is actually moving.</p>
+</div>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="issues">
+        <h4 id="issues-header">
+            Tips and Known Issues</h5>
+            <p>Expert side crash on Android disconnect: this happens occasionally and has something to do with how the expert side tries to delete and restart its communications.</p>
+            <p>Android drops communications after losing WiFi: the Android briefly loses WiFi fairly frequently on the UBC network. This does not cause the service or the app to restart, so it does not try to refresh the communications afterwards, though it does notice that it disconnected. Unfortunately, this means it subsequently will not reconnect until restarted.</p>
+            <p>Communication lag: after several minutes of running the system, the communication will sometimes start running very slowly. Restarting the expert-side communications fixes the problem immediately. I suspect this has something to do with buffers filling on the Android app (?). This has to be addressed ASAP.</p>
+            <p>Haptic device overheating: run the haptic device with a fan blowing air at it so it is less likely to overheat. Also keep forces as low as possible.</p>
+            <p>Haptic device pop-through: if the expert pops through the haptic device's virtual fixture and all haptics disappear, press ctrl-shift to re-enable the virtual surface.</p>
+    </div>
+    <div class="w3-content w3-container w3-padding-64" id="resources">
+        <h4 id="resources-header">Resources and Repos</h5>
+            <p>Here are the GitHub repos and other resources for the project:</p>
+            <ul>
+                <li><a href="https://github.com/dgblack/mirthus_master">Expert Side</a></li>
+                <li><a href="https://github.com/dgblack/mirthus_follower">Follower Side</a></li>
+                <li><a href="https://github.com/dgblack/mirthus_android">Android App</a></li>
+                <li><a href="https://github.com/dgblack/dmfs">Force Sensor</a></li>
+                <li><a href="https://github.com/dgblack/humanTeleopPhone">Low-cost System</a></li>
+            </ul>
+    </div>
+    </div>
 
-// Used to toggle the menu on small screens when clicking on the menu button
-function toggleFunction() {
-    var x = document.getElementById("navDemo");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else {
-        x.className = x.className.replace(" w3-show", "");
-    }
-}
-</script>
+    <!-- Footer -->
+    <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+        <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+        <div class="w3-xlarge w3-section">
+            <a href="https://github.com/dgblack"><i class="fa fa-github w3-hover-opacity"></i></a>
+            <a href="https://scholar.google.com/citations?user=As_yDKkAAAAJ&hl=en"><i class="fa fa-google w3-hover-opacity"></i></a>
+            <a href="https://twitter.com/BlackDavidG"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+            <a href="https://linkedin.com/in/davidgblack"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+        </div>
+        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+    </footer>
+
+    <script>
+        // Modal Image Gallery
+        function onClick(element) {
+            document.getElementById("img01").src = element.src;
+            document.getElementById("modal01").style.display = "block";
+            var captionText = document.getElementById("caption");
+            captionText.innerHTML = element.alt;
+        }
+
+        // Change style of navbar on scroll
+        window.onscroll = function () { myFunction() };
+        function myFunction() {
+            var navbar = document.getElementById("myNavbar");
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+            } else {
+                navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+            }
+        }
+
+        // Used to toggle the menu on small screens when clicking on the menu button
+        function toggleFunction() {
+            var x = document.getElementById("navDemo");
+            if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+            } else {
+                x.className = x.className.replace(" w3-show", "");
+            }
+        }
+    </script>
 </body>
 </html>
