@@ -1,12 +1,12 @@
-When two aircraft are approaching head-on or approximately so and there is danger of collision, each shall+alter heading to the right
-When two aircraft are on converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to+balloons
-Controlled Airspace means an airspace of defined dimensions within which+an Air Traffic Control (ATC) service is provided
-No person shall attempt to fly as a flight crew member of a glider if+experiencing a physical disability likely to prohibit immediate licence renewal
-Aircraft shall not be flown over the built-up areas of any city, town or other settlement except at an altitude of at least+1000 feet
-A steady green light directed at an aircraft in flight means+cleared to land
-In radio communications the signal which means that grave and imminent danger threatens and immediate assistance is required is the spoken phrase+MAYDAY, MAYDAY, MAYDAY
-A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to+the elevation of the aerodrome
-The minimum flight visibility for VFR flight in a Control Area is+3 miles
+When two aircraft are approaching head-on or approximately so and there is danger of collision, each shall+alter heading to the right+alter heading to the left+alter attitude down+turn on the anti-collision light
+When two aircraft are on converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to+balloons+"heavy" aeroplanes+rotary wing aircraft+airships
+Controlled Airspace means an airspace of defined dimensions within which+an Air Traffic Control (ATC) service is provided+aircraft require SCATANA clearance+only aircraft equipped with functioning two-way radio may operate+Control is provided for IFR traffic only
+No person shall attempt to fly as a flight crew member of a glider if+experiencing a physical disability likely to prohibit immediate license renewal+less than 5 take-offs and landings have been completed in the preceding six months+within the preceding 14 hours, alcohol has been consumed+less than 5 supervised take-offs and landings have been completed in the preceding six months
+Aircraft shall not be flown over the built-up areas of any city, town or other settlement except at an altitude of at least+500 feet+1000 feet+2000 feet + 3000 feet
+A steady green light directed at an aircraft in flight means+cleared to land+return for landing+cleared to base leg+cleared for final
+In radio communications the signal which means that grave and imminent danger threatens and immediate assistance is required is the spoken phrase+SECURITE, SECURITE+MAYDAY, MAYDAY, MAYDAY+PAN PAN, PAN PAN, PAN PAN+ALERT, ALERT
+A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to+the mean sea level pressure of the aerodrome+the standard ressure setting+the elevation of the aerodrome+zero
+The minimum flight visibility for VFR flight in a Control Area is+6 miles+3 miles+2 miles+1 mile
 Every owner of an aircraft shall preserve the Aircraft Journey Log for+one year after the date of the last entry in the log
 An Air Traffic Control instruction+requires compliance when received unless aircraft safety is jeopardized
 Pilots are warned of the dangerous turbulence existing in the wake of large aeroplane in flight. The turbulence referred to is caused by+expanding wing tip vortices
