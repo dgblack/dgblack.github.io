@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HAGAR Quiz</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f5f8ff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background: white;
+      border-radius: 16px;
+      padding: 30px 40px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      width: 100%;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 24px;
+      color: #2c3e50;
+      margin-bottom: 20px;
+    }
+
+    #question-text {
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: #34495e;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: 600;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    #correct-answer {
+      margin-top: 15px;
+      font-size: 16px;
+      color: #27ae60;
+      font-weight: 600;
+    }
+
+    #error {
+      color: red;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🪂 HAGAR Practice Quiz</h1>
+    <div id="quiz-box" style="display:none;">
+      <p id="question-text"></p>
+      <input type="text" id="user-answer" placeholder="Type your answer..." />
+      <button id="submit-answer">Submit</button>
+      <div id="correct-answer"></div>
+      <button id="next-button" style="display:none;">Next Question</button>
+    </div>
+    <div id="error"></div>
+  </div>
+
+  <script>
+    let questions = [];
+    let currentIndex = 0;
+
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+
+    function displayQuestion() {
+      if (currentIndex >= questions.length) {
+        currentIndex = 0;
+        shuffleArray(questions);
+      }
+      document.getElementById('user-answer').value = '';
+      document.getElementById('correct-answer').innerText = '';
+      document.getElementById('next-button').style.display = 'none';
+      const question = questions[currentIndex][0];
+      document.getElementById('question-text').innerText = question;
+    }
+
+    function loadCSV() {
+      fetch('files/hagar_questions.txt')
+        .then(response => {
+          if (!response.ok) throw new Error("File not found or inaccessible");
+          return response.text();
+        })
+        .then(text => {
+          const lines = text.split('\n').filter(line => line.trim() !== '');
+          questions = lines.map(line => {
+            const cells = line.split('+').map(cell => cell.trim());
+            return [cells[0], cells[1]]; // question in column 2, answer in column 3
+          });
+          shuffleArray(questions);
+          document.getElementById('quiz-box').style.display = 'block';
+          displayQuestion();
+        })
+        .catch(error => {
+          document.getElementById('error').innerText = `⚠️ Failed to load CSV: ${error.message}`;
+        });
+    }
+
+    function submitAnswer() {
+  	const correctAnswer = questions[currentIndex][1];
+  	document.getElementById('correct-answer').innerText = `Correct Answer: ${correctAnswer}`;
+  	document.getElementById('next-button').style.display = 'inline-block';
+    }
+
+    document.getElementById('submit-answer').addEventListener('click', submitAnswer);
+
+    document.getElementById('user-answer').addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        event.preventDefault(); // Prevent form submission or accidental refresh
+        submitAnswer();
+      }
+    });
+
+    document.getElementById('next-button').addEventListener('click', function() {
+      currentIndex++;
+      displayQuestion();
+    });
+
+    window.onload = loadCSV;
+  </script>
+</body>
+</html>
