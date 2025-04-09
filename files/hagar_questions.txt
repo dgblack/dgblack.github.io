@@ -1,0 +1,142 @@
+When two aircraft are approaching head-on or approximately so and there is danger of collision, each shall+alter heading to the right
+When two aircraft are on converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to+balloons
+Controlled Airspace means an airspace of defined dimensions within which+an Air Traffic Control (ATC) service is provided
+No person shall attempt to fly as a flight crew member of a glider if+experiencing a physical disability likely to prohibit immediate licence renewal
+Aircraft shall not be flown over the built-up areas of any city, town or other settlement except at an altitude of at least+1000 feet
+A steady green light directed at an aircraft in flight means+cleared to land
+In radio communications the signal which means that grave and imminent danger threatens and immediate assistance is required is the spoken phrase+MAYDAY, MAYDAY, MAYDAY
+A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to+the elevation of the aerodrome
+The minimum flight visibility for VFR flight in a Control Area is+3 miles
+Every owner of an aircraft shall preserve the Aircraft Journey Log for+one year after the date of the last entry in the log
+An Air Traffic Control instruction+requires compliance when received unless aircraft safety is jeopardized
+Pilots are warned of the dangerous turbulence existing in the wake of large aeroplane in flight. The turbulence referred to is caused by+expanding wing tip vortices
+No person shall walk, drive or park any vehicle on any part of an airport used for the movement of aircraft, except in accordance with permission given by the appropriate ATC unit or, in the absence of any such unit, by+the operator of the airport
+Pilots should be aware that an early symptom of hypoxia (lack of oxygen) is a sense of+well-being
+Day in Canada is defined as that period of time between+the beginning of morning civil twilight and the end of evening civil twilight
+The filing of a flight plan or itinerary is only required when a glider pilot plans to proceed+more than 25 NM from departure point
+The pilot-in-command of a glider shall not fly at cabin pressure altitudes between 13,000 and 15,000 feet above MSL+unless continuously wearing and using oxygen masks supplying oxygen
+The total lift force acting on an aerofoil in flight is considered to act+at 90º to the average relative air flow
+At the point of stall an increase in the angle of attack results in+less lift and more drag
+Longitudinal stability refers to stability about the+lateral axis
+The stalling speed of a glider is+greater in coordinated turns than in straight and level flight
+The ratio of the total lift force acting on the wings of a glider during flight to the gross weight of the glider is known as the+load factor
+In straight and level flight at 6,000 feet ASL a glider stalls at 35 KT IAS. At what IAS will it stall in similar circumstances in the circuit at 1,000 feet ASL?+35 KT
+While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to+fly to the left of the tug and rock the glider’s wings
+At a gliding ratio of 15:1, a glider descending 1,000 feet in still air will move forward a distance closest to+2.5 NM
+In gliding, an important use of wing spoilers is to+increase the rate of descent at the same airspeed
+To maintain an IAS of 50 KT during an approach through a wind gradient where the head wind is decreasing, the pilot should+pitch the nose down
+Which wind velocity will permit landing within crosswind limit 090 /10 KT on runway 27?+290  M/20 KT
+When turning from downwind to base leg for landing, a strong wind could cause a pilot to experience an illusion of+skidding
+A straight line drawn between any two points on this chart most closely approximates a+great circle
+The elevation of Carp Airport (N45 19', W76 01') is+382 feet
+An aircraft in flight at an altitude of 2500 ASL feet over Carp Airport would be flying+in controlled airspace
+The object of swinging a compass is to minimize error and record the+deviation on various headings
+On checking the altimeter the next morning after pressure drops sharply overnight, you would expect the indicated altitude to be+higher than 520 feet
+The most important element in the atmosphere from the weather standpoint is+water vapour
+Clouds which form when moist warm air overruns cold air, are caused because the warm air+cools as a result of expansion as it rises
+Wind is caused by+horizontal pressure differences
+In the northern hemisphere, the winds blow+clockwise around a high and counter-clockwise around a low
+During a descent from 2,000 feet AGL to the surface you will usually find that the wind+backs and decreases
+The lapse rate is the rate of change of+temperature with height
+Air masses which are being cooled from below are characterized by+fog, poor visibility and layer cloud
+Sequence of cirrus, altostratus, nimbostratus clouds indicates+the passage of a warm front
+Which clouds have the international family prefix Cumulo?+Clouds of vertical development
+Unless otherwise noted, cloud bases are forecast in height+ASL in the Area Forecast and AGL in the TAF
+Regarding cloud amount, the words overcast and broken mean respectively+8/8 and 5/8 to 7/8 cloud
+What is the definition of an aircraft under Canadian Aviation Regulations?+Any man-made object that flies. Includes gliders, hang gliders, paragliders, etc.
+Are hang gliders required to have airworthiness certification?+No, hang gliders are exempt from airworthiness certification.
+What is the minimum age to write the HAGAR exam?+16 years old.
+Define day and night as per aviation regulations.+Day: From the start of morning civil twilight to end of evening civil twilight; Night: From the end of evening civil twilight to the start of morning civil twilight.
+What does FL240 mean?+FL240 = 24,000 feet with altimeter set to 29.92 inHg or 1013.2 mb.
+What is a Mandatory Frequency (MF) area?+A designated area around an uncontrolled aerodrome where use of a specific radio frequency is mandatory.
+What is the minimum passing mark for the HAGAR examination?+60%
+Can hang gliders fly at night?+No
+What are the regulations surrounding drug and alcohol use before flying?+You cannot fly: Within 12 hours of drinking alcohol; While under the influence of alcohol or impairing drugs; With an intoxicated passenger
+Who has the right-of-way: a glider or a balloon?+Balloon
+What should a pilot do if they have the right of way but the other aircraft has a problem or emergency?+Yield the right-of-way.
+Can you fly a hang glider while fatigued?+No.
+Under what conditions can you fly over a built-up area?+Only if landing or taking off from a certified airport and without creating a hazard.
+When overtaking another aircraft, on which side should you pass?+On the right.
+What is the minimum altitude required over an open-air assembly of people?+1,000 feet above the highest obstacle within 2,000 feet horizontally (for airplanes).
+What are the restrictions for aerobatic flight?+Cannot be conducted above populated areas, without authorization, or with passengers unless a certified instructor.
+Can a hang glider drop objects mid-flight?+Only if it does not create a hazard
+What are the requirements for flying a hang glider in Class E airspace?+Pilot must: Be at least 16 years old; Have a Category 1, 3, or 4 medical certificate; Have passed the HAGAR; Be on a cross-country flight; Inform the nearest FSS
+Describe Class G airspace.+Uncontrolled airspace. No ATC services provided.
+What are the radio requirements for flying in Class D airspace?+Must have a radio and establish two-way communication before entry.
+Which classes of airspace require ATC clearance for VFR aircraft?+Class B and Class C require clearance for VFR aircraft.
+Can a hang glider enter Class A airspace?+No, Class A is IFR only.
+What is a Control Zone (CZ)?+Airspace around an airport from ground level upward, usually controlled.
+What is the purpose of a Terminal Control Area (TCA)?+To manage high traffic density near large airports; surrounds control zones.
+How does Class C airspace differ from Class D in terms of ATC authority?+In Class C, ATC can deny entry to VFR aircraft; in Class D, ATC cannot deny entry if conditions are met.
+What are the characteristics of Class F advisory airspace?+Identified as CYA, for advisory use. Pilots can enter but must exercise caution.
+What does CYA326(H) represent?+A Class F Advisory area for Hang Gliding.
+Can hang gliders operate in Class B airspace?+Yes, with ATC clearance and if requirements are met (e.g., HAGAR, radio).
+What altitude does Class A airspace begin in the Southern Domestic Airspace?+18,000 feet ASL.
+What airspace class exists between 12,500' ASL and 18,000' ASL?+Class B.
+Is ATC separation provided for VFR traffic in Class E?+No, only for IFR traffic.
+What must a hang glider have to operate in Class D?+Two-way communication with ATC.
+Who provides ATC services in Class C airspace?+Control towers and terminal control units.
+Can hang gliders fly in Class C without HAGAR?+Yes, though Class E requires HAGAR; Class C has no specific HAGAR requirement in CARs.
+What is required to fly a hang glider in Class E airspace?+Age 16+, Category 1/3/4 medical, HAGAR pass, compass, altimeter, and FSS notification.
+When must a hang glider radio be used?+In Class D airspace or MF areas.
+Can hang gliders enter Class F restricted airspace (CYR)?+Only with authorization.
+What is the minimum visibility required for VFR flight in controlled airspace?+3 miles visibility.
+Under what conditions can you fly VFR below 1,000ft AGL in uncontrolled airspace?+500 feet vertically from clouds, 1 mile horizontally from clouds
+What does maintaining visual reference to the surface mean?+Maintain visual reference to the surface.
+What are the cloud clearance requirements in controlled airspace?+Day: 2 miles visibility, clear of cloud; Night: 3 miles visibility, clear of cloud.
+What is the minimum required visibility for night VFR in uncontrolled airspace?+You can see the ground or water at all times. 500 ft vertical, 1 mile horizontal separation from clouds. 3 miles visibility.
+What type of chart projection is used in VNC charts?+Lambert conformal conic projection.
+What is the difference between a VNC and a VTA?+VTA charts are more detailed and cover smaller areas.
+How are Class E control zones depicted on a VNC?+With a dashed magenta circle and airport symbol.
+How would you determine magnetic variation on a VNC?+Look for the isogonic lines and read the value along them (e.g., 8°W).
+What tools should you bring to the HAGAR exam for map work?+Ruler, protractor, and calculator.
+What is the scale of a VFR Navigation Chart (VNC)?+1:500,000.
+What projection is used in VNCs for Canadian aviation?+Lambert Conformal Conic Projection.
+What is a Terminal Control Area (TCA)?+Airspace surrounding a control zone with layered controlled airspace above it, usually Class C or D.
+How is Class C airspace depicted on a VNC?+Solid magenta line.
+What class of airspace is not specifically depicted on a VNC?+Class G.
+What is a Control Area Extension (CAE)?+Class E airspace extending upward from 700' or 1,200' to controlled airspace above.
+What does a dashed magenta line indicate?+Class E Control Zone.
+How are aerodromes with MF areas shown on a VNC?+Magenta circle with the frequency shown.
+What does an isogonic line indicate?+Line of equal magnetic variation.
+What does it mean when a VNC chart shows UNICOM 123.0?+The frequency used to communicate with a Flight Service Station or airport operator.
+What is the best way to determine distance on a VNC?+Use a ruler and the latitude scale (1  = 60 NM).
+What is the purpose of the compass rose around VORs?+To assist pilots in determining bearing to/from the VOR.
+How wide is a VHF airway on each side of the centerline?+4.34 NM minimum.
+How do you find the magnetic track from one point to another?+Measure the true course and apply magnetic variation from the nearest isogonic line.
+How is the height of an obstruction shown on a VNC?+Two numbers: height ASL and height AGL in parentheses.
+What are isogonic lines labeled with?+Degrees of magnetic variation (e.g., 10 W).
+What is the MEA?+Minimum Enroute Altitude ensures signal coverage and obstacle clearance.
+Where are MEAs found?+IFR Enroute Charts, not VNCs.
+How can a pilot know if a charted airspace is active full-time?+Refer to the Canada Flight Supplement (CFS) for operating hours.
+What does “ELT” stand for?+Emergency Locator Transmitter.
+What reports are required when flying through an MF area?+5 minutes before entering, upon entry, when exiting the area
+What are the communication requirements for operating in a MF area without a radio?+You must: notify the ground station in advance, visually check for traffic, join the circuit with downwind and base legs
+What is a NOTAM and how is it accessed?+Notice to Airmen accessed via NavCanada's website.
+What should you do before commencing a flight in terms of weather?+Review current and forecasted weather for the route and destination.
+What is the purpose of an altimeter and how is it set in the altimeter-setting region?+Set to aerodrome altimeter setting before takeoff and landing; In flight: set to nearest station or one along the route; In standard pressure region: set to 29.92 inHg
+What are the symptoms of hypoxia?+Symptoms include confusion, impaired judgment, bluish lips, dizziness, fatigue.
+What altitude requires oxygen if flight exceeds 30 minutes?+If above 10,000 ft ASL for more than 30 minutes; always above 13,000 ft
+Why is hyperventilation dangerous in flight?+Causes dizziness, visual impairment, confusion, possibly loss of consciousness.
+Are medications permitted during flight?+Only if they do not impair faculties and are not prohibited.
+How can visual disorientation be mitigated during flight?+Use scanning techniques, avoid rapid head movement, and ensure external reference.
+What does “pilotage” mean?+Navigation by visual reference to landmarks.
+How should you alter course to avoid head-on collision?+Alter heading to the right.
+What are signs of disorientation?+Loss of spatial awareness, confusion, nausea.
+What is spatial disorientation commonly caused by?+Conflicting signals from vision and inner ear.
+How can you reduce disorientation in flight?+Maintain outside visual references, avoid rapid head movements.
+When is a pilot required to have oxygen?+Over 10,000 ft ASL for more than 30 minutes, or At any time above 13,000 ft ASL
+What are the effects of dehydration on pilots?+Fatigue, confusion, decreased concentration.
+What is the best defense against hypoxia?+Use supplemental oxygen and descend.
+Why is good vision scanning important?+To avoid mid-air collisions, especially under VFR.
+How can you combat fatigue before flying?+Get proper rest, avoid alcohol, and hydrate.
+When must you report position in an MF area upon arrival?+5 minutes before entering, when joining circuit, downwind, final, and clear of runway.
+Can you land at an uncontrolled airport in an MF area without a radio?+Yes, with prior notice and visual procedures.
+What does FIC stand for?+Flight Information Centre.
+What is UNICOM used for?+Communication at uncontrolled airports when FSS is not available.
+What is the minimum communication requirement in a Class D zone?+Establish two-way contact with ATC before entry.
+Is it mandatory to read back ATC clearances for VFR?+Only when requested by ATC.
+Who is responsible for separation in Class D?+ATC separates IFR from IFR and VFR from IFR, but not VFR from VFR.
+Can you cross a runway during taxi without clearance at a controlled airport?+No, you must receive and comply with all taxi instructions.
+What is the standard VHF communication frequency for emergency?+121.5 MHz.
+How do you declare an emergency by radio?+Say MAYDAY, MAYDAY, MAYDAY followed by your message.
