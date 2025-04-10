@@ -107,7 +107,7 @@
     }
 
     function loadCSV() {
-      fetch('hagar_questions.txt')
+      fetch('files/hagar_questions.txt')
         .then(response => {
           if (!response.ok) throw new Error("File not found or inaccessible");
           return response.text();
