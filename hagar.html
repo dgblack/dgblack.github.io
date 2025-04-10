@@ -1,155 +1,252 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>HAGAR Practice Quiz</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>HAGAR Practice Questions</title>
   <style>
     body {
-      font-family: 'Inter', sans-serif;
-      background: #f5f8ff;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f7fa;
+      color: #333;
+      padding: 2rem;
       display: flex;
       justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      margin: 0;
     }
 
-    .container {
-      background: white;
+    .quiz-card {
+      background: #fff;
       border-radius: 16px;
-      padding: 30px 40px;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      padding: 2rem;
       max-width: 600px;
       width: 100%;
-      text-align: center;
     }
 
     h1 {
-      font-size: 24px;
-      color: #2c3e50;
-      margin-bottom: 20px;
+      text-align: center;
+      color: #2a7ab9;
+      margin-bottom: 1rem;
     }
 
-    #question-text {
-      font-size: 20px;
-      margin-bottom: 20px;
-      color: #34495e;
+    .question {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .option {
+      margin: 0.5rem 0;
+      background: #f0f3f7;
+      padding: 0.75rem 1rem;
+      border-radius: 10px;
+      transition: background 0.2s;
+    }
+
+    .option:hover {
+      background: #e0ebf5;
+    }
+
+    input[type="radio"] {
+      margin-right: 0.5rem;
+    }
+
+    .button-row {
+      margin-top: 1.5rem;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
     }
 
     button {
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: 600;
-      border: none;
-      border-radius: 8px;
-      background-color: #007bff;
+      background-color: #2a7ab9;
       color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 10px;
       cursor: pointer;
-      margin-top: 10px;
+      font-size: 1rem;
     }
 
     button:hover {
-      background-color: #0056b3;
+      background-color: #1d5c91;
     }
 
-    #correct-answer {
-      margin-top: 15px;
-      font-size: 16px;
-      color: #27ae60;
-      font-weight: 600;
+    #feedback {
+      margin-top: 1rem;
+      font-weight: bold;
     }
 
-    #error {
-      color: red;
-      margin-top: 20px;
+    #feedback.correct {
+      color: #1aaf5d;
     }
 
-    #note {
-	font-size: 12px;
+    #feedback.incorrect {
+      color: #d93f3f;
     }
+
+    .hidden {
+      display: none;
+    }
+
+    .jump-box {
+      margin-top: 1.5rem;
+      text-align: center;
+    }
+
+    .jump-box input {
+      width: 50px;
+      padding: 0.4rem;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      margin-right: 0.5rem;
+      text-align: center;
+    }
+
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>🪂 HAGAR Practice Quiz</h1>
-    <div id="quiz-box" style="display:none;">
-      <p id="question-text"></p>
-      <button id="see-answer" style="display:inline-block;">See Answer</button>
-      <div id="correct-answer"></div>
-          <button id="next-button" style="display:none;">Next Question</button>
-      </div>
-      <div id="error"></div>
-      <p id="note">Note, many of these questions are AI generated so the answers may not be completely accurate. For questions that seem to be missing a map or figure, it is probably from the example exams found <a href="https://www.hpac.ca/pilots/transport-canada-air-regs-hagar/hagar/">here</a></p>
+  <div class="quiz-card">
+    <h1>🪂 HAGAR Practice Questions</h1>
+    <div id="quiz-container">Loading...</div>
+    <div class="button-row">
+      <button id="next-btn" style="display:none;">Next Question</button>
+    </div>
+    <div class="jump-box">
+      <input type="number" id="jump-input" min="1" placeholder="#" />
+      <button onclick="jumpToQuestion()">Go</button>
+    </div>
+    <p id="note"><a href="https://mapviewer.fltplan.com/?USER=PILOT&DEPTARPT=&ARRARPT=&maptype=jet" target="_blank">VNC 🗺️</a></p>
+    <p id="note">Note, these questions are open-sourced or AI generated so the answers may not be completely accurate. For questions that seem to be missing a map or figure, it is probably from the example exams found <a href="https://www.hpac.ca/pilots/transport-canada-air-regs-hagar/hagar/">here</a></p>
   </div>
 
   <script>
+    const spreadsheetId = '1LLVtJHigDCKRSx5ODbbgAh_GoIS60uGFXCI7nixoy0o';
+    const sheetId = '117067908';
+    const sheetName = 'Form Responses 1';
+    const query = encodeURIComponent('SELECT B, C, D, E, F, G');
+    const url = `https://docs.google.com/spreadsheets/d/${spreadsheetId}/gviz/tq?tq=${query}`;
+
     let questions = [];
-    let currentIndex = 0;
+    let currentQuestionIndex = 0;
 
-    function shuffleArray(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
+    fetch(url)
+      .then(res => res.text())
+      .then(data => {
+        const json = JSON.parse(data.match(/(?<=setResponse\().*(?=\);)/s)[0]);
+        const rows = json.table.rows;
+
+        questions = rows.map(row => ({
+          question: row.c[0]?.v || '',
+          options: [row.c[1]?.v, row.c[2]?.v, row.c[3]?.v, row.c[4]?.v].filter(opt => !!opt),
+          correct: row.c[5]?.v?.trim().toUpperCase()
+        }));
+
+	const savedIndex = parseInt(localStorage.getItem("quiz_current_index"));
+        if (!isNaN(savedIndex) && savedIndex >= 0 && savedIndex < questions.length) {
+          currentQuestionIndex = savedIndex;
+        }
+
+        showQuestion();
+      });
+
+    function showQuestion() {
+      const q = questions[currentQuestionIndex];
+      const container = document.getElementById('quiz-container');
+
+      const isSingleOption = q.options.length === 1;
+
+      container.innerHTML = `
+      <div class="question">Q${currentQuestionIndex + 1}: ${q.question}</div>
+      <div id="options-container" class="${isSingleOption ? 'hidden' : ''}">
+        ${q.options.map((opt, i) => `
+          <div class="option">
+            <label>
+              <input type="radio" name="answer" value="${'ABCD'[i]}"> ${opt}
+            </label>
+          </div>
+        `).join('')}
+      </div>
+      <div class="button-row">
+        <button onclick="goToPrevious()">Previous</button>
+        <button onclick="checkAnswer()">Submit</button>
+        <button onclick="goToNext()">Next</button>
+      </div>
+      <div id="feedback"></div>
+    `;
+
+      document.getElementById('next-btn').style.display = 'none';
+    }
+
+    function checkAnswer() {
+      const q = questions[currentQuestionIndex];
+      const selected = document.querySelector('input[name="answer"]:checked');
+      const feedback = document.getElementById('feedback');
+
+      const isSingleOption = q.options.length === 1;
+
+      if (isSingleOption) {
+        document.getElementById('options-container').classList.remove('hidden');
+        feedback.innerHTML = `Answer: <strong>${q.options[0]}</strong>`;
+        feedback.className = 'correct';
+      } else {
+        if (!selected) return alert('Please select an answer!');
+        const chosen = selected.value;
+        const correct = q.correct;
+
+        if (chosen === correct) {
+          feedback.innerHTML = '✅ Correct!';
+          feedback.className = 'correct';
+        } else {
+          feedback.innerHTML = `❌ Incorrect. Correct answer is ${correct}.`;
+          feedback.className = 'incorrect';
+        }
       }
+
+      document.getElementById('next-btn').style.display = 'inline';
     }
 
-    function displayQuestion() {
-      if (currentIndex >= questions.length) {
-        currentIndex = 0;
-        shuffleArray(questions);
-      }
-      document.getElementById('correct-answer').innerText = '';
-      document.getElementById('next-button').style.display = 'none';
-      const question = questions[currentIndex][0];
-      document.getElementById('question-text').innerText = question;
-    }
-
-    function loadCSV() {
-      fetch('files/hagar_questions.txt')
-        .then(response => {
-          if (!response.ok) throw new Error("File not found or inaccessible");
-          return response.text();
-        })
-        .then(text => {
-          const lines = text.split('\n').filter(line => line.trim() !== '');
-          questions = lines.map(line => {
-            const cells = line.split('+').map(cell => cell.trim());
-            return [cells[0], cells[1]]; // question in column 2, answer in column 3
-          });
-          shuffleArray(questions);
-          document.getElementById('quiz-box').style.display = 'block';
-          displayQuestion();
-        })
-        .catch(error => {
-          document.getElementById('error').innerText = `⚠️ Failed to load Questions: ${error.message}`;
-        });
-    }
-
-    function submitAnswer() {
-  	const correctAnswer = questions[currentIndex][1];
-  	document.getElementById('correct-answer').innerText = `Correct Answer: ${correctAnswer}`;
-  	document.getElementById('next-button').style.display = 'inline-block';
-	document.getElementById('see-answer').style.display = 'none';
-    }
-
-    document.getElementById('see-answer').addEventListener('click', submitAnswer);
-
-    document.getElementById('see-answer').addEventListener('keydown', function(event) {
-      if (event.key === 'Enter') {
-        event.preventDefault(); // Prevent form submission or accidental refresh
-        submitAnswer();
+    document.getElementById('next-btn').addEventListener('click', () => {
+      setCurrentQuestion(currentQuestionIndex+1);
+      if (currentQuestionIndex < questions.length) {
+        showQuestion();
+      } else {
+        document.getElementById('quiz-container').innerHTML = '<strong>🎉 Quiz complete! Well done!</strong>';
+        document.getElementById('next-btn').style.display = 'none';
       }
     });
 
-    document.getElementById('next-button').addEventListener('click', function() {
-      currentIndex++;
-      document.getElementById('see-answer').style.display = 'inline-block';
-      displayQuestion();
-    });
+    function goToNext() {
+      if (currentQuestionIndex < questions.length - 1) {
+        setCurrentQuestion(currentQuestionIndex+1);
+        showQuestion();
+      } else {
+        document.getElementById('quiz-container').innerHTML = '<strong>🎉 Quiz complete! Well done!</strong>';
+      }
+    }
 
-    window.onload = loadCSV;
+    function goToPrevious() {
+      if (currentQuestionIndex > 0) {
+        setCurrentQuestion(currentQuestionIndex-1);
+        showQuestion();
+      }
+    }
+
+    function jumpToQuestion() {
+      const input = document.getElementById('jump-input');
+      const val = parseInt(input.value);
+      if (isNaN(val) || val < 1 || val > questions.length) {
+        alert(`Please enter a valid question number between 1 and ${questions.length}`);
+        return;
+      }
+      setCurrentQuestion(val - 1);
+      showQuestion();
+    }
+
+    function setCurrentQuestion(index) {
+      currentQuestionIndex = index;
+      localStorage.setItem("quiz_current_index", index);
+      showQuestion();
+    }
   </script>
 </body>
 </html>
